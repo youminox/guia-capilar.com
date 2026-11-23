@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "resenas-tratamientos-y-productos",
+    "name": "Reseñas de Tratamientos, Mascarillas y Productos",
+    "short": "Reseñas Amazon",
+    "icon": "flask",
+    "isTransactional": true,
+    "description": "Análisis individuales a fondo de K18, Olaplex No. 0/3/4/4P/5/6/7/8/9, Redken Acidic Bonding, L’Oréal Metal Detox, Color Wow, Elizavecca CER-100, Kérastase, Moroccanoil, Fanola y protectores térmicos con forma de uso y costo real por aplicación en Amazon EE. UU."
+  },
+  {
+    "slug": "comparativas",
+    "name": "Comparativas Directas (K18 vs Olaplex y más)",
+    "short": "Comparativas VS",
+    "icon": "scale",
+    "isTransactional": true,
+    "description": "Duelos cara a cara entre los tratamientos, mascarillas, champús matizadores y protectores térmicos líderes: comparamos mecanismo molecular, tipo de cabello ideal, minutos de espera y costo por aplicación en dólares."
+  },
+  {
+    "slug": "mejores-productos-capilares",
+    "name": "Mejores Productos Capilares en Amazon EE. UU.",
+    "short": "Rankings Amazon",
+    "icon": "trophy",
+    "isTransactional": true,
+    "description": "Rankings y guías de compra en Amazon Estados Unidos: mejores tratamientos para cabello decolorado y chicloso, mejores mascarillas para pelo teñido, mejores champús sin sulfatos y violetas, y mejores protectores térmicos."
+  },
+  {
+    "slug": "cabello-decolorado-y-danado",
+    "name": "Rescate de Cabello Decolorado, Chicloso y Dañado",
+    "short": "Decolorado & Rescate",
+    "icon": "sparkles",
+    "isTransactional": false,
+    "description": "Protocolos clínicos para recuperar el cabello decolorado nivel 7 a 10 platino, rescatar hebras chiclosas o elásticas al mojarse, frenar el corte químico y restaurar la elasticidad del córtex."
+  },
+  {
+    "slug": "protocolos-k18-olaplex-y-plex",
+    "name": "Protocolos de Uso: K18, Olaplex y Reconstructores Plex",
+    "short": "Protocolos K18/Olaplex",
+    "icon": "dna",
+    "isTransactional": false,
+    "description": "Guías paso a paso sobre cómo aplicar correctamente K18 (regla de los 4 minutos sin acondicionador), cómo combinar Olaplex No. 0 + No. 3 en húmedo, orden de capas (layering) y errores que anulan su efecto."
+  },
+  {
+    "slug": "cabello-tenido-y-matizacion",
+    "name": "Cabello Teñido, Mechas Balayage y Matización",
+    "short": "Teñido & Matización",
+    "icon": "palette",
+    "isTransactional": false,
+    "description": "Cómo mantener el color intacto y neutralizar tonos indeseados: tiempos exactos del champú violeta (anti-amarillo) y azul (anti-naranja), cuidado de rubios ceniza, cobrizos, rojos y castaños iluminados."
+  },
+  {
+    "slug": "mascarillas-hidratacion-y-proteinas",
+    "name": "Mascarillas Capilares: Hidratación vs Proteínas",
+    "short": "Mascarillas & Nutrición",
+    "icon": "droplet",
+    "isTransactional": false,
+    "description": "Cuándo elegir una mascarilla reconstructora con queratina, colágeno o aminoácidos frente a una mascarilla hidratante/lipídica libre de proteínas, tiempos de exposición y diagnóstico de sobrecarga proteica."
+  },
+  {
+    "slug": "champus-sulfatos-y-lavado",
+    "name": "Champús Sin Sulfatos, Quelantes y Técnica de Lavado",
+    "short": "Champús & Lavado",
+    "icon": "shower",
+    "isTransactional": false,
+    "description": "Ciencia del lavado en cabello teñido o decolorado: cuándo usar champú sin sulfatos de pH ácido (4.5–5.5), cuándo hacer detox quelante contra el cloro y metales del agua dura, técnica pre-poo y frecuencia ideal."
+  },
+  {
+    "slug": "protectores-termicos-y-secado",
+    "name": "Protectores Térmicos, Secador y Plancha sin Daño",
+    "short": "Protectores Térmicos",
+    "icon": "flame",
+    "isTransactional": false,
+    "description": "Termoprotección científica hasta 450 °F (230 °C): diferencias entre protectores en spray y en crema para húmedo o seco, temperaturas máximas seguras de plancha en pelo decolorado y sellado anti-frizz."
+  },
+  {
+    "slug": "tipo-de-cabello-y-porosidad",
+    "name": "Rutinas por Tipo de Cabello, Grosor y Porosidad",
+    "short": "Porosidad & Textura",
+    "icon": "sliders",
+    "isTransactional": false,
+    "description": "Cómo adaptar los tratamientos si tu cabello decolorado es fino y se apelmaza, grueso y rebelde, o rizado/ondulado (patrones 2A a 4C), junto con pruebas y rutinas para porosidad alta, media y baja."
+  },
+  {
+    "slug": "costo-por-aplicacion-y-dosificacion",
+    "name": "Costo por Aplicación, Rendimiento y Dosificación en ml",
+    "short": "Costo por Aplicación",
+    "icon": "calculator",
+    "isTransactional": false,
+    "description": "Economía capilar inteligente: tablas exactas de cuántos mililitros o pumps usar según el largo de tu pelo, cuántas aplicaciones rinde cada tamaño de K18 y Olaplex en Amazon EE. UU. y cómo no desperdiciar producto."
+  },
+  {
+    "slug": "ingredientes-y-ciencia-capilar",
+    "name": "Ingredientes, Activos y Ciencia Tricológica",
+    "short": "Ciencia & INCI",
+    "icon": "microscope",
+    "isTransactional": false,
+    "description": "Química cosmética explicada fácil: cómo actúan el péptido sh-Oligopeptide-78, el Bis-Aminopropyl Diglycol Dimaleate, el ácido cítrico, la glicoamina, las siliconas inteligentes (amodimeticona), las ceramidas y el 18-MEA."
+  }
+]
