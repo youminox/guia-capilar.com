@@ -81,6 +81,13 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="es" className={`${outfit.variable} ${inter.variable}`}>
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1070738569472471"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body className="antialiased selection:bg-[#E8B86D] selection:text-[#191311]">
         <JsonLd
           data={{
