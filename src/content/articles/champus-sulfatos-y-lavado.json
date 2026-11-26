@@ -3,159 +3,133 @@
   "pillar": "champus-sulfatos-y-lavado",
   "path": "/champus-sulfatos-y-lavado/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "champús sin sulfatos y quelantes para cabello teñido",
   "title": "Champús Sin Sulfatos, Quelantes Anti-Metales y Técnica de Lavado para Pelo Teñido",
-  "seoTitle": "Champús Sin Sulfatos y Quelantes para Cabello Teñido o Decolorado: Guía de Lavado",
-  "metaDescription": "Champús Sin Sulfatos, Quelantes Anti-Metales y Técnica de Lavado para Pelo Teñido: hub completo con 55 guías sobre tensioactivos suaves sin sulfatos, champús quelantes con glicoamina o ácido salicílico para eliminar cobre, cloro y sarro de agua dura, técnica pre-poo, pH 4.5–5.5 y frecuencia de lavado y ofertas en Amazon EE. UU. y España.",
-  "excerpt": "Explora las 55 guías especializadas de este silo sobre tensioactivos suaves sin sulfatos, champús quelantes con glicoamina o ácido salicílico para eliminar cobre, cloro y sarro de agua dura, técnica pre-poo, pH 4.5–5.5 y frecuencia de lavado.",
-  "quickAnswer": "En esta sección principal de Champús Sin Sulfatos, Quelantes Anti-Metales y Técnica de Lavado para Pelo Teñido reunimos 55 guías verificadas sobre tensioactivos suaves sin sulfatos, champús quelantes con glicoamina o ácido salicílico para eliminar cobre, cloro y sarro de agua dura, técnica pre-poo, pH 4.5–5.5 y frecuencia de lavado, diseñadas para ayudarte a elegir y aplicar mascarillas, tratamientos como K18 y Olaplex, champús y protectores térmicos optimizando tu costo por aplicación en Amazon.",
+  "seoTitle": "Champús Sin Sulfatos, Quelantes Anti-Metales y Técnica de Lavado para Pelo Teñido | guia-capilar.com",
+  "metaDescription": "Guía técnica de lavado para cabello teñido y decolorado: tensioactivos sin sulfatos SLS/SLES, champús quelantes anti-metales y técnica anti-rotura en ducha.",
+  "excerpt": "Aprende a combinar champús diarios sin sulfatos con limpiezas quelantes periódicas para eliminar cobre, calcio y siliconas acumuladas sin arrastrar el pigmento del tinte ni enredar la cutícula abierta.",
+  "quickAnswer": "El lavado del cabello teñido o decolorado requiere alternar un champú de mantenimiento libre de sulfatos **SLS/SLES** (**Olaplex No. 4** o **Redken Acidic Bonding**) con un champú quelante cada **3 a 4 semanas** (**K18 Peptide Prep Detox** o **L’Oréal Metal Detox**). Esta rotación evita que los tensioactivos agresivos barran el tinte, a la vez que impide que el cobre, el calcio y los polímeros insolubles asfixien la hebra.",
   "readingMinutes": 8,
   "image": {
-    "prompt": "Photorealistic shower scene with a minimalist sulfate-free shampoo bottle, a chrome shower head with a water filter attachment, and soft creamy foam on wet dyed hair, warm spa lighting",
-    "alt": "Champú sin sulfatos y ducha con filtro de agua para proteger el cabello teñido"
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Champús Sin Sulfatos, Quelantes Anti-Metales y Técnica de Lavado para Pelo Teñido' (champús sin sulfatos y quelantes para cabello teñido) for guia-capilar.com, featuring equipment in arctic white with warm stone-gray details, beside a neat storage shelf in a sunlit modern room, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Champús Sin Sulfatos, Quelantes Anti-Metales y Técnica de Lavado para Pelo Teñido"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Champús Sin Sulfatos, Quelantes Anti-Metales y Técnica de Lavado para Pelo Teñido** en **GuíaCapilar.com**. Aquí reunimos toda la ciencia tricológica, pruebas de aplicación y análisis financiero sobre **tensioactivos suaves sin sulfatos, champús quelantes con glicoamina o ácido salicílico para eliminar cobre, cloro y sarro de agua dura, técnica pre-poo, pH 4.5–5.5 y frecuencia de lavado**, estructurados bajo una arquitectura sin canibalización para que elijas el producto exacto antes de consultar precios y comprar en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si necesitas rescatar un cabello decolorado con el péptido de 4 minutos **[K18 Leave-In Molecular Repair Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)**, fortalecer puentes disulfuro en húmedo con **[Olaplex No. 3 Hair Perfector](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)**, sellar la cutícula a pH 4.5 con **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)** o cuidar tu bolsillo con **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**, este silo responde cada duda paso a paso."
+      "text": "Cambiar a un champú «libre de sulfatos» es el primer consejo que recibe cualquier persona al teñirse o hacerse mechas, pero aplicarlo a ciegas suele generar un problema inesperado al segundo mes: las raíces se engrasan antes de tiempo, el rubio pierde su luminosidad fría volviéndose opaco y los tratamientos como **K18** u **Olaplex No. 3** dejan de hacer efecto. Esto sucede porque los tensioactivos ultrasuaves por sí solos no pueden retirar los polímeros insolubles de los protectores térmicos ni extraer los metales pesados del agua corriente; una rutina profesional exige combinar limpieza suave diaria con quelación periódica de alta precisión."
     },
     {
       "type": "h2",
-      "text": "Criterios de evaluación en Champús Sin Sulfatos, Quelantes Anti-Metales y Técnica de Lavado para Pelo Teñido"
+      "text": "Química de tensioactivos: sulfatos agresivos frente a agentes quelantes de precisión"
     },
     {
       "type": "p",
-      "text": "En cada una de las **55 guías especializadas** de esta categoría evaluamos cuatro variables objetivas: **adecuación por tipo de cabello y porosidad** (fino, medio, grueso o rizado), **mecanismo químico del activo** (péptidos, enlaces disulfuro, ácido cítrico, quelantes o lípidos), **forma exacta de uso en minutos** y **costo real por aplicación en dólares ($/uso)**."
+      "text": "Los sulfatos tradicionales de cadena corta como el **Sodium Lauryl Sulfate (SLS)** tienen un alto poder desengrasante que levanta las escamas cuticulares y arrastra las moléculas de pigmento oxidativo. En contraste, los champús profesionales para cabello procesado —como **Olaplex No. 4 Bond Maintenance**, **Redken Acidic Bonding Concentrate Shampoo** o **L’Oréal Professionnel Metal Detox**— utilizan sistemas de tensioactivos anfotéricos e isetionatos de mayor tamaño molecular que limpian a un **pH ácido de 4.5 a 5.5** sin hinchar la fibra. Sin embargo, para que los péptidos y mascarillas sigan penetrando, es indispensable intercalar una limpieza profunda con carbón activado, ácido salicílico o agentes quelantes; puedes consultar el calendario exacto según tu tipo de color en nuestra guía sobre la [frecuencia exacta para hacer un lavado detox con K18 Detox u Olaplex 4C](/champus-sulfatos-y-lavado/cada-cuanto-hacer-un-lavado-detox-con-k18-detox-o-olaplex-4c/), así como revisar [qué champú elegir para retirar correctamente los restos de Olaplex No. 3](/champus-sulfatos-y-lavado/que-champu-usar-para-retirar-olaplex-no-3/) sin resecar las puntas."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Champús Sin Sulfatos, Quelantes Anti-Metales y Técnica de Lavado para Pelo Teñido",
       "headers": [
-        "Guía Capilar Especializada",
-        "Acceso Directo"
+        "Champú Profesional",
+        "Base Limpiadora y Activo Clave",
+        "Función Específica en la Rutina",
+        "Dosis y Frecuencia Recomendada"
       ],
       "rows": [
         [
-          "Por Qué los Sulfatos Agresivos (SLS y SLES) Barren el Tinte y Resecan el Cabello Decolorado",
-          "[Leer guía completa](/champus-sulfatos-y-lavado/por-que-los-sulfatos-sls-y-sles-barren-el-tinte-y-resecan-la-decoloracion/)"
+          "Olaplex No. 4 Bond Maintenance (250 ml)",
+          "Sin sulfatos SLS/SLES + Bis-Aminopropyl Diglycol Dimaleate",
+          "Limpieza suave concentrada de mantenimiento y retención de humedad",
+          "2 a 3 ml (tamaño moneda pequeña); uso frecuente en cada lavado"
         ],
         [
-          "Qué Ingredientes Limpiadores Suaves Buscar en un Buen Champú Sin Sulfatos (Isethionate, Glucoside, Taurate)",
-          "[Leer guía completa](/champus-sulfatos-y-lavado/que-tensioactivos-suaves-buscar-en-un-champu-sin-sulfatos/)"
+          "L’Oréal Professionnel Metal Detox Shampoo (300 ml)",
+          "Crema sin sulfatos + Glicoamina quelante anti-metales",
+          "Extracción de cobre, cloro y calcio del agua sin barrer el tinte",
+          "3 a 5 ml; de 1 a 2 veces por semana en zonas de agua dura"
         ],
         [
-          "Qué Es un Champú Quelante y en Qué se Diferencia de un Champú Clarificante Normal",
-          "[Leer guía completa](/champus-sulfatos-y-lavado/que-es-un-champu-quelante-y-en-que-se-diferencia-de-un-clarificante/)"
+          "K18 Peptide Prep Detox Shampoo (250 ml)",
+          "Ácido salicílico + Carbón activado + sh-Oligopeptide-78 (pH 3.8-4.2)",
+          "Eliminación de 99 % de acumulación de producto y 95 % de sebo + metales",
+          "3 a 4 ml; cada 3 a 4 lavados o siempre antes del ciclo de K18 Mask"
         ],
         [
-          "Cómo Saber si el Agua de tu Ducha Es Dura y Está Dañando tu Cabello Teñido o Decolorado",
-          "[Leer guía completa](/champus-sulfatos-y-lavado/como-saber-si-vives-en-una-zona-de-agua-dura-y-necesitas-metal-detox/)"
-        ],
-        [
-          "Por Qué el pH de tu Champú Debe Estar Entre 4.5 y 5.5 si Tienes el Cabello Teñido o Decolorado",
-          "[Leer guía completa](/champus-sulfatos-y-lavado/el-ph-ideal-del-champu-para-cabello-tenido-4-5-a-5-5/)"
-        ],
-        [
-          "Por Qué tu Champú Sin Sulfatos (Como Olaplex No. 4 o Pureology) No Hace Espuma si No Añades Más Agua",
-          "[Leer guía completa](/champus-sulfatos-y-lavado/como-hacer-espuma-con-un-champu-sin-sulfatos-concentrado/)"
-        ],
-        [
-          "Qué Es el Doble Lavado Capilar (Double Cleansing) y Por Qué Ahorra Champú en Cabello Teñido",
-          "[Leer guía completa](/champus-sulfatos-y-lavado/que-es-el-doble-lavado-double-cleansing-y-cuando-hacerlo/)"
-        ],
-        [
-          "Qué Es la Técnica Pre-Poo y Cómo Protege tus Puntas Decoloradas del Champú en la Ducha",
-          "[Leer guía completa](/champus-sulfatos-y-lavado/que-es-la-tecnica-pre-poo-antes-de-lavar-el-cabello-decolorado/)"
-        ],
-        [
-          "Cada Cuántos Días Conviene Lavar el Cabello Teñido o Decolorado según tu Tipo de Cuero Cabelludo",
-          "[Leer guía completa](/champus-sulfatos-y-lavado/cada-cuanto-tiempo-lavar-el-cabello-tenido-o-decolorado/)"
-        ],
-        [
-          "Por Qué Nunca Debes Frotar los Medios y Puntas Decoloradas con Champú como si Lavaras Ropa",
-          "[Leer guía completa](/champus-sulfatos-y-lavado/por-que-solo-debes-enjabonar-el-cuero-cabelludo-y-no-frotar-las-puntas/)"
-        ],
-        [
-          "Cada Cuánto Tiempo Usar un Champú Clarificante o Detox (K18 Detox / Olaplex 4C) sin Barrer el Tinte",
-          "[Leer guía completa](/champus-sulfatos-y-lavado/cada-cuanto-hacer-un-lavado-detox-con-k18-detox-o-olaplex-4c/)"
-        ],
-        [
-          "¿Realmente Funcionan los Filtros de Ducha de Amazon contra el Cloro y qué Hace un Champú Quelante?",
-          "[Leer guía completa](/champus-sulfatos-y-lavado/sirven-los-filtros-de-ducha-de-amazon-para-el-cabello-decolorado/)"
+          "Redken Acidic Bonding Concentrate Shampoo (300 ml)",
+          "Sin sulfatos + Ácido cítrico y Complejo de enlaces al 7 % (pH ácido)",
+          "Sellado de cutícula abierta, control de frizz y protección del color",
+          "4 a 5 ml; uso frecuente en cabellos porosos o con mechas"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "etiqueta",
-      "title": "Cómo elegir según tu daño y costo por aplicación",
-      "text": "Recuerda la regla fundamental: K18 (~$1.55-$2.30/uso) se aplica en 4 minutos SIN acondicionador previo para daño severo o cabello chicloso; Olaplex No. 3 (~$1.40/uso) es un pre-champú en húmedo de 15-30 minutos; Redken Acidic Bonding (~$1.15/uso) sella el pH 4.5 y protege hasta 450 °F; y Elizavecca CER-100 (~$0.55/uso) aporta colágeno hidrolizado por menos de $10 en Amazon."
+      ],
+      "caption": "Comparativa técnica de champús profesionales para cabello teñido y decolorado en Amazon EE. UU."
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces de Amazon"
+      "text": "Biomecánica en la ducha: dirección de las escamas y espaciado de lavados"
     },
     {
-      "type": "ol",
+      "type": "p",
+      "text": "La mitad de la rotura atribuida a un «mal champú» es en realidad daño mecánico provocado por la postura y la fricción durante el lavado. Al mojarse, el cabello decolorado aumenta su diámetro hasta un **20 %** y sus escamas cuticulares quedan entreabiertas como tejas levantadas. Si amontonas los largos sobre la coronilla para hacer espuma o inclinas el cuello hacia adelante en la bañera, fuerzas las escamas de unos mechones a encajarse contra las de otros en sentido inverso; explicamos este mecanismo físico al detalle en nuestro artículo sobre [por qué lavar el cabello decolorado boca abajo multiplica los nudos y la rotura](/champus-sulfatos-y-lavado/por-que-lavar-el-pelo-boca-abajo-enreda-y-rompe-el-cabello-decolorado/). Además, dado que cada contacto con el agua hincha y deshincha el córtex (fatiga higral), aprender [cómo usar el champú en seco para espaciar lavados y proteger el tinte](/champus-sulfatos-y-lavado/como-usar-champu-en-seco-para-espaciar-los-lavados-y-cuidar-el-tinte/) te permitirá ganar **24 a 48 horas** extra entre duchas manteniendo la raíz fresca y las puntas intactas."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Fórmulas profesionales sin sulfatos como Olaplex No. 4 o L’Oréal Metal Detox vienen con muy poca agua libre en su formulación. Si depositas una gota directamente sobre un punto de la cabeza, no correrá y terminarás añadiendo el triple de producto. Pon apenas 2 a 3 ml en tu palma mojada, frota ambas manos bajo un hilo de agua durante 5 segundos hasta crear una microespuma cremosa y repártela entonces en 4 puntos del cuero cabelludo (sienes, coronilla y nuca).",
+      "title": "La técnica de pre-emulsión en las palmas para champús ultraconcentrados sin sulfatos"
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo de lavado en vertical para cero fricción en medios y puntas"
+    },
+    {
+      "type": "steps",
       "items": [
-        "**Identifica tu porosidad y grosor:** un cabello fino decolorado necesita fórmulas sin peso (K18, Wella Ultimate Repair 90s, Color Wow Money Masque), mientras que uno grueso o rizado agradece lípidos densos (Moroccanoil, Kérastase Thérapiste, Olaplex No. 6).",
-        "**Respeta la dosis exacta en pumps o mililitros:** usar el doble de producto no repara el doble; satura la cutícula y duplica tu gasto mensual.",
-        "**Consulta el precio actualizado en tu tienda Amazon:** nuestras tarjetas apuntan por defecto a **Amazon Estados Unidos (`guia-capilar-20`)** y cambian automáticamente a **Amazon España (`guia-capilar-21`)** si navegas desde Europa."
+        {
+          "name": "Desenredo previo en seco y saturación térmica controlada (60 segundos)",
+          "text": "Antes de entrar a la ducha, desenreda suavemente las puntas en seco con un cepillo flexible. Luego, moja el cabello en posición totalmente vertical con agua tibia (36 °C a 38 °C) durante un minuto completo antes de tocar el champú."
+        },
+        {
+          "name": "Masaje exclusivo en cuero cabelludo con las yemas (Primer y segundo champú)",
+          "text": "Pre-emulsiona de 2 a 3 ml de tu champú sin sulfatos en las manos y masajea únicamente la piel del cuero cabelludo con las yemas de los dedos (nunca con las uñas) en movimientos lineales cortos. Si usaste champú en seco o aceites, haz una primera pasada rápida con poco producto y una segunda donde subirá abundante espuma."
+        },
+        {
+          "name": "Arrastre pasivo de espuma por los largos decolorados (Sin frotar)",
+          "text": "Deja que el agua del enjuague deslice la espuma desde la raíz hacia los medios y puntas en dirección vertical descendente. Jamás frotes las mechas decoloradas entre tus palmas como si lavaras una prenda a mano."
+        },
+        {
+          "name": "Enjuague frío-tibio y compresión con microfibra (Preparación para tratamiento)",
+          "text": "Asegúrate de retirar el 100 % de los tensioactivos en la nuca y detrás de las orejas, y presiona los largos por secciones con una toalla de microfibra sin retorcer la melena antes de pasar a tu mascarilla o a K18."
+        }
       ]
     },
     {
       "type": "cta",
-      "text": "¿No sabes qué tratamiento, mascarilla o protector térmico de este silo necesita tu cabello hoy? Pregúntale en vivo a nuestra Asesora Capilar IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro para el cabello teñido o decolorado"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Lava sin sulfatos y quela los metales del agua:** usa champús a pH 4.5–5.5 (Pureology Hydrate, Olaplex No. 4) y desintoxica el cobre del agua dura con L’Oréal Metal Detox o K18 Detox.",
-        "**No uses acondicionador antes de K18:** espera siempre sus 4 minutos reglamentarios sobre cabello secado con toalla antes de aplicar cualquier crema o aceite.",
-        "**Alterna reconstrucción e hidratación:** los bondeadores reparan por dentro, pero necesitas mascarillas hidratantes/lipídicas (Olaplex No. 8, Moroccanoil) para dar suavidad y flexibilidad externa.",
-        "**Protección térmica obligatoria hasta 450 °F (230 °C):** jamás pases el secador o la plancha sobre pelo decolorado sin un escudo como Color Wow Dream Coat, Redken Acidic Leave-In, Kenra Blow-Dry o 2 gotas de Olaplex No. 7."
-      ]
+      "text": "Consulta la disponibilidad actual de estos champús sin sulfatos y quelantes en las tarjetas de Amazon integradas en la página, o pregunta a nuestro Asesor IA qué combinación de lavado diario y detox corresponde a tu ciudad y tipo de tinte."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Champús Sin Sulfatos, Quelantes Anti-Metales y Técnica de Lavado para Pelo Teñido?",
-      "a": "Incluye 55 artículos técnicos detallados sobre tensioactivos suaves sin sulfatos, champús quelantes con glicoamina o ácido salicílico para eliminar cobre, cloro y sarro de agua dura, técnica pre-poo, pH 4.5–5.5 y frecuencia de lavado, con tablas de dosificación en mililitros, tiempos de acción, costo por aplicación y enlaces directos a Amazon Estados Unidos y España."
+      "q": "¿Por qué mi champú sin sulfatos no hace espuma en la primera pasada?",
+      "a": "En el primer lavado esto ocurre porque los tensioactivos sin sulfatos se unen al sebo y a los residuos de siliconas acumuladas en lugar de generar burbujas de aire. En lugar de echar el triple de producto, enjuaga esa primera pasada de 2 ml y aplica una segunda microdosis de 1.5 ml: verás que hace espuma densa al instante."
     },
     {
-      "q": "¿Todas las guías están enfocadas en cabello teñido o decolorado?",
-      "a": "Sí, en GuíaCapilar.com priorizamos la recuperación, matización y protección térmica del cabello teñido, con mechas balayage o decolorado global, adaptando cada recomendación a tu grosor y porosidad."
+      "q": "¿Cuál es la diferencia entre un champú clarificante normal y un champú quelante?",
+      "a": "Un champú clarificante tradicional limpia la superficie externa de la cutícula eliminando grasas, ceras y siliconas pesadas. Un champú quelante (como L’Oréal Metal Detox con Glicoamina o K18 Peptide Prep Detox) contiene moléculas específicas que atrapan y neutralizan iones metálicos como cobre, hierro, calcio y cloro incrustados en la fibra por el agua dura."
     },
     {
-      "q": "¿Puedo pedir una rutina personalizada según mi presupuesto en Amazon?",
-      "a": "Por supuesto: abre el chat de la Asesora Capilar IA en la esquina inferior derecha, cuéntale cómo está tu cabello y tu presupuesto en dólares o euros y te armará tu rutina exacta."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Journal of Cosmetic Science – Hair Fiber & Disulfide Bond Repair",
-      "url": "https://www.scconline.org/"
-    },
-    {
-      "label": "American Academy of Dermatology (AAD) – Hair Dye & Bleach Care",
-      "url": "https://www.aad.org/"
+      "q": "¿Usar K18 Peptide Prep Detox o L’Oréal Metal Detox barre el color del cabello teñido?",
+      "a": "Sí, son totalmente seguros para cabello teñido siempre que respetes su frecuencia (cada 3 a 4 semanas o antes de un tratamiento profundo). Ambos están formulados sin sulfatos agresivos SLS/SLES y a un pH ácido controlado (3.8 a 4.5 en K18 Detox) que limpia residuos sin abrir bruscamente la cutícula donde reside el tinte."
     }
   ],
   "related": [
-    "/champus-sulfatos-y-lavado/por-que-los-sulfatos-sls-y-sles-barren-el-tinte-y-resecan-la-decoloracion/",
-    "/champus-sulfatos-y-lavado/que-tensioactivos-suaves-buscar-en-un-champu-sin-sulfatos/",
-    "/champus-sulfatos-y-lavado/que-es-un-champu-quelante-y-en-que-se-diferencia-de-un-clarificante/",
-    "/champus-sulfatos-y-lavado/como-saber-si-vives-en-una-zona-de-agua-dura-y-necesitas-metal-detox/"
+    "/champus-sulfatos-y-lavado/cada-cuanto-hacer-un-lavado-detox-con-k18-detox-o-olaplex-4c/",
+    "/champus-sulfatos-y-lavado/como-usar-champu-en-seco-para-espaciar-los-lavados-y-cuidar-el-tinte/",
+    "/champus-sulfatos-y-lavado/por-que-lavar-el-pelo-boca-abajo-enreda-y-rompe-el-cabello-decolorado/",
+    "/champus-sulfatos-y-lavado/que-champu-usar-para-retirar-olaplex-no-3/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/champus-sulfatos-y-lavado.webp"
 }

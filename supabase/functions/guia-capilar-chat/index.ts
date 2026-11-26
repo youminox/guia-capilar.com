@@ -59,9 +59,7 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     badge: "🏆 #1 Rescate Post-Decoloración · Péptido en 4 Min",
     title: "K18 Leave-In Molecular Repair Hair Mask (50 ml / 15 ml) — Tratamiento Bio-Péptido Sin Enjuague",
     subtitle:
-      "Reconecta cadenas de queratina y puentes disulfuro en 4 minutos sin acondicionador previo (~$1.50–$2.40 USD/uso, 25–50 aplicaciones).",
-    rating: "4.6",
-    reviewsCount: "24.800+",
+      "Reconecta cadenas de queratina y puentes disulfuro en 4 minutos sin acondicionador previo.",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("K18 Leave-In Molecular Repair Hair Mask 50ml")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("K18 Leave-In Molecular Repair Hair Mask 50ml")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -70,9 +68,7 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     badge: "🧬 Estándar de Oro en Enlaces Disulfuro · ~$1.45/Uso",
     title: "Olaplex No. 3 Hair Perfector (100 ml / 250 ml) — Reconstructor Pre-Champú de Enlaces Capilares",
     subtitle:
-      "Reconstruye puentes disulfuro en cabello húmedo de 15 a 30 min antes del champú (~$1.35–$1.90 USD/uso, 16–22 aplicaciones).",
-    rating: "4.6",
-    reviewsCount: "118.000+",
+      "Reconstruye puentes disulfuro en cabello húmedo de 15 a 30 min antes del champú.",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Olaplex No 3 Hair Perfector Repairing Treatment")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Olaplex No 3 Hair Perfector Tratamiento Reparador")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -81,20 +77,16 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     badge: "🧪 Mejor Sellador de pH Ácido 4.5 · 14% Bonding Complex",
     title: "Redken Acidic Bonding Concentrate Intensive Pre-Treatment & Leave-In (450 °F)",
     subtitle:
-      "Cierra la cutícula abierta por la decoloración o el tinte con ácido cítrico y protege del calor hasta 450 °F (~$0.80–$1.20 USD/uso).",
-    rating: "4.7",
-    reviewsCount: "16.400+",
+      "Cierra la cutícula abierta por la decoloración o el tinte con ácido cítrico y protege del calor hasta 450 °F.",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Redken Acidic Bonding Concentrate Intensive Treatment Leave In")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Redken Acidic Bonding Concentrate Tratamiento Leave In")}&tag=${AMAZON_TAG_ES}`,
   },
   "elizavecca-cer-100-collagen-coating": {
     id: "elizavecca-cer-100-collagen-coating",
-    badge: "💰 Mejor Costo por Aplicación (< $0.60/Uso) · Colágeno & Ceramidas",
+    badge: "💰 Mejor Costo por Aplicación · Colágeno & Ceramidas",
     title: "Elizavecca CER-100 Collagen Coating Hair Protein Treatment (100 ml)",
     subtitle:
-      "Mascarilla coreana de colágeno hidrolizado, ceramida 3 y queratina por menos de $10 USD en Amazon (~$0.55 USD/uso).",
-    rating: "4.4",
-    reviewsCount: "48.200+",
+      "Mascarilla coreana de colágeno hidrolizado, ceramida 3 y queratina por menos de $10 USD en Amazon.",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Elizavecca CER-100 Collagen Coating Hair Protein Treatment")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Elizavecca CER-100 Collagen Coating Protein Treatment")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -103,9 +95,7 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     badge: "🛡️ Anti-Metales y Agua Dura · 10% Glicoamina",
     title: "L’Oréal Professionnel Metal Detox Mask & Shampoo — Quelante de Cobre para Pelo Teñido",
     subtitle:
-      "Neutraliza el cobre y metales del agua de ducha que oxidan el rubio y rompen el cabello decolorado (~$1.10 USD/uso).",
-    rating: "4.7",
-    reviewsCount: "9.400+",
+      "Neutraliza el cobre y metales del agua de ducha que oxidan el rubio y rompen el cabello decolorado.",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("L'Oreal Professionnel Metal Detox Mask Shampoo")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("L'Oréal Professionnel Metal Detox Mascarilla Champú")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -114,9 +104,7 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     badge: "💜 Mejor Champú Violeta que No Reseca · Rubios & Balayage",
     title: "Olaplex No. 4P Blonde Enhancer Toning Shampoo (250 ml) — Matizador Violeta Reparador",
     subtitle:
-      "Neutraliza tonos amarillos en 1 a 5 minutos sin sulfatos mientras repara enlaces (~$0.65 USD/matización, 45+ usos).",
-    rating: "4.6",
-    reviewsCount: "21.300+",
+      "Neutraliza tonos amarillos en 1 a 5 minutos sin sulfatos mientras repara enlaces.",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Olaplex No 4P Blonde Enhancer Toning Purple Shampoo")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Olaplex No 4P Blonde Enhancer Champú Violeta Matizador")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -126,8 +114,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Fanola No Yellow (Rubios) & Fanola No Orange (Castaños Iluminados) — Champú Matizador Profesional",
     subtitle:
       "El matizador profesional italiano más potente de Amazon para eliminar reflejos amarillos o naranjas en minutos.",
-    rating: "4.5",
-    reviewsCount: "71.500+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Fanola No Yellow Purple Shampoo 350ml")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Fanola No Yellow Champú Violeta Matizador 350ml")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -136,20 +122,16 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     badge: "✨ #1 Protector Térmico & Escudo Anti-Humedad 72h",
     title: "Color Wow Dream Coat Supernatural Spray (200 ml) — Sellador Térmico Efecto Espejo",
     subtitle:
-      "Impermeabiliza la hebra porosa o decolorada contra el frizz y la humedad durante 3 a 4 lavados (~$0.40 USD por lavado real).",
-    rating: "4.5",
-    reviewsCount: "88.500+",
+      "Impermeabiliza la hebra porosa o decolorada contra el frizz y la humedad durante 3 a 4 lavados.",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Color Wow Dream Coat Supernatural Spray 200ml")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Color Wow Dream Coat Supernatural Spray Anti-Frizz 200ml")}&tag=${AMAZON_TAG_ES}`,
   },
   "olaplex-no-7-bonding-oil": {
     id: "olaplex-no-7-bonding-oil",
-    badge: "✨ 125+ Aplicaciones (~$0.25/Uso) · Brillo & Calor 450 °F",
+    badge: "✨ 125+ Aplicaciones · Brillo & Calor 450 °F",
     title: "Olaplex No. 7 Bonding Oil (30 ml) — Aceite Reparador con Protección Térmica 450 °F",
     subtitle:
       "Solo 2 a 3 gotas sellan puntas decoloradas y protegen de la plancha sin manchar ni amarillear el rubio.",
-    rating: "4.7",
-    reviewsCount: "52.000+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Olaplex No 7 Bonding Oil 30ml")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Olaplex No 7 Bonding Oil Aceite Capilar 30ml")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -159,8 +141,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Moroccanoil Intense Hydrating Mask (250 ml) / Olaplex No. 8 Moisture Mask",
     subtitle:
       "Hidratación profunda en 5 minutos libre de proteínas para devolver elasticidad y suavidad tras usar K18 u Olaplex No. 3.",
-    rating: "4.8",
-    reviewsCount: "19.800+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Moroccanoil Intense Hydrating Mask 250ml")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Moroccanoil Mascarilla Hidratante Intensa 250ml")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -569,13 +549,13 @@ Deno.serve(async (req: Request) => {
 Tu doble misión es:
 1. RESPONDER TODAS LAS INQUIETUDES DEL USUARIO con rigor tricológico, calidez y claridad:
    - Comparar tratamientos según tipo de cabello (fino, medio, grueso, rizado, porosidad alta/baja), forma exacta de uso y COSTO POR APLICACIÓN:
-     * K18 Leave-In Molecular Repair Mask (~$1.50–$2.40 USD/uso, 25–50 usos en 50 ml): péptido sh-Oligopeptide-78 en 4 minutos SIN acondicionador previo y sin enjuague, ideal para decoloración alta o pelo chicloso.
-     * Olaplex No. 3 Hair Perfector (~$1.35–$1.90 USD/uso, 16–22 usos en 100 ml): Bis-Aminopropyl para puentes disulfuro en cabello húmedo 15-30 min ANTES del champú.
-     * Redken Acidic Bonding Concentrate (~$0.80–$1.20 USD/uso): ácido cítrico sellador a pH 4.5 + Leave-In termoprotector hasta 450 °F.
-     * Elizavecca CER-100 Collagen Coating (~$0.55 USD/uso, <$10 en Amazon): mascarilla coreana de colágeno y ceramidas.
-     * L’Oréal Professionnel Metal Detox (~$1.10 USD/uso): glicoamina quelante del cobre del agua dura.
+     * K18 Leave-In Molecular Repair Mask: péptido sh-Oligopeptide-78 en 4 minutos SIN acondicionador previo y sin enjuague, ideal para decoloración alta o pelo chicloso.
+     * Olaplex No. 3 Hair Perfector: Bis-Aminopropyl para puentes disulfuro en cabello húmedo 15-30 min ANTES del champú.
+     * Redken Acidic Bonding Concentrate: ácido cítrico sellador a pH 4.5 + Leave-In termoprotector hasta 450 °F.
+     * Elizavecca CER-100 Collagen Coating: mascarilla coreana de colágeno y ceramidas.
+     * L’Oréal Professionnel Metal Detox: glicoamina quelante del cobre del agua dura.
      * Matizadores: Olaplex No. 4P y Fanola No Yellow (violeta para rubios) / Fanola No Orange (azul para naranjas en bases castañas).
-     * Protectores térmicos y aceites: Color Wow Dream Coat (impermeable 72h), Olaplex No. 7 Bonding Oil (~$0.25/uso para 120+ usos y 450 °F) y Moroccanoil Hydrating Mask (hidratación sin proteínas).
+     * Protectores térmicos y aceites: Color Wow Dream Coat (impermeable 72h), Olaplex No. 7 Bonding Oil y Moroccanoil Hydrating Mask (hidratación sin proteínas).
    - Enlazar en tu respuesta a entre 1 y 3 guías de nuestro listado inferior usando Markdown exacto: [Título](${SITE}/categoria/slug/) e incluir sus slugs en "recommended_slugs".
 2. AYUDAR ACTIVAMENTE A QUE COMPREN EL PRODUCTO IDEAL EN AMAZON (${storeName}):
    - Recomienda siempre el tratamiento, mascarilla, champú o protector térmico exacto de nuestro CATÁLOGO AMAZON OFICIAL de abajo indicando su costo por aplicación.

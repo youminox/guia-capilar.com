@@ -3,162 +3,120 @@
   "pillar": "tipo-de-cabello-y-porosidad",
   "path": "/tipo-de-cabello-y-porosidad/porosidad-alta-por-decoloracion-vs-porosidad-alta-natural-en-rizos/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "porosidad alta natural vs porosidad por decoloracion",
   "title": "Diferencia entre Porosidad Alta Natural (Cabello Rizado) y Porosidad Alta Adquirida por Decoloración",
-  "seoTitle": "Diferencia entre Porosidad Alta Natural (Cabello Rizado) y Porosidad Alta Adquirida por Decoloración | Guía Capilar",
-  "metaDescription": "Diferencia entre Porosidad Alta Natural (Cabello Rizado) y Porosidad Alta Adquirida por Decoloración: La porosidad genética del rizo solo pide lípidos y humectantes; la porosidad química por decoloración tiene enlaces rotos y exige péptidos y bondeadores. Guía paso a paso según tipo de cabello, forma de uso y costo por aplicación en Amazon.",
-  "excerpt": "La porosidad genética del rizo solo pide lípidos y humectantes; la porosidad química por decoloración tiene enlaces rotos y exige péptidos y bondeadores.",
-  "quickAnswer": "Sobre porosidad alta natural vs porosidad por decoloracion: La porosidad genética del rizo solo pide lípidos y humectantes; la porosidad química por decoloración tiene enlaces rotos y exige péptidos y bondeadores. Para maximizar resultados y ahorrar en cada dosis, aplica el producto sobre cabello húmedo secado con toalla de microfibra, respeta los minutos exactos de actuación y sella siempre a pH 4.5 con protector térmico.",
+  "seoTitle": "Diferencia entre Porosidad Alta Natural (Cabello Rizado) y Porosidad Alta Adquirida por Decoloración | guia-capilar.com",
+  "metaDescription": "¿Porosidad alta natural en rizos o porosidad adquirida por decoloración? Descubre sus diferencias microscópicas y qué comprar entre K18, Olaplex y Redken.",
+  "excerpt": "Analizamos la diferencia estructural entre la porosidad alta genética del cabello rizado y la porosidad química provocada por la decoloración para que inviertas en los tratamientos exactos en Amazon.",
+  "quickAnswer": "La **porosidad alta natural** en cabellos rizados se debe a la curvatura geométrica del folículo que levanta las escamas cuticulares mientras el córtex interno permanece sano, requiriendo lípidos y humectantes. En cambio, la **porosidad alta por decoloración** implica destrucción química de la capa **18-MEA**, perforación cuticular y rotura de puentes disulfuro, por lo que exige péptidos (**K18 Leave-In**), reconstructores covalentes (**Olaplex No. 3**) y selladores ácidos a **pH 4.5** (**Redken Acidic Bonding**).",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Photorealistic editorial haircare photography: bouncy defined bleached curly hair being styled with a nourishing bond-building cream and diffuser (porosidad alta natural vs porosidad por decoloracion). Composition: split-focus foreground of a sleek treatment bottle with soft-focus luminous healthy hair cascading in the background, featuring sleek fine ash-blonde straight hair reflecting natural daylight, set in warm sunset amber reflection on a natural oak wood vanity. Ultra-realistic skin and hair fiber cuticle texture, DSLR 85mm f/2.0 lens, no text, no brand logos, no watermarks.",
+    "prompt": "Split comparison composition showing two complementary setups side by side: realistic scene illustrating 'Diferencia entre Porosidad Alta Natural (Cabello Rizado) y Porosidad Alta Adquirida por Decoloración' (porosidad alta natural vs porosidad por decoloracion) for guia-capilar.com, featuring equipment in deep navy blue with satin metallic trim, in a clean modern garage or studio corner with slate flooring, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Diferencia entre Porosidad Alta Natural (Cabello Rizado) y Porosidad Alta Adquirida por Decoloración"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando cuidas un cabello teñido, con mechas *balayage* o decolorado, comprender con exactitud **porosidad alta natural vs porosidad por decoloracion** marca la diferencia entre gastar dinero en productos que se quedan en la superficie o lograr una fibra fuerte, elástica y con brillo espejo. La porosidad genética del rizo solo pide lípidos y humectantes; la porosidad química por decoloración tiene enlaces rotos y exige péptidos y bondeadores."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía especializada del silo de **[Tipo De Cabello Y Porosidad](/tipo-de-cabello-y-porosidad/)** analizamos el fundamento químico, la adaptación por tipo de cabello (fino, medio, grueso o rizado), la forma de aplicación al minuto y el impacto en el **costo por aplicación** con los tratamientos líderes de Amazon Estados Unidos y España: **[K18 Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)**, **[Olaplex No. 3](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)**, **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)**, **[L’Oréal Metal Detox](/resenas-tratamientos-y-productos/loreal-professionnel-metal-detox-mask/)** y **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**."
+      "text": "Asumir que un cabello rizado virgen de porosidad alta necesita exactamente las mismas mascarillas que una melena lacia u ondulada que se volvió porosa tras una decoloración nivel **9 o 10** es la razón por la que tantos tratamientos fallan. Aunque ambos tipos de pelo absorben el agua en segundos y se encrespan al primer contacto con la humedad ambiental, el origen microscópico de esa apertura cuticular es radicalmente distinto. Comprender si tu fibra tiene una arquitectura genética abierta o una erosión química adquirida define en qué productos de nuestro [hub de tipo de cabello y porosidad](/tipo-de-cabello-y-porosidad/) vale la pena invertir tu presupuesto en Amazon Estados Unidos."
     },
     {
       "type": "h2",
-      "text": "Fundamento tricológico y tabla técnica: porosidad alta natural vs porosidad por decoloracion"
+      "text": "Microscopía de la hebra: arquitectura en espiral genética frente a lisis alcalina por persulfatos"
     },
     {
       "type": "p",
-      "text": "El cabello procesado químicamente presenta una cutícula más abierta (porosidad media a alta) y una reducción de enlaces disulfuro y lípidos 18-MEA. Por eso, aplicar correctamente lo relativo a **porosidad alta natural vs porosidad por decoloracion** evita tanto la sobrecarga cosmética (apelmazamiento o rigidez proteica) como la rotura por fatiga higral o térmica."
+      "text": "En la **porosidad alta natural** (frecuente en patrones rizados **3B–4C**), la cutícula se levanta ligeramente en cada giro de la espiral por pura geometría mecánica, igual que las escamas de una piña doblada. Además, el sebo del cuero cabelludo no logra deslizarse por las curvas hasta las puntas, generando una deficiencia crónica de lípidos superficiales; sin embargo, el córtex interno y sus puentes disulfuro están **100 % íntegros**. En cambio, en la **porosidad alta adquirida por decoloración**, el persulfato y el amoníaco han disuelto químicamente el ácido graso protector **18-MEA**, han perforado agujeros irreversibles en las capas cuticulares y han oxidado los enlaces de cistina convirtiéndolos en ácido cisteico. Aquí no solo falta grasa externa: el esqueleto interno está hueco y con carga eléctrica negativa extrema."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia capilar y costo por uso para: porosidad alta natural vs porosidad por decoloracion",
       "headers": [
-        "Variable Capilar",
-        "Ajuste / Protocolo Óptimo",
-        "Impacto en tu Cabello y Costo/Dosis"
+        "Parámetro técnico",
+        "Porosidad alta natural (rizos vírgenes)",
+        "Porosidad alta adquirida (decoloración / mechas)",
+        "Doble porosidad (rizo natural + decoloración)"
       ],
       "rows": [
         [
-          "Diagnóstico principal",
-          "La porosidad genética del rizo solo pide lípidos y humectantes; la porosidad química por decoloración tiene enlaces rotos y exige péptidos y bondeadores.",
-          "Evita compras innecesarias y mejora la absorción"
+          "Estado del córtex y enlaces disulfuro",
+          "Íntegros; resistencia a la tracción normal",
+          "Fragmentados; cabello elástico o quebradizo en húmedo",
+          "Crítico en las curvas donde el químico penetra más rápido"
         ],
         [
-          "Cabello Fino Decolorado",
-          "Dosis mínima (1 pump / 2-3 ml) sin mantecas pesadas",
-          "Repara sin quitar volumen y el envase dura el doble"
+          "Causa de la pérdida de humedad",
+          "Levantamiento geométrico de escamas en los giros del rizo",
+          "Destrucción química de placas cuticulares y capa 18-MEA",
+          "Suma de torsión mecánica y perforación alcalina"
         ],
         [
-          "Cabello Medio a Grueso / Rizado",
-          "Dosis estándar (2-3 pumps / 5-10 ml) + sellado lipídico",
-          "Restaura elasticidad, controla el frizz y sella puntas"
+          "Necesidad cosmética prioritaria",
+          "Emolientes ricos, humectantes y sellado lipídico (LOC/LCO)",
+          "Reconstrucción peptídica, puentes covalentes y pH ácido 4.5",
+          "Bio-péptidos primero + relleno proteico + sellado ácido"
         ],
         [
-          "pH y Humedad de Aplicación",
-          "Humedad al 70% (secado con microfibra) y cierre a pH 4.5",
-          "Impide que el agua diluya el activo o que el tinte se fugue"
-        ],
-        [
-          "Termoprotección Obligatoria",
-          "Escudo hasta 450 °F (230 °C) con plancha a máx. 330–365 °F",
-          "Protege los enlaces reparados por solo ~$0.25–$0.75/uso"
+          "Inversión clave en Amazon EE. UU.",
+          "Mascarillas nutritivas densas y cremas de definición",
+          "Olaplex No. 0 + No. 3, K18 Leave-In Mask y Redken Acidic Bonding",
+          "Protocolo completo K18 + Elizavecca CER-100 + Redken ABC"
         ]
+      ],
+      "caption": "Comparativa estructural y de compra entre porosidad alta genética y porosidad adquirida por decoloración"
+    },
+    {
+      "type": "h2",
+      "text": "Qué comprar en Amazon según tu diagnóstico: lípidos emolientes frente a reconstructores de enlaces y péptidos"
+    },
+    {
+      "type": "p",
+      "text": "Si tu porosidad alta es puramente genética, aplicar **Olaplex No. 3** cada semana tendrá un retorno mínimo, porque no tienes puentes disulfuro rotos por oxidación química; tu mejor inversión son lípidos, ceramidas y técnicas de sellado por capas como explicamos en la guía sobre [qué es el método LOC y LCO adaptado al cabello de alta porosidad](/tipo-de-cabello-y-porosidad/que-es-el-metodo-loc-y-lco-para-sellar-la-hidratacion-en-pelo-poroso/). Por el contrario, si tu porosidad nació tras unas mechas balayage —como vemos al [cuidar el cabello ondulado 2A, 2B y 2C con mechas balayage](/tipo-de-cabello-y-porosidad/como-cuidar-cabello-ondulado-2a-2b-2c-con-mechas-balayage/)—, las mantecas vegetales solas resbalarán sobre una corteza rota. Necesitas tres activos específicos: **K18 Leave-In Molecular Repair Hair Mask (50 ml)** con **sh-Oligopeptide-78** para reconectar cadenas de queratina en **4 minutos**; el dúo **Olaplex No. 0 (155 ml) + Olaplex No. 3 (100 ml)** con **Bis-Aminopropyl Diglycol Dimaleate** antes del champú; y **Elizavecca CER-100 Collagen Coating Hair Protein Treatment (100 ml)** con colágeno hidrolizado y **ceramida 3** para taponar los cráteres físicos de la hebra en **5 minutos**."
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo híbrido cuando tienes rizos naturales y además te hiciste un balayage rubio"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Pre-lavado reconstructor quincenal: satura de medios a puntas con Olaplex No. 0 durante 10 minutos y superpón Olaplex No. 3 por 30 minutos para blindar los giros del rizo donde la hebra es más delgada.",
+        "Lavado quelante y ácido: utiliza L’Oréal Professionnel Metal Detox Shampoo y su mascarilla con Glicoamina al 10 % una vez cada dos semanas para extraer el cobre del agua que penetra con facilidad en las escamas abiertas.",
+        "Sellado post-ducha de pH 4.5: tras los 4 minutos de K18 Leave-In Mask, aplica Redken Acidic Bonding Concentrate Leave-In con ácido cítrico y complejo de cuidado de enlaces al 14 % para compactar la cutícula antes del gel definidor."
       ]
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de tricología y ahorro sobre porosidad alta natural vs porosidad por decoloracion",
-      "text": "La porosidad genética del rizo solo pide lípidos y humectantes; la porosidad química por decoloración tiene enlaces rotos y exige péptidos y bondeadores. Recuerda ajustar siempre la cantidad en mililitros o pumps al grosor de tu cabello y sellar la cutícula a pH 4.5–5.0 con protección térmica antes de aplicar calor."
-    },
-    {
-      "type": "h2",
-      "text": "Protocolo paso a paso para aplicar porosidad alta natural vs porosidad por decoloracion en casa"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este método de 4 pasos verificados para obtener resultados de salón optimizando cada gota de producto:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Limpieza selectiva en raíz sin fricción en puntas",
-          "text": "Lava el cuero cabelludo con un champú sin sulfatos de pH ácido (o un champú quelante como L’Oréal Metal Detox / K18 Detox si toca limpieza profunda) y deja que la espuma deslice verticalmente sin frotar las puntas decoloradas."
-        },
-        {
-          "name": "Paso 2: Control de humedad al 70 % con toalla de microfibra",
-          "text": "Antes de aplicar tu tratamiento reconstructor o mascarilla, presiona suavemente el cabello con una toalla de microfibra para retirar el agua que gotea; recuerda que si aplicas K18 NO debes poner acondicionador antes."
-        },
-        {
-          "name": "Paso 3: Dosificación exacta en las palmas y tiempo de exposición",
-          "text": "Mide tu dosis exacta en pumps o mililitros (1 a 2 pumps para K18 esperando 4 minutos; 5 ml en húmedo durante 20 minutos para Olaplex No. 3; o 5–10 minutos para mascarillas como Olaplex No. 8 y Elizavecca CER-100)."
-        },
-        {
-          "name": "Paso 4: Sellado ácido y blindaje térmico antes del secado",
-          "text": "Aplica tu protector térmico hasta 450 °F (Redken Acidic Bonding Leave-In, Color Wow Dream Coat o Kenra Blow-Dry Spray), desenreda de puntas a raíz con un cepillo flexible y finaliza en seco con 2 gotas de Olaplex No. 7 Bonding Oil."
-        }
-      ]
+      "variant": "etiqueta",
+      "text": "Un cabello con porosidad adquirida por decoloración tiene una brecha de carga negativa mucho mayor que un rizo virgen. Busca siempre en el INCI polímeros catiónicos y aminosiliconas (como Amodimethicone) que se adhieren selectivamente solo a las zonas dañadas sin apelmazar el resto.",
+      "title": "Cómo leer la etiqueta según el origen de tu porosidad"
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas sobre cómo adaptar porosidad alta natural vs porosidad por decoloracion a tu tipo exacto de cabello? Consulta gratis en vivo a nuestra Asesora Capilar IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes que debes evitar para no malgastar producto"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Usar más cantidad creyendo que reparará más rápido:** la fibra capilar tiene un límite físico de absorción; el excedente solo apelmaza y duplica tu costo por aplicación.",
-        "**Aplicar tratamientos caros sobre cabello chorreando agua:** el agua libre bloquea la entrada al córtex y hace que la crema resbale al desagüe.",
-        "**No alternar proteínas con hidratación lipídica:** abusar de la queratina sin aportar humectantes y aceites (como Moroccanoil o Color Wow Money Masque) vuelve la hebra rígida.",
-        "**Planchar a 410 °F–450 °F sobre cabello decolorado:** degrada el matiz rubio a amarillo en una sola pasada y destruye los puentes disulfuro recién reparados."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Productos recomendados en Amazon Estados Unidos y España"
-    },
-    {
-      "type": "p",
-      "text": "Para poner en práctica esta guía con la mejor relación calidad-precio por aplicación, revisa nuestra selección en Amazon: desde **[K18 Leave-In Molecular Repair Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)** y **[Olaplex No. 3 Hair Perfector](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)** hasta **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)** y la económica **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Compara la disponibilidad actual de K18 Leave-In Mask, Olaplex No. 3, Redken Acidic Bonding y Elizavecca CER-100 en las tarjetas de Amazon integradas en esta página, o consulta a nuestro Asesor IA para calcular tu costo real por aplicación."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla más importante sobre porosidad alta natural vs porosidad por decoloracion?",
-      "a": "La porosidad genética del rizo solo pide lípidos y humectantes; la porosidad química por decoloración tiene enlaces rotos y exige péptidos y bondeadores. Además, respeta siempre los minutos de espera en cabello húmedo al 70% y mide la dosis en pumps o mililitros según tu grosor capilar."
+      "q": "¿Cómo distingo en casa si mi porosidad alta es por mi tipo de rizo o por daño químico?",
+      "a": "La prueba definitiva es la elasticidad en húmedo: toma una hebra mojada y estírala suavemente. El rizo de porosidad alta natural se estira un 25–30 % y regresa de inmediato a su forma; la hebra con porosidad por decoloración se estira en exceso, se siente gomosa y no recupera su longitud o se rompe."
     },
     {
-      "q": "¿Cómo adapto este consejo si mi cabello es muy fino y decolorado?",
-      "a": "En cabello fino utiliza la mitad de la dosis estándar (ej. 1 solo pump de K18 o 1 gota de Olaplex No. 7), concéntralo de medios a puntas lejos de la raíz y prioriza texturas ligeras como Wella Ultimate Repair o Color Wow Money Masque."
+      "q": "¿Sirve Elizavecca CER-100 tanto para porosidad natural como para pelo decolorado?",
+      "a": "En porosidad por decoloración es imbatible porque aporta colágeno hidrolizado, proteína de soja y ceramida 3 en 5 minutos, rellenando los vacíos estructurales. En un rizo virgen de porosidad natural pero sensible a las proteínas, conviene usarla solo cada 15 o 20 días para evitar rigidez."
     },
     {
-      "q": "¿Qué producto de Amazon ofrece el mejor costo por aplicación para complementar este paso?",
-      "a": "Para sellado diario de puntas y protección térmica hasta 450 °F, Olaplex No. 7 Bonding Oil cuesta solo ~$0.25 USD por uso (120+ aplicaciones); y como mascarilla de colágeno y ceramidas, Elizavecca CER-100 cuesta ~$0.55 USD por aplicación."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Journal of Cosmetic Science – Hair Porosity, pH & Peptide Repair",
-      "url": "https://www.scconline.org/"
-    },
-    {
-      "label": "International Journal of Cosmetic Science",
-      "url": "https://onlinelibrary.wiley.com/journal/14682494"
+      "q": "¿Por qué el cabello decolorado de alta porosidad absorbe agua rapidísimo pero se siente seco?",
+      "a": "Porque tiene huecos estructurales por donde el agua entra sin resistencia en segundos, pero por esos mismos cráteres el agua se evapora igual de rápido al salir de la ducha si no cierras la cutícula con un tratamiento ácido a pH 4.5 como Redken Acidic Bonding Concentrate."
     }
   ],
   "related": [
-    "/tipo-de-cabello-y-porosidad/",
-    "/tipo-de-cabello-y-porosidad/como-cuidar-cabello-fino-con-mechas-que-se-enreda-con-el-viento/",
-    "/tipo-de-cabello-y-porosidad/que-dejar-puesto-en-el-cabello-segun-tu-textura-leave-in-serum-crema-o-aceite/",
-    "/comparativas/k18-vs-olaplex-no-3/"
+    "/tipo-de-cabello-y-porosidad/como-cuidar-cabello-ondulado-2a-2b-2c-con-mechas-balayage/",
+    "/tipo-de-cabello-y-porosidad/que-es-el-metodo-loc-y-lco-para-sellar-la-hidratacion-en-pelo-poroso/",
+    "/tipo-de-cabello-y-porosidad/como-cambia-el-cabello-tenido-despues-de-los-40-y-50-anos-afinamiento-y-canas/",
+    "/tipo-de-cabello-y-porosidad/que-protector-termico-elegir-si-tienes-el-cabello-muy-fino/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/porosidad-alta-por-decoloracion-vs-porosidad-alta-natural-en-rizos.webp"
 }

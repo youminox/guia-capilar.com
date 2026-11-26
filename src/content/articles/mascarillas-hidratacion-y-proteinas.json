@@ -3,159 +3,121 @@
   "pillar": "mascarillas-hidratacion-y-proteinas",
   "path": "/mascarillas-hidratacion-y-proteinas/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "mascarillas de hidratación y proteínas para cabello decolorado",
   "title": "Mascarillas para Cabello Teñido o Decolorado: Equilibrio entre Hidratación y Proteínas",
-  "seoTitle": "Mascarillas Capilares de Hidratación vs Proteínas para Cabello Decolorado",
-  "metaDescription": "Mascarillas para Cabello Teñido o Decolorado: Equilibrio entre Hidratación y Proteínas: hub completo con 55 guías sobre diferencias entre mascarillas con proteínas hidrolizadas (queratina, colágeno, seda) y mascarillas hidratantes/lipídicas libres de proteínas, tiempos de exposición y cómo evitar la sobrecarga proteica y ofertas en Amazon EE. UU. y España.",
-  "excerpt": "Explora las 55 guías especializadas de este silo sobre diferencias entre mascarillas con proteínas hidrolizadas (queratina, colágeno, seda) y mascarillas hidratantes/lipídicas libres de proteínas, tiempos de exposición y cómo evitar la sobrecarga proteica.",
-  "quickAnswer": "En esta sección principal de Mascarillas para Cabello Teñido o Decolorado reunimos 55 guías verificadas sobre diferencias entre mascarillas con proteínas hidrolizadas (queratina, colágeno, seda) y mascarillas hidratantes/lipídicas libres de proteínas, tiempos de exposición y cómo evitar la sobrecarga proteica, diseñadas para ayudarte a elegir y aplicar mascarillas, tratamientos como K18 y Olaplex, champús y protectores térmicos optimizando tu costo por aplicación en Amazon.",
+  "seoTitle": "Mascarillas para Cabello Teñido o Decolorado: Equilibrio entre Hidratación y Proteínas | guia-capilar.com",
+  "metaDescription": "Cómo equilibrar mascarillas de hidratación y proteínas en cabello decolorado: uso de Elizavecca CER-100, Olaplex No. 8, ceramidas y diagnóstico de rigidez.",
+  "excerpt": "Descubre cómo alternar proteínas hidrolizadas, ceramidas y lípidos humectantes para rellenar la hebra decolorada sin caer en la sobrecarga proteica que vuelve el cabello rígido y quebradizo.",
+  "quickAnswer": "El cabello decolorado necesita tanto proteínas hidrolizadas para rellenar las fisuras del córtex como humectantes y lípidos para devolverle flexibilidad. Usar únicamente mascarillas proteicas como **Elizavecca CER-100** en cada lavado provoca sobrecarga proteica y rotura por rigidez, mientras que abusar solo de hidratación en una hebra chiclosa produce fatiga higral; la proporción ideal en pelo decolorado es **1 sesión de proteínas por cada 2 o 3 de hidratación profunda**.",
   "readingMinutes": 8,
   "image": {
-    "prompt": "Photorealistic top-down macro photograph of two open ceramic jars filled with glossy whipped hair mask textures—one pearl white collagen cream and one golden argan lipid mask—with a wooden spatula on stone",
-    "alt": "Dos mascarillas capilares de textura cremosa con espátula sobre piedra natural"
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Mascarillas para Cabello Teñido o Decolorado: Equilibrio entre Hidratación y Proteínas' (mascarillas de hidratación y proteínas para cabello decolorado) for guia-capilar.com, featuring equipment in graphite gray with subtle amber indicator details, beside a neat storage shelf in a sunlit modern room, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Mascarillas para Cabello Teñido o Decolorado: Equilibrio entre Hidratación y Proteínas"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Mascarillas para Cabello Teñido o Decolorado: Equilibrio entre Hidratación y Proteínas** en **GuíaCapilar.com**. Aquí reunimos toda la ciencia tricológica, pruebas de aplicación y análisis financiero sobre **diferencias entre mascarillas con proteínas hidrolizadas (queratina, colágeno, seda) y mascarillas hidratantes/lipídicas libres de proteínas, tiempos de exposición y cómo evitar la sobrecarga proteica**, estructurados bajo una arquitectura sin canibalización para que elijas el producto exacto antes de consultar precios y comprar en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si necesitas rescatar un cabello decolorado con el péptido de 4 minutos **[K18 Leave-In Molecular Repair Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)**, fortalecer puentes disulfuro en húmedo con **[Olaplex No. 3 Hair Perfector](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)**, sellar la cutícula a pH 4.5 con **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)** o cuidar tu bolsillo con **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**, este silo responde cada duda paso a paso."
+      "text": "Aplicar la misma mascarilla reconstructora viral tres veces por semana esperando que tu melena decolorada recupere la sedosidad suele producir el efecto exactamente contrario: de pronto el cabello se siente tieso, áspero como esparto y se parte en seco con un chasquido seco al pasar el cepillo. Este fenómeno ocurre porque el cabello procesado químicamente no necesita un solo tipo de nutriente, sino un equilibrio milimétrico entre proteínas estructurales que rellenen las grietas del córtex y lípidos humectantes que devuelvan elasticidad a la fibra."
     },
     {
       "type": "h2",
-      "text": "Criterios de evaluación en Mascarillas para Cabello Teñido o Decolorado"
+      "text": "Diagnóstico táctil: sobrecarga de proteínas frente a exceso de humectación (fatiga higral)"
     },
     {
       "type": "p",
-      "text": "En cada una de las **55 guías especializadas** de esta categoría evaluamos cuatro variables objetivas: **adecuación por tipo de cabello y porosidad** (fino, medio, grueso o rizado), **mecanismo químico del activo** (péptidos, enlaces disulfuro, ácido cítrico, quelantes o lípidos), **forma exacta de uso en minutos** y **costo real por aplicación en dólares ($/uso)**."
+      "text": "Antes de abrir un tarro en la ducha, haz una prueba de tracción de **5 segundos** sobre una hebra húmeda. Si el cabello se estira en exceso, se siente blando o gomoso y pierde su forma, sufre un déficit estructural y de cemento intercelular: ahí es donde brillan fórmulas como **Elizavecca CER-100 Collagen Coating Hair Protein Treatment** (**100 ml**), cargada de colágeno hidrolizado, proteína de soja, alantoína y **Ceramida 3 (Ceramida NP)** que parchan la porosidad en **5 minutos**. Para entender cómo este lípido sella las escamas levantadas, revisa nuestra guía sobre la [función de las ceramidas en mascarillas para pelo decolorado](/mascarillas-hidratacion-y-proteinas/para-que-sirven-las-ceramidas-en-el-cabello-decolorado/). Por el contrario, si tu hebra está rígida, no se estira nada antes de quebrarse y cruje al tacto, tienes sobrecarga proteica: debes suspender las proteínas puras e introducir humectación y lípidos puros como **Olaplex No. 8 Bond Intense Moisture Mask** o aplicar el calendario que explicamos en [cómo alternar Elizavecca CER-100 y Moroccanoil Hydrating Mask](/mascarillas-hidratacion-y-proteinas/como-alternar-elizavecca-cer-100-y-moroccanoil-hydrating-mask/)."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Mascarillas para Cabello Teñido o Decolorado",
       "headers": [
-        "Guía Capilar Especializada",
-        "Acceso Directo"
+        "Mascarilla de Referencia",
+        "Perfil Químico (Activos INCI)",
+        "Necesidad Capilar que Resuelve",
+        "Tiempo y Frecuencia Real"
       ],
       "rows": [
         [
-          "Diferencia entre Mascarilla Hidratante, Nutritiva (Lipídica) y Reconstructora (Proteica)",
-          "[Leer guía completa](/mascarillas-hidratacion-y-proteinas/diferencia-entre-mascarilla-hidratante-nutritiva-y-reconstructora/)"
+          "Elizavecca CER-100 Collagen Coating (100 ml)",
+          "Proteica + Ceramidas (Colágeno hidrolizado, Ceramida 3, Soja)",
+          "Hebra porosa, elástica, chiclosidad o falta de cuerpo tras decolorar",
+          "5 minutos exactos; cada 10 a 14 días (no usar en cada lavado)"
         ],
         [
-          "Qué Es la Sobrecarga de Proteínas (Protein Overload): Síntomas y Cómo Curar el Cabello Rígido",
-          "[Leer guía completa](/mascarillas-hidratacion-y-proteinas/que-es-la-sobrecarga-de-proteinas-protein-overload-sintomas-y-solucion/)"
+          "Olaplex No. 8 Bond Intense Moisture Mask (100 ml)",
+          "Hidratante-Lipídica + Enlaces (Aceite de aguacate, escualano, Bis-Aminopropyl)",
+          "Sequedad, rigidez, falta de deslizamiento y puntas abiertas ásperas",
+          "10 minutos en medios y puntas; 1 vez por semana"
         ],
         [
-          "Qué Es la Sobrehidratación Capilar (Moisture Overload): Cuando el Pelo Está Blando, Pesado y Sin Fuerza",
-          "[Leer guía completa](/mascarillas-hidratacion-y-proteinas/que-es-la-sobrehidratacion-capilar-moisture-overload-y-como-corregirla/)"
+          "L’Oréal Professionnel Metal Detox Mask (250 ml)",
+          "Quelante + Acondicionadora (Glicoamina al 10 % + Ésteres suaves)",
+          "Oxidación del rubio y rotura provocada por cobre y cal del agua dura",
+          "1 a 5 minutos; semanal en zonas de agua dura y post-coloración"
         ],
         [
-          "Cuánto Tiempo Dejar Actuar una Mascarilla Capilar: ¿5 Minutos, 10 Minutos o 1 Hora?",
-          "[Leer guía completa](/mascarillas-hidratacion-y-proteinas/cuanto-tiempo-dejar-la-mascarilla-en-el-cabello-5-10-o-30-minutos/)"
-        ],
-        [
-          "¿Se Debe Aplicar Acondicionador Después de la Mascarilla o Es Redundante?",
-          "[Leer guía completa](/mascarillas-hidratacion-y-proteinas/se-debe-poner-acondicionador-despues-de-la-mascarilla-capilar/)"
-        ],
-        [
-          "Aplicar la Mascarilla Antes o Después del Champú: Cuándo Conviene Cada Método",
-          "[Leer guía completa](/mascarillas-hidratacion-y-proteinas/mascarilla-antes-o-despues-del-champu-cuando-hacer-cada-uno/)"
-        ],
-        [
-          "Por Qué Secar el Cabello con Toalla en la Ducha Antes de Aplicar la Mascarilla Multiplica su Efecto",
-          "[Leer guía completa](/mascarillas-hidratacion-y-proteinas/por-que-debes-secar-el-pelo-con-toalla-antes-de-poner-la-mascarilla/)"
-        ],
-        [
-          "Cómo Identificar Si una Mascarilla Tiene Proteínas Leyendo su Etiqueta INCI en 10 Segundos",
-          "[Leer guía completa](/mascarillas-hidratacion-y-proteinas/como-identificar-proteinas-en-la-lista-de-ingredientes-inci/)"
-        ],
-        [
-          "Diferencia entre Queratina Hidrolizada, Colágeno y Aminoácidos de Seda en Mascarillas Capilares",
-          "[Leer guía completa](/mascarillas-hidratacion-y-proteinas/diferencia-entre-queratina-hidrolizada-colageno-y-aminoacidos-de-seda/)"
-        ],
-        [
-          "Para Qué Sirven las Ceramidas en las Mascarillas (Como Elizavecca CER-100 y L’Oréal) en Pelo Decolorado",
-          "[Leer guía completa](/mascarillas-hidratacion-y-proteinas/para-que-sirven-las-ceramidas-en-el-cabello-decolorado/)"
-        ],
-        [
-          "Cómo Funciona el Ácido Hialurónico Capilar (Como en Kérastase Blond Absolu) para Rellenar Hebras Rubias",
-          "[Leer guía completa](/mascarillas-hidratacion-y-proteinas/acido-hialuronico-en-mascarillas-capilares-como-funciona-en-rubios/)"
-        ],
-        [
-          "Cada Cuánto Tiempo Usar Mascarilla en Cabello Teñido vs Cabello Decolorado",
-          "[Leer guía completa](/mascarillas-hidratacion-y-proteinas/cada-cuanto-tiempo-usar-mascarilla-en-cabello-tenido-o-decolorado/)"
+          "K18 Leave-In Molecular Repair Mask (50 ml)",
+          "Reconstructora Peptídica Pura (sh-Oligopeptide-78 sin siliconas pesadas)",
+          "Ruptura interna severa de cadenas de queratina y puentes disulfuro",
+          "4 minutos sin enjuague; 6 lavados de choque y luego cada 3-4 lavados"
         ]
-      ]
+      ],
+      "caption": "Clasificación funcional de mascarillas para cabello teñido o decolorado en Amazon EE. UU."
+    },
+    {
+      "type": "h2",
+      "text": "Técnica de aplicación mecánica para maximizar la absorción sin saturar la raíz"
+    },
+    {
+      "type": "p",
+      "text": "Tan importante como la fórmula elegida es la física con la que la depositas sobre la hebra. Si aplicas tu mascarilla sobre el cabello goteando agua debajo de la regadera, las cavidades del córtex ya están llenas de agua libre y la emulsión resbala hacia el desagüe sin penetrar. Escurre siempre la melena con una toalla de microfibra y distribuye el producto por secciones utilizando la [técnica de enhebrado mechón por mechón al aplicar la mascarilla](/mascarillas-hidratacion-y-proteinas/como-aplicar-la-mascarilla-mechon-por-mechon-enhebrado-capilar/), presionando con los dedos en dirección descendente para aplanar las escamas cuticulares. Al hacerlo, mantén un margen de seguridad de **4 a 5 centímetros** respecto al cráneo; como advertimos en nuestro análisis sobre [por qué nunca debes aplicar mascarilla en la raíz o cuero cabelludo](/mascarillas-hidratacion-y-proteinas/por-que-nunca-debes-aplicar-mascarilla-en-la-raiz-o-cuero-cabelludo/), los polímeros oclusivos y las ceramidas diseñadas para puntas decoloradas obstruyen el folículo piloso, apelmazan el volumen y pueden desencadenar dermatitis seborreica."
     },
     {
       "type": "callout",
-      "variant": "etiqueta",
-      "title": "Cómo elegir según tu daño y costo por aplicación",
-      "text": "Recuerda la regla fundamental: K18 (~$1.55-$2.30/uso) se aplica en 4 minutos SIN acondicionador previo para daño severo o cabello chicloso; Olaplex No. 3 (~$1.40/uso) es un pre-champú en húmedo de 15-30 minutos; Redken Acidic Bonding (~$1.15/uso) sella el pH 4.5 y protege hasta 450 °F; y Elizavecca CER-100 (~$0.55/uso) aporta colágeno hidrolizado por menos de $10 en Amazon."
+      "variant": "tip",
+      "text": "Con mascarillas ricas en proteínas hidrolizadas de bajo peso molecular como Elizavecca CER-100, dejar el producto 45 minutos bajo un gorro térmico no mejora la reparación: por el contrario, sobredeposita péptidos rígidos sobre la cutícula y deja el cabello duro al secar. Respeta estrictamente la ventana de 5 a 10 minutos indicada por el fabricante sobre cabello húmedo escurrido con toalla y aclara con abundante agua tibia-fría.",
+      "title": "Por qué 5 minutos con Elizavecca CER-100 rinden mejor que 45 minutos con calor"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces de Amazon"
-    },
-    {
-      "type": "ol",
-      "items": [
-        "**Identifica tu porosidad y grosor:** un cabello fino decolorado necesita fórmulas sin peso (K18, Wella Ultimate Repair 90s, Color Wow Money Masque), mientras que uno grueso o rizado agradece lípidos densos (Moroccanoil, Kérastase Thérapiste, Olaplex No. 6).",
-        "**Respeta la dosis exacta en pumps o mililitros:** usar el doble de producto no repara el doble; satura la cutícula y duplica tu gasto mensual.",
-        "**Consulta el precio actualizado en tu tienda Amazon:** nuestras tarjetas apuntan por defecto a **Amazon Estados Unidos (`guia-capilar-20`)** y cambian automáticamente a **Amazon España (`guia-capilar-21`)** si navegas desde Europa."
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿No sabes qué tratamiento, mascarilla o protector térmico de este silo necesita tu cabello hoy? Pregúntale en vivo a nuestra Asesora Capilar IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro para el cabello teñido o decolorado"
+      "text": "Calendario de rotación mensual según la elasticidad de tus mechas"
     },
     {
       "type": "ul",
       "items": [
-        "**Lava sin sulfatos y quela los metales del agua:** usa champús a pH 4.5–5.5 (Pureology Hydrate, Olaplex No. 4) y desintoxica el cobre del agua dura con L’Oréal Metal Detox o K18 Detox.",
-        "**No uses acondicionador antes de K18:** espera siempre sus 4 minutos reglamentarios sobre cabello secado con toalla antes de aplicar cualquier crema o aceite.",
-        "**Alterna reconstrucción e hidratación:** los bondeadores reparan por dentro, pero necesitas mascarillas hidratantes/lipídicas (Olaplex No. 8, Moroccanoil) para dar suavidad y flexibilidad externa.",
-        "**Protección térmica obligatoria hasta 450 °F (230 °C):** jamás pases el secador o la plancha sobre pelo decolorado sin un escudo como Color Wow Dream Coat, Redken Acidic Leave-In, Kenra Blow-Dry o 2 gotas de Olaplex No. 7."
+        "**En cabellos recién decolorados (Niveles 8 a 10 con alta elasticidad):** Mantén una proporción de **1 aplicación de mascarilla proteica con ceramidas (Elizavecca CER-100)** por cada **2 aplicaciones de mascarilla hidratante-lipídica (Olaplex No. 8)**, intercalando tu reconstructor molecular (**K18** u **Olaplex No. 3**).",
+        "**En cabellos teñidos sin decoloración global (Tonos castaños, cobrizos o rubios oscuros):** Prioriza **3 sesiones de hidratación y sellado ácido** por cada **1 sesión de proteínas mensual**, ya que la estructura de queratina conserva mayor integridad y requiere sobre todo retención lipídica.",
+        "**En ciudades con agua dura o piscina frecuente:** Sustituye una de tus mascarillas hidratantes quincenales por **L’Oréal Professionnel Metal Detox Mask** (**Glicoamina al 10 %**) para evitar que los iones de cobre endurezcan la fibra y oxiden el matiz.",
+        "**Si detectas rigidez o puntas que crujen en seco:** Haz un lavado clarificante suave, suspende cualquier producto con *Hydrolyzed Keratin*, *Collagen* o *Soy Protein* en su etiqueta INCI durante **3 semanas** y usa exclusivamente fórmulas humectantes y emolientes."
       ]
+    },
+    {
+      "type": "cta",
+      "text": "Revisa la disponibilidad actual de estas mascarillas proteicas, hidratantes y quelantes en las tarjetas de Amazon integradas en la página o consulta a nuestro Asesor IA para diseñar tu calendario exacto de rotación mensual."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Mascarillas para Cabello Teñido o Decolorado?",
-      "a": "Incluye 55 artículos técnicos detallados sobre diferencias entre mascarillas con proteínas hidrolizadas (queratina, colágeno, seda) y mascarillas hidratantes/lipídicas libres de proteínas, tiempos de exposición y cómo evitar la sobrecarga proteica, con tablas de dosificación en mililitros, tiempos de acción, costo por aplicación y enlaces directos a Amazon Estados Unidos y España."
+      "q": "¿Cómo sé si una mascarilla de Amazon es de hidratación o de proteínas leyendo su etiqueta?",
+      "a": "En la lista de ingredientes (INCI), las mascarillas proteicas incluyen términos como Hydrolyzed Collagen, Hydrolyzed Keratin, Soy Protein, Wheat Protein o Silk Amino Acids entre los primeros puestos (como Elizavecca CER-100). Las mascarillas hidratantes priorizan humectantes y lípidos como Glycerin, Panthenol, Squalane, Cetearyl Alcohol y aceites vegetales (como Olaplex No. 8)."
     },
     {
-      "q": "¿Todas las guías están enfocadas en cabello teñido o decolorado?",
-      "a": "Sí, en GuíaCapilar.com priorizamos la recuperación, matización y protección térmica del cabello teñido, con mechas balayage o decolorado global, adaptando cada recomendación a tu grosor y porosidad."
+      "q": "¿Puedo usar una mascarilla hidratante el mismo día que aplico K18 Leave-In Mask?",
+      "a": "No se recomienda aplicar otra mascarilla en el mismo lavado en que usas K18. Si la aplicas antes de K18, sus siliconas y lípidos bloquearán la entrada del péptido sh-Oligopeptide-78; si sientes que tu cabello necesita nutrición extra, aplícala en el siguiente lavado donde no uses K18."
     },
     {
-      "q": "¿Puedo pedir una rutina personalizada según mi presupuesto en Amazon?",
-      "a": "Por supuesto: abre el chat de la Asesora Capilar IA en la esquina inferior derecha, cuéntale cómo está tu cabello y tu presupuesto en dólares o euros y te armará tu rutina exacta."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Journal of Cosmetic Science – Hair Fiber & Disulfide Bond Repair",
-      "url": "https://www.scconline.org/"
-    },
-    {
-      "label": "American Academy of Dermatology (AAD) – Hair Dye & Bleach Care",
-      "url": "https://www.aad.org/"
+      "q": "¿La mascarilla sustituye al acondicionador en el cabello decolorado o se usan juntos?",
+      "a": "Para cabellos muy secos y ásperos, la mascarilla debe usarse de 1 a 2 veces por semana en sustitución del acondicionador, o bien aplicando la mascarilla durante 5-10 minutos tras el champú y cerrando durante 1 minuto con un acondicionador ácido (como Redken Acidic Bonding) para sellar la cutícula."
     }
   ],
   "related": [
-    "/mascarillas-hidratacion-y-proteinas/diferencia-entre-mascarilla-hidratante-nutritiva-y-reconstructora/",
-    "/mascarillas-hidratacion-y-proteinas/que-es-la-sobrecarga-de-proteinas-protein-overload-sintomas-y-solucion/",
-    "/mascarillas-hidratacion-y-proteinas/que-es-la-sobrehidratacion-capilar-moisture-overload-y-como-corregirla/",
-    "/mascarillas-hidratacion-y-proteinas/cuanto-tiempo-dejar-la-mascarilla-en-el-cabello-5-10-o-30-minutos/"
+    "/mascarillas-hidratacion-y-proteinas/para-que-sirven-las-ceramidas-en-el-cabello-decolorado/",
+    "/mascarillas-hidratacion-y-proteinas/como-aplicar-la-mascarilla-mechon-por-mechon-enhebrado-capilar/",
+    "/mascarillas-hidratacion-y-proteinas/por-que-nunca-debes-aplicar-mascarilla-en-la-raiz-o-cuero-cabelludo/",
+    "/mascarillas-hidratacion-y-proteinas/como-alternar-elizavecca-cer-100-y-moroccanoil-hydrating-mask/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/mascarillas-hidratacion-y-proteinas.webp"
 }

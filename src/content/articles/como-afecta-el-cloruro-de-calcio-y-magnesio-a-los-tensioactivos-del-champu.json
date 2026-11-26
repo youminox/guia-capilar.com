@@ -4,161 +4,130 @@
   "path": "/ingredientes-y-ciencia-capilar/como-afecta-el-cloruro-de-calcio-y-magnesio-a-los-tensioactivos-del-champu/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "por que el agua dura corta la espuma del champu",
   "title": "La Química de la Espuma: Por Qué los Iones de Calcio del Agua Dura Cortan la Espuma del Champú y Dejan Residuo",
-  "seoTitle": "La Química de la Espuma | Guía Capilar",
-  "metaDescription": "La Química de la Espuma: Por Qué los Iones de Calcio del Agua Dura Cortan la Espuma del Champú y Dejan Residuo: El calcio reacciona con los tensioactivos formando sales insolubles que se depositan sobre el pelo teñido si el champú no incluye quelantes. Guía paso a paso según tipo de cabello, forma de uso y costo por aplicación en Amazon.",
-  "excerpt": "El calcio reacciona con los tensioactivos formando sales insolubles que se depositan sobre el pelo teñido si el champú no incluye quelantes.",
-  "quickAnswer": "Sobre por que el agua dura corta la espuma del champu: El calcio reacciona con los tensioactivos formando sales insolubles que se depositan sobre el pelo teñido si el champú no incluye quelantes. Para maximizar resultados y ahorrar en cada dosis, aplica el producto sobre cabello húmedo secado con toalla de microfibra, respeta los minutos exactos de actuación y sella siempre a pH 4.5 con protector térmico.",
+  "seoTitle": "La Química de la Espuma: Por Qué los Iones de Calcio del Agua Dura Cortan la Espuma del Champú y Dejan Residuo | guia-capilar.com",
+  "metaDescription": "Descubre por qué el calcio y el magnesio del agua dura cortan la espuma del champú, dejan residuo áspero en el pelo teñido y cómo quelarlos con éxito.",
+  "excerpt": "La química de las micelas explicada paso a paso: cómo reaccionan los cationes divalentes del agua dura con los tensioactivos del champú y qué quelantes evitan la escoria cálcica.",
+  "quickAnswer": "El agua dura contiene altas concentraciones de cationes divalentes de calcio (Ca2+) y magnesio (Mg2+) que reaccionan químicamente con las cabezas de carga negativa de los tensioactivos del champú. Esta unión destruye las micelas generadoras de espuma y precipita sales cálcicas insolubles (escoria mineral) que se adhieren a las cargas negativas del cabello decolorado, dejándolo áspero y opaco a menos que se utilicen agentes quelantes como el ácido cítrico, el EDTA o la glicoamina.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Photorealistic editorial haircare photography: a modern chrome shower head with a water filter attachment and chelating detox cream shampoo protecting dyed hair (por que el agua dura corta la espuma del champu). Composition: macro close-up of glossy hair strands next to a glass pipette dropping golden bonding oil onto the ends, featuring soft sandy beige bronde wavy hair freshly toned and healthy, set in travertine and brushed brass dressing table under a natural skylight. Ultra-realistic skin and hair fiber cuticle texture, DSLR 85mm f/2.0 lens, no text, no brand logos, no watermarks.",
+    "prompt": "High-angle 45-degree workbench/tabletop perspective on 28mm lens: realistic scene illustrating 'La Química de la Espuma: Por Qué los Iones de Calcio del Agua Dura Cortan la Espuma del Champú y Dejan Residuo' (por que el agua dura corta la espuma del champu) for guia-capilar.com, featuring equipment in arctic white with warm stone-gray details, on a matte dark-gray technical mat with measuring tools nearby, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "La Química de la Espuma: Por Qué los Iones de Calcio del Agua Dura Cortan la Espuma del Champú y Dejan Residuo"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando cuidas un cabello teñido, con mechas *balayage* o decolorado, comprender con exactitud **por que el agua dura corta la espuma del champu** marca la diferencia entre gastar dinero en productos que se quedan en la superficie o lograr una fibra fuerte, elástica y con brillo espejo. El calcio reacciona con los tensioactivos formando sales insolubles que se depositan sobre el pelo teñido si el champú no incluye quelantes."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía especializada del silo de **[Ingredientes Y Ciencia Capilar](/ingredientes-y-ciencia-capilar/)** analizamos el fundamento químico, la adaptación por tipo de cabello (fino, medio, grueso o rizado), la forma de aplicación al minuto y el impacto en el **costo por aplicación** con los tratamientos líderes de Amazon Estados Unidos y España: **[K18 Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)**, **[Olaplex No. 3](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)**, **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)**, **[L’Oréal Metal Detox](/resenas-tratamientos-y-productos/loreal-professionnel-metal-detox-mask/)** y **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**."
+      "text": "Te mudas de ciudad o viajas de vacaciones, entras a la ducha con tu champú sin sulfatos favorito para cabello teñido, aplicas la dosis habitual sobre la palma y, por más que frotas, la espuma desaparece en segundos dejando tus mechas con una textura pastosa, pesada y opaca al secarse. No es que tu champú se haya estropeado: estás sufriendo una reacción de precipitación iónica en tiempo real. Comprender por qué el agua dura corta la espuma del champú a través de la química del cloruro y carbonato de calcio ($Ca^{2+}$) y magnesio ($Mg^{2+}$) es fundamental para evitar que tu cabello decolorado acumule una costra mineral invisible que bloquea cualquier mascarilla cara."
     },
     {
       "type": "h2",
-      "text": "Fundamento tricológico y tabla técnica: por que el agua dura corta la espuma del champu"
+      "text": "Reacción de Precipitación Micelar: Cómo el Calcio ($Ca^{2+}$) Desactiva los Tensioactivos del Champú"
     },
     {
       "type": "p",
-      "text": "El cabello procesado químicamente presenta una cutícula más abierta (porosidad media a alta) y una reducción de enlaces disulfuro y lípidos 18-MEA. Por eso, aplicar correctamente lo relativo a **por que el agua dura corta la espuma del champu** evita tanto la sobrecarga cosmética (apelmazamiento o rigidez proteica) como la rotura por fatiga higral o térmica."
+      "text": "Para generar espuma y limpiar el sebo, todo champú utiliza **tensioactivos aniónicos** (moléculas limpiadoras cuya cabeza hidrofílica tiene carga eléctrica negativa, como el *Sodium Lauroyl Methyl Isethionate*, el *Sodium Cocoyl Isethionate* de **Olaplex No. 4** o el *Sodium Laureth Sulfate*). En agua blanda (**< 60 ppm** de carbonato cálcico equivalente), estas cabezas negativas se repelen entre sí y se organizan alrededor de las burbujas de aire formando **micelas** estables que atrapan la grasa y producen una espuma densa y cremosa. Sin embargo, cuando el agua del grifo es dura o muy dura (**150 a más de 300 ppm**), viene cargada de **cationes divalentes** disueltos: iones de calcio (**$Ca^{2+}$**), magnesio (**$Mg^{2+}$**) y trazas de cobre (**$Cu^{2+}$**) o hierro de las tuberías."
+    },
+    {
+      "type": "p",
+      "text": "Al tener doble carga positiva (**+2**), cada ion de calcio **$Ca^{2+}$** actúa como un imán que secuestra simultáneamente a **dos moléculas de tensioactivo aniónico** con carga negativa (**-1**). En lugar de formar micelas espumosas en la interfaz agua-aire, esta unión química forma **sales de calcio y magnesio insolubles en agua** (conocidas en química como *escoria cálcica* o *soap scum*). El resultado es doble dentro de nuestra guía de [ingredientes y ciencia capilar](/ingredientes-y-ciencia-capilar/): primero, el champú pierde hasta un **60% de su capacidad espumante**, obligándote a gastar el doble de producto; segundo, ese precipitado insoluble de tensioactivo + calcio se adhiere directamente sobre las escamas abiertas cuya estructura analizamos en la [anatomía de la fibra capilar en la decoloración](/ingredientes-y-ciencia-capilar/anatomia-de-la-fibra-capilar-cuticula-cortex-y-medula-en-la-decoloracion/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia capilar y costo por uso para: por que el agua dura corta la espuma del champu",
       "headers": [
-        "Variable Capilar",
-        "Ajuste / Protocolo Óptimo",
-        "Impacto en tu Cabello y Costo/Dosis"
+        "Ion Mineral en el Agua",
+        "Efecto sobre los Tensioactivos del Champú",
+        "Efecto Directo en el Cabello Teñido o Decolorado",
+        "Agente Quelante Específico en el INCI"
       ],
       "rows": [
         [
-          "Diagnóstico principal",
-          "El calcio reacciona con los tensioactivos formando sales insolubles que se depositan sobre el pelo teñido si el champú no incluye quelantes.",
-          "Evita compras innecesarias y mejora la absorción"
+          "Calcio (Ca2+) y Magnesio (Mg2+) (> 150 ppm)",
+          "Precipita los tensioactivos aniónicos, corta la espuma y forma sales insolubles (residuo opaco)",
+          "Calcifica la cutícula porosa, vuelve el cabello rígido, áspero y bloquea la entrada de mascarillas",
+          "Citric Acid, Disodium EDTA, Tetrasodium Glutamate Diacetate, Sodium Citrate"
         ],
         [
-          "Cabello Fino Decolorado",
-          "Dosis mínima (1 pump / 2-3 ml) sin mantecas pesadas",
-          "Repara sin quitar volumen y el envase dura el doble"
+          "Cobre (Cu2+) (tuberías de agua caliente)",
+          "Acelera la oxidación de fragancias y activos antioxidantes durante el lavado",
+          "Penetra al córtex, vira el rubio hacia tonos verdosos/apagados y cataliza rotura con el próximo tinte",
+          "Glicoamina (Glycine al 10% en L’Oréal Metal Detox), Trisodium Ethylenediamine Disuccinate"
         ],
         [
-          "Cabello Medio a Grueso / Rizado",
-          "Dosis estándar (2-3 pumps / 5-10 ml) + sellado lipídico",
-          "Restaura elasticidad, controla el frizz y sella puntas"
-        ],
-        [
-          "pH y Humedad de Aplicación",
-          "Humedad al 70% (secado con microfibra) y cierre a pH 4.5",
-          "Impide que el agua diluya el activo o que el tinte se fugue"
-        ],
-        [
-          "Termoprotección Obligatoria",
-          "Escudo hasta 450 °F (230 °C) con plancha a máx. 330–365 °F",
-          "Protege los enlaces reparados por solo ~$0.25–$0.75/uso"
+          "Hierro (Fe2+/Fe3+) (agua de pozo o cañerías antiguas)",
+          "Enturbia la fase acuosa y reduce la eficacia de los polímeros acondicionadores catiónicos",
+          "Oxida los rubios platinos y mechas cenizas virándolos hacia un subtono anaranjado o cobrizo oxidado",
+          "Phytic Acid (Ácido Fítico), EDTA, Ácido Cítrico / Málico (AHA)"
         ]
-      ]
+      ],
+      "caption": "Impacto de los iones minerales del agua dura sobre el champú y sobre la fibra decolorada (y cómo neutralizarlos)"
+    },
+    {
+      "type": "h2",
+      "text": "Por Qué el Cabello Decolorado Atrae el Calcio y el Cobre Diez Veces Más que el Pelo Virgen"
+    },
+    {
+      "type": "p",
+      "text": "Si compartes ducha con alguien que tiene el cabello virgen, notarás que su pelo tolera el agua dura mucho mejor que tus mechas decoloradas. La explicación reside en la **electrostática de los aminoácidos oxidados**. Cuando el persulfato rompe los puentes de cistina de la queratina —cuya importancia estructural explicamos en el artículo sobre [los 18 aminoácidos de la queratina capilar](/ingredientes-y-ciencia-capilar/que-son-los-18-aminoacidos-de-la-queratina-capilar-cisteina-serina-acido-glutamico/)—, se forman grupos de **ácido cisteico o sulfonato ($-SO_3^-$)** permanentemente cargados de forma negativa a lo largo de toda la fibra."
+    },
+    {
+      "type": "p",
+      "text": "Esas cargas negativas convierten a tu cabello decolorado en una resina de intercambio iónico: cada vez que te duchas con agua dura, los cationes **$Ca^{2+}$**, **$Mg^{2+}$** y **$Cu^{2+}$** se pegan electrostáticamente a los grupos sulfonato del cabello. Peor aún, al ocupar esos sitios negativos, los minerales impiden que los acondicionadores catiónicos (que explicamos en la [diferencia entre Behentrimonium Chloride y Cetrimonium Chloride](/ingredientes-y-ciencia-capilar/diferencia-entre-behentrimonium-chloride-y-cetrimonium-chloride-en-mascarillas/)) puedan anclarse para desenredar. Para romper este círculo vicioso se necesitan **agentes quelantes**: desde el **Ácido Cítrico** y el **Ácido Málico** (que atrapan el calcio superficial como vimos en [cómo funcionan los AHA y el Omega-9 en Wella Ultimate Repair](/ingredientes-y-ciencia-capilar/como-funcionan-los-alfa-hidroxiacidos-aha-y-el-omega-9-en-wella-ultimate-repair/)) hasta la **Glicoamina** (presente en **L’Oréal Professionnel Metal Detox Cleansing Cream Shampoo** y **Metal Detox Mask 250 ml** al **10%**), la única molécula quelante suficientemente pequeña (**75 Da**) para extraer el cobre acumulado dentro del córtex."
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de tricología y ahorro sobre por que el agua dura corta la espuma del champu",
-      "text": "El calcio reacciona con los tensioactivos formando sales insolubles que se depositan sobre el pelo teñido si el champú no incluye quelantes. Recuerda ajustar siempre la cantidad en mililitros o pumps al grosor de tu cabello y sellar la cutícula a pH 4.5–5.0 con protección térmica antes de aplicar calor."
+      "text": "Si tu primer lavado en agua dura casi no hace espuma, no vacíes medio bote de champú de golpe: solo generarás más precipitado de sales cálcicas sobre tu cutícula. En su lugar, aplica una dosis pequeña (el tamaño de una moneda), masajea 20 segundos para que los quelantes de la fórmula (como Disodium EDTA o Citric Acid) secuestren los iones de calcio superficiales, aclara por completo y realiza un segundo lavado con otra dosis pequeña; verás cómo en la segunda pasada la espuma se multiplica instantáneamente.",
+      "title": "Por qué frotar más fuerte o echar el triple de champú empeora el residuo de agua dura"
     },
     {
       "type": "h2",
-      "text": "Protocolo paso a paso para aplicar por que el agua dura corta la espuma del champu en casa"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este método de 4 pasos verificados para obtener resultados de salón optimizando cada gota de producto:"
+      "text": "Protocolo Anti-Agua Dura para Recuperar la Espuma, el Brillo y el Matiz Rubio"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Limpieza selectiva en raíz sin fricción en puntas",
-          "text": "Lava el cuero cabelludo con un champú sin sulfatos de pH ácido (o un champú quelante como L’Oréal Metal Detox / K18 Detox si toca limpieza profunda) y deja que la espuma deslice verticalmente sin frotar las puntas decoloradas."
+          "name": "Introduce un champú quelante sin sulfatos agresivos (1 a 2 veces por semana)",
+          "text": "Sustituye tu champú habitual por una fórmula desintoxicante con Glicoamina o quelantes de amplio espectro como L’Oréal Professionnel Metal Detox Cleansing Cream Shampoo. A diferencia de los champús clarificantes antiguos con sulfatos fuertes, este sistema retira el cobre y el calcio sin barrer los pigmentos del tinte."
         },
         {
-          "name": "Paso 2: Control de humedad al 70 % con toalla de microfibra",
-          "text": "Antes de aplicar tu tratamiento reconstructor o mascarilla, presiona suavemente el cabello con una toalla de microfibra para retirar el agua que gotea; recuerda que si aplicas K18 NO debes poner acondicionador antes."
+          "name": "Sella con mascarilla quelante o pre-tratamiento de ácido cítrico (pH 4.5)",
+          "text": "Tras aclarar el champú, aplica L’Oréal Professionnel Metal Detox Mask (250 ml) durante 3 a 5 minutos para blindar la fibra frente a la reabsorción de metales del agua de aclarado, o utiliza Redken Acidic Bonding Concentrate Intensive Pre-Treatment antes del lavado para disolver los depósitos cálcicos con su 14% de complejo de ácido cítrico."
         },
         {
-          "name": "Paso 3: Dosificación exacta en las palmas y tiempo de exposición",
-          "text": "Mide tu dosis exacta en pumps o mililitros (1 a 2 pumps para K18 esperando 4 minutos; 5 ml en húmedo durante 20 minutos para Olaplex No. 3; o 5–10 minutos para mascarillas como Olaplex No. 8 y Elizavecca CER-100)."
-        },
-        {
-          "name": "Paso 4: Sellado ácido y blindaje térmico antes del secado",
-          "text": "Aplica tu protector térmico hasta 450 °F (Redken Acidic Bonding Leave-In, Color Wow Dream Coat o Kenra Blow-Dry Spray), desenreda de puntas a raíz con un cepillo flexible y finaliza en seco con 2 gotas de Olaplex No. 7 Bonding Oil."
+          "name": "Realiza el último aclarado con agua tibia-fría o instala un filtro de cabezal de ducha",
+          "text": "Las tuberías del calentador o termo doméstico liberan hasta 3 veces más iones de cobre y calcio cuando el agua sale muy caliente. Templar el agua en el enjuague final reduce la transferencia mineral y mantiene las escamas cerradas."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas sobre cómo adaptar por que el agua dura corta la espuma del champu a tu tipo exacto de cabello? Consulta gratis en vivo a nuestra Asesora Capilar IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes que debes evitar para no malgastar producto"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Usar más cantidad creyendo que reparará más rápido:** la fibra capilar tiene un límite físico de absorción; el excedente solo apelmaza y duplica tu costo por aplicación.",
-        "**Aplicar tratamientos caros sobre cabello chorreando agua:** el agua libre bloquea la entrada al córtex y hace que la crema resbale al desagüe.",
-        "**No alternar proteínas con hidratación lipídica:** abusar de la queratina sin aportar humectantes y aceites (como Moroccanoil o Color Wow Money Masque) vuelve la hebra rígida.",
-        "**Planchar a 410 °F–450 °F sobre cabello decolorado:** degrada el matiz rubio a amarillo en una sola pasada y destruye los puentes disulfuro recién reparados."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Productos recomendados en Amazon Estados Unidos y España"
-    },
-    {
-      "type": "p",
-      "text": "Para poner en práctica esta guía con la mejor relación calidad-precio por aplicación, revisa nuestra selección en Amazon: desde **[K18 Leave-In Molecular Repair Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)** y **[Olaplex No. 3 Hair Perfector](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)** hasta **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)** y la económica **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Vives en una zona de agua dura o con cloro y notas que tus mechas rubias pierden brillo en pocos lavados? Consulta a nuestro Asesor IA para armar tu escudo quelante o revisa la disponibilidad de la línea L’Oréal Metal Detox y Redken Acidic Bonding en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla más importante sobre por que el agua dura corta la espuma del champu?",
-      "a": "El calcio reacciona con los tensioactivos formando sales insolubles que se depositan sobre el pelo teñido si el champú no incluye quelantes. Además, respeta siempre los minutos de espera en cabello húmedo al 70% y mide la dosis en pumps o mililitros según tu grosor capilar."
+      "q": "¿Un filtro de ducha de carbón o KDF elimina todo el calcio del agua dura?",
+      "a": "No por completo. Los filtros de ducha compactos con KDF-55 y sulfito de calcio son excelentes para eliminar el cloro libre y reducir metales pesados oxidados, pero no tienen capacidad física de intercambio iónico suficiente para ablandar los carbonatos de calcio y magnesio; por eso sigues necesitando un champú o tratamiento con agentes quelantes."
     },
     {
-      "q": "¿Cómo adapto este consejo si mi cabello es muy fino y decolorado?",
-      "a": "En cabello fino utiliza la mitad de la dosis estándar (ej. 1 solo pump de K18 o 1 gota de Olaplex No. 7), concéntralo de medios a puntas lejos de la raíz y prioriza texturas ligeras como Wella Ultimate Repair o Color Wow Money Masque."
+      "q": "¿Cuál es la diferencia entre un champú clarificante normal y un champú quelante como Metal Detox?",
+      "a": "Porque un champú clarificante convencional usa tensioactivos aniónicos potentes (como Sodium Lauryl Sulfate o C14-16 Olefin Sulfonate) diseñados para arrastrar siliconas, aceites y ceras, pero el calcio y el cobre están unidos por enlaces iónicos y de coordinación a la queratina. Solo los agentes quelantes (Glicoamina, EDTA, Ácido Cítrico) pueden despegar los metales sin resecar ni barrer el tinte."
     },
     {
-      "q": "¿Qué producto de Amazon ofrece el mejor costo por aplicación para complementar este paso?",
-      "a": "Para sellado diario de puntas y protección térmica hasta 450 °F, Olaplex No. 7 Bonding Oil cuesta solo ~$0.25 USD por uso (120+ aplicaciones); y como mascarilla de colágeno y ceramidas, Elizavecca CER-100 cuesta ~$0.55 USD por aplicación."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Journal of Cosmetic Science – Hair Porosity, pH & Peptide Repair",
-      "url": "https://www.scconline.org/"
-    },
-    {
-      "label": "International Journal of Cosmetic Science",
-      "url": "https://onlinelibrary.wiley.com/journal/14682494"
+      "q": "¿El agua dura también corta la espuma de los champús sin sulfatos (sulfate-free)?",
+      "a": "Sí, totalmente. Aunque los tensioactivos sin sulfatos (como Sodium Cocoyl Isethionate o Cocamidopropyl Betaine) resisten un poco mejor la precipitación que los jabones tradicionales, los iones Ca2+ siguen aumentando la tensión superficial del agua y desestabilizando las lamelas de las burbujas, reduciendo drásticamente el volumen de espuma en el primer lavado."
     }
   ],
   "related": [
-    "/ingredientes-y-ciencia-capilar/",
-    "/ingredientes-y-ciencia-capilar/que-es-la-higroscopicidad-del-cabello-y-por-que-provoca-el-encrespamiento/",
-    "/ingredientes-y-ciencia-capilar/diferencia-entre-queratina-biomimetica-y-queratina-hidrolizada-animal/",
-    "/comparativas/k18-vs-olaplex-no-3/"
+    "/ingredientes-y-ciencia-capilar/como-funcionan-los-alfa-hidroxiacidos-aha-y-el-omega-9-en-wella-ultimate-repair/",
+    "/ingredientes-y-ciencia-capilar/diferencia-entre-behentrimonium-chloride-y-cetrimonium-chloride-en-mascarillas/",
+    "/ingredientes-y-ciencia-capilar/anatomia-de-la-fibra-capilar-cuticula-cortex-y-medula-en-la-decoloracion/",
+    "/ingredientes-y-ciencia-capilar/que-son-los-18-aminoacidos-de-la-queratina-capilar-cisteina-serina-acido-glutamico/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/como-afecta-el-cloruro-de-calcio-y-magnesio-a-los-tensioactivos-del-champu.webp"
 }

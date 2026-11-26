@@ -3,159 +3,133 @@
   "pillar": "tipo-de-cabello-y-porosidad",
   "path": "/tipo-de-cabello-y-porosidad/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "porosidad capilar en cabello decolorado fino grueso o rizado",
   "title": "Tipo de Cabello (Fino, Grueso, Rizado) y Porosidad Capilar en Pelo Teñido",
-  "seoTitle": "Porosidad Capilar y Rutinas para Cabello Fino, Grueso o Rizado Decolorado",
-  "metaDescription": "Tipo de Cabello (Fino, Grueso, Rizado) y Porosidad Capilar en Pelo Teñido: hub completo con 55 guías sobre adaptación de tratamientos para cabello fino decolorado que pierde volumen, cabello grueso y rebelde, cabello rizado u ondulado teñido (2A a 4C) y diagnóstico de porosidad alta, media y baja y ofertas en Amazon EE. UU. y España.",
-  "excerpt": "Explora las 55 guías especializadas de este silo sobre adaptación de tratamientos para cabello fino decolorado que pierde volumen, cabello grueso y rebelde, cabello rizado u ondulado teñido (2A a 4C) y diagnóstico de porosidad alta, media y baja.",
-  "quickAnswer": "En esta sección principal de Tipo de Cabello (Fino, Grueso, Rizado) y Porosidad Capilar en Pelo Teñido reunimos 55 guías verificadas sobre adaptación de tratamientos para cabello fino decolorado que pierde volumen, cabello grueso y rebelde, cabello rizado u ondulado teñido (2A a 4C) y diagnóstico de porosidad alta, media y baja, diseñadas para ayudarte a elegir y aplicar mascarillas, tratamientos como K18 y Olaplex, champús y protectores térmicos optimizando tu costo por aplicación en Amazon.",
+  "seoTitle": "Tipo de Cabello (Fino, Grueso, Rizado) y Porosidad Capilar en Pelo Teñido | guia-capilar.com",
+  "metaDescription": "Cómo adaptar K18, Olaplex y mascarillas según tu porosidad capilar y tipo de cabello (fino, grueso, rizado o afro 4A-4C) cuando está teñido o decolorado.",
+  "excerpt": "Una hebra fina de porosidad alta no absorbe los tratamientos igual que un rizo 3C o un cabello grueso: diagnostica tu diámetro y el estado de tu cutícula para acertar con la textura de cada producto.",
+  "quickAnswer": "La decoloración eleva artificialmente la porosidad capilar al abrir las escamas cuticulares, pero el diámetro de la hebra (fino de **menos de 50 micras** frente a grueso de **más de 80 micras**) y su patrón de rizo definen qué vehículo cosmético usar. Un cabello fino decolorado requiere líquidos o geles ligeros como **Olaplex No. 0** y **K18 Mask**, mientras que hebras gruesas o rizadas necesitan cremas densas con **ceramidas** y **ácido cítrico**.",
   "readingMinutes": 8,
   "image": {
-    "prompt": "Photorealistic editorial portrait comparing healthy defined bleached curly 3B hair and sleek fine blonde hair with mirror shine in soft natural window light",
-    "alt": "Texturas de cabello rizado con mechas y cabello fino liso decolorado con brillo espejo"
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'Tipo de Cabello (Fino, Grueso, Rizado) y Porosidad Capilar en Pelo Teñido' (porosidad capilar en cabello decolorado fino grueso o rizado) for guia-capilar.com, featuring equipment in sleek titanium silver with carbon-gray texture, in a clean modern garage or studio corner with slate flooring, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Tipo de Cabello (Fino, Grueso, Rizado) y Porosidad Capilar en Pelo Teñido"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Tipo de Cabello (Fino, Grueso, Rizado) y Porosidad Capilar en Pelo Teñido** en **GuíaCapilar.com**. Aquí reunimos toda la ciencia tricológica, pruebas de aplicación y análisis financiero sobre **adaptación de tratamientos para cabello fino decolorado que pierde volumen, cabello grueso y rebelde, cabello rizado u ondulado teñido (2A a 4C) y diagnóstico de porosidad alta, media y baja**, estructurados bajo una arquitectura sin canibalización para que elijas el producto exacto antes de consultar precios y comprar en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si necesitas rescatar un cabello decolorado con el péptido de 4 minutos **[K18 Leave-In Molecular Repair Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)**, fortalecer puentes disulfuro en húmedo con **[Olaplex No. 3 Hair Perfector](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)**, sellar la cutícula a pH 4.5 con **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)** o cuidar tu bolsillo con **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**, este silo responde cada duda paso a paso."
+      "text": "Comprar la misma mascarilla densa que dejó radiante la melena decolorada de otra persona y descubrir que en tu cabeza deja el pelo lacio, grasoso y pegado al cráneo en menos de dos horas tiene una explicación física sencilla: compartían el mismo nivel de decoloración, pero tenían un diámetro de fibra completamente distinto. Mientras que el proceso químico con persulfato y amoníaco eleva artificialmente la porosidad capilar abriendo las escamas de la cutícula, el grosor genético de tu hebra y su patrón de curvatura determinan qué peso molecular y qué vehículo cosmético puede soportar sin colapsar."
     },
     {
       "type": "h2",
-      "text": "Criterios de evaluación en Tipo de Cabello (Fino, Grueso, Rizado) y Porosidad Capilar en Pelo Teñido"
+      "text": "Porosidad inducida químicamente frente a grosor genético de la fibra"
     },
     {
       "type": "p",
-      "text": "En cada una de las **55 guías especializadas** de esta categoría evaluamos cuatro variables objetivas: **adecuación por tipo de cabello y porosidad** (fino, medio, grueso o rizado), **mecanismo químico del activo** (péptidos, enlaces disulfuro, ácido cítrico, quelantes o lípidos), **forma exacta de uso en minutos** y **costo real por aplicación en dólares ($/uso)**."
+      "text": "En tricología distinguimos dos variables que nunca deben confundirse al elegir productos en Amazon Estados Unidos: el calibre de la hebra y su porosidad. Un cabello fino mide menos de **50 micras** de diámetro y posee apenas **4 a 6 capas de cutícula**, mientras que un cabello grueso supera las **80 micras** y cuenta con hasta **10 o 12 capas cuticulares**; puedes identificar tu calibre exacto realizando en casa [el test del hilo de coser para saber en 10 segundos si tu hebra es fina, media o gruesa](/tipo-de-cabello-y-porosidad/como-saber-si-tu-cabello-es-fino-medio-o-grueso-el-test-del-hilo-de-coser/). Cuando decoloras un pelo fino, pasas a tener **porosidad alta en una estructura ligera**: necesitas moléculas diminutas que reparen por dentro sin peso superficial, como **K18 Leave-In Mask** (**1 a 2 ml**), **Olaplex No. 0** y el polímero acuoso **Color Wow Dream Coat**. Además, este perfil suele sufrir un contraste severo entre el cuero cabelludo y los largos, un escenario que resolvemos paso a paso en nuestra [rutina específica para cabello con raíz grasa y puntas decoloradas secas](/tipo-de-cabello-y-porosidad/como-cuidar-cabello-con-raiz-grasa-y-puntas-decoloradas-secas/)."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Tipo de Cabello (Fino, Grueso, Rizado) y Porosidad Capilar en Pelo Teñido",
       "headers": [
-        "Guía Capilar Especializada",
-        "Acceso Directo"
+        "Perfil Capilar Decolorado",
+        "Vulnerabilidad Principal",
+        "Tratamientos y Texturas Ideales",
+        "Fórmulas a Limitar o Dosificar"
       ],
       "rows": [
         [
-          "Qué Es la Porosidad Capilar (Alta, Media y Baja) y Cómo Cambia Cuando Te Tiñes o Decoloras",
-          "[Leer guía completa](/tipo-de-cabello-y-porosidad/que-es-la-porosidad-capilar-alta-media-y-baja-en-pelo-tenido/)"
+          "Cabello Fino + Porosidad Alta (Mechas o Rubio Global)",
+          "Pérdida rápida de volumen, apelmazamiento y rotura por tracción en húmedo",
+          "K18 Mask (1-2 pumps), Olaplex No. 0 + No. 3, Color Wow Dream Coat, Olaplex No. 7 (1-2 gotas)",
+          "Mantecas densas (karité puro) y exceso de acondicionadores pesados cerca de la raíz"
         ],
         [
-          "Por Qué el Test del Vaso de Agua para la Porosidad Suele Fallar y Cómo Hacer el Test de Deslizamiento y Spray",
-          "[Leer guía completa](/tipo-de-cabello-y-porosidad/por-que-el-test-del-vaso-de-agua-falla-y-como-medir-tu-porosidad-real/)"
+          "Cabello Grueso + Porosidad Alta (Decoloración o Balayage)",
+          "Rigidez severa, encrespamiento, tacto áspero y evaporación rápida de agua",
+          "Redken Acidic Bonding (Pre-Treatment + Leave-In pH 4.5), Olaplex No. 8, L’Oréal Metal Detox Mask",
+          "Abusar de proteínas hidrolizadas puras en cada lavado sin intercalar lípidos humectantes"
         ],
         [
-          "Rutina Completa para Cabello de Porosidad Alta por Decoloración: Cómo Retener la Hidratación",
-          "[Leer guía completa](/tipo-de-cabello-y-porosidad/rutina-completa-para-cabello-de-porosidad-alta-decolorado/)"
+          "Cabello Rizado (Patrón 2C a 3C) Teñido o con Mechas",
+          "Pérdida de definición y elasticidad del bucle por ruptura de puentes disulfuro",
+          "K18 Mask o Olaplex No. 3 + Elizavecca CER-100 quincenal + Amodimethicone selectiva o leave-in ácido",
+          "Cepillado en seco y secado con difusor a temperatura máxima sin protector térmico"
         ],
         [
-          "Cabello Teñido de Porosidad Baja: Por Qué las Mascarillas se Quedan Encima y Lo Engrasan",
-          "[Leer guía completa](/tipo-de-cabello-y-porosidad/como-cuidar-cabello-tenido-de-porosidad-baja-que-repele-las-mascarillas/)"
-        ],
-        [
-          "Cómo Tratar un Cabello de Porosidad Mixta (Raíz Virgen de Baja Porosidad y Puntas Decoloradas de Alta Porosidad)",
-          "[Leer guía completa](/tipo-de-cabello-y-porosidad/porosidad-mixta-raiz-de-porosidad-baja-y-puntas-de-porosidad-alta/)"
-        ],
-        [
-          "Guía Maestra para Cabello Fino y Decolorado: Cómo Reparar Enlaces sin Apelmazar ni Ensuciar",
-          "[Leer guía completa](/tipo-de-cabello-y-porosidad/como-cuidar-el-cabello-fino-y-decolorado-sin-que-pierda-volumen/)"
-        ],
-        [
-          "Por Qué el Cabello Fino Sufre el Doble de Rotura Mecánica tras una Decoloración que el Cabello Grueso",
-          "[Leer guía completa](/tipo-de-cabello-y-porosidad/por-que-el-cabello-fino-se-rompe-mas-facil-con-las-mechas/)"
-        ],
-        [
-          "Diferencia entre Grosor de Hebra (Cabello Fino vs Grueso) y Densidad Capilar (Poca vs Mucha Cantidad)",
-          "[Leer guía completa](/tipo-de-cabello-y-porosidad/diferencia-entre-cabello-fino-y-poca-cantidad-de-cabello-baja-densidad/)"
-        ],
-        [
-          "Cuánta Cantidad de K18, Olaplex y Aceite Usar si Tienes Cabello Fino y Poca Densidad",
-          "[Leer guía completa](/tipo-de-cabello-y-porosidad/como-cuidar-cabello-fino-y-poca-cantidad-decolorado-dosis-exacta/)"
-        ],
-        [
-          "Rutina para Cabello Grueso y Decolorado: Cómo Ablandar la Fibra Áspera y Controlar el Volumen",
-          "[Leer guía completa](/tipo-de-cabello-y-porosidad/rutina-para-cabello-grueso-y-decolorado-que-se-siente-duro-y-esponjado/)"
-        ],
-        [
-          "Cuidado con el Exceso de Queratina en Cabello Grueso: Por Qué Necesita Más Lípidos que Proteínas",
-          "[Leer guía completa](/tipo-de-cabello-y-porosidad/por-que-el-cabello-grueso-tolera-menos-las-proteinas-en-exceso/)"
-        ],
-        [
-          "Por Qué se Pierde o Estira el Rizo Después de Decolorar y Cómo Recuperar tu Patrón en 4 Semanas",
-          "[Leer guía completa](/tipo-de-cabello-y-porosidad/como-recuperar-los-rizos-despues-de-una-decoloracion-o-balayage/)"
+          "Cabello Afro y Texturizado (Patrón 4A a 4C) con Color",
+          "Fractura en los puntos de torsión elíptica de la hebra y deshidratación crónica del córtex",
+          "Olaplex No. 0 + No. 3 pre-lavado, mascarillas lipídicas con ceramidas y sellado con aceites en húmedo",
+          "Champús clarificantes frecuentes con sulfatos agresivos y decoloraciones de 30-40 volúmenes"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "etiqueta",
-      "title": "Cómo elegir según tu daño y costo por aplicación",
-      "text": "Recuerda la regla fundamental: K18 (~$1.55-$2.30/uso) se aplica en 4 minutos SIN acondicionador previo para daño severo o cabello chicloso; Olaplex No. 3 (~$1.40/uso) es un pre-champú en húmedo de 15-30 minutos; Redken Acidic Bonding (~$1.15/uso) sella el pH 4.5 y protege hasta 450 °F; y Elizavecca CER-100 (~$0.55/uso) aporta colágeno hidrolizado por menos de $10 en Amazon."
+      ],
+      "caption": "Matriz de selección de tratamientos para pelo teñido o decolorado según grosor, patrón y porosidad"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces de Amazon"
+      "text": "Rizos y texturas afro (3A a 4C) con color: flexibilidad estructural y uso inteligente de siliconas"
     },
     {
-      "type": "ol",
+      "type": "p",
+      "text": "En los cabellos rizados y texturizados, la forma elíptica o plana del folículo hace que la hebra crezca girando sobre su propio eje. En cada curva o punto de torsión del rizo, las escamas de la cutícula están naturalmente más levantadas que en un cabello liso, impidiendo que el sebo natural viaje desde el cuero cabelludo hasta las puntas. Cuando añades tinte o decoloración a esa geometría, las reglas estrictas de las rutinas para cabello virgen dejan de ser suficientes. Analizamos en detalle por qué los reconstructores moleculares y ciertas siliconas inteligentes no acumulables salvan el rizo teñido en nuestra guía sobre la [compatibilidad de K18, Olaplex No. 3 y siliconas con el Método Curly en pelo decolorado](/tipo-de-cabello-y-porosidad/metodo-curly-en-cabello-decolorado-cuando-si-vale-la-pena-usar-siliconas-o-plex/). Del mismo modo, para espirales cerradas que requieren máxima lubricación y retención lipídica tras las mechas, hemos desarrollado el protocolo de [cuidado especializado del cabello afro y texturizado 4A-4C con mechas o tinte](/tipo-de-cabello-y-porosidad/como-cuidar-cabello-afro-o-texturizado-4a-4b-4c-con-color-o-decoloracion/)."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "El famoso test de soltar un cabello en un vaso de agua para ver si flota o se hunde suele dar resultados falsos en pelo teñido: si usaste ayer un aceite como Olaplex No. 7 o un spray hidrofóbico como Color Wow Dream Coat, la hebra flotará por tensión superficial aunque sea extremadamente porosa. Para diagnosticar tu porosidad real, desliza dos dedos desde la punta hacia la raíz sobre un cabello limpio y seco sin productos: si sientes pequeños bultos o aspereza y el pelo se empapa en 5 segundos bajo la ducha pero se seca rapidísimo quedando encrespado, tu porosidad es alta.",
+      "title": "Por qué el test del vaso de agua falla en cabellos con restos de siliconas o aceites"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo sellar una cutícula de porosidad extrema para que retenga la hidratación más de 24 horas"
+    },
+    {
+      "type": "steps",
       "items": [
-        "**Identifica tu porosidad y grosor:** un cabello fino decolorado necesita fórmulas sin peso (K18, Wella Ultimate Repair 90s, Color Wow Money Masque), mientras que uno grueso o rizado agradece lípidos densos (Moroccanoil, Kérastase Thérapiste, Olaplex No. 6).",
-        "**Respeta la dosis exacta en pumps o mililitros:** usar el doble de producto no repara el doble; satura la cutícula y duplica tu gasto mensual.",
-        "**Consulta el precio actualizado en tu tienda Amazon:** nuestras tarjetas apuntan por defecto a **Amazon Estados Unidos (`guia-capilar-20`)** y cambian automáticamente a **Amazon España (`guia-capilar-21`)** si navegas desde Europa."
+        {
+          "name": "Limpieza a pH ácido sin hinchar la corteza (Lavado base)",
+          "text": "Lava con un champú de pH ácido entre 4.5 y 5.5 libre de sulfatos SLS/SLES (como Redken Acidic Bonding o L’Oréal Metal Detox) usando agua tibia para evitar que la cutícula dañada se abra aún más durante la higiene."
+        },
+        {
+          "name": "Relleno de huecos corticales con péptidos o ceramidas (Fase interna)",
+          "text": "Una hebra de porosidad alta es como una pared con huecos: aplica K18 Leave-In Mask (4 minutos) para reconectar la red de queratina, o bien usa Elizavecca CER-100 (5 minutos) en lavados alternos para rellenar las fisuras con colágeno hidrolizado y Ceramida 3."
+        },
+        {
+          "name": "Cierre químico de escamas con ácido cítrico al 14 % (Fase cuticular)",
+          "text": "En los lavados donde uses mascarilla hidratante (como Olaplex No. 8), aplica encima o alterna con el sistema Redken Acidic Bonding Concentrate para llevar la fibra cerca de su punto ácido ideal (pH 4.5) y obligar a las escamas a plegarse sobre el tallo."
+        },
+        {
+          "name": "Clausura hidrofóbica según el grosor de tu hebra (Fase de sellado)",
+          "text": "Atrapa la humedad dentro del córtex aplicando un escudo externo adaptado a tu diámetro: en cabello fino usa Color Wow Dream Coat o 2 gotas de Olaplex No. 7; en cabello grueso o rizado sella en húmedo con medio pump de Olaplex No. 6 emulsionado con No. 7."
+        }
       ]
     },
     {
       "type": "cta",
-      "text": "¿No sabes qué tratamiento, mascarilla o protector térmico de este silo necesita tu cabello hoy? Pregúntale en vivo a nuestra Asesora Capilar IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro para el cabello teñido o decolorado"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Lava sin sulfatos y quela los metales del agua:** usa champús a pH 4.5–5.5 (Pureology Hydrate, Olaplex No. 4) y desintoxica el cobre del agua dura con L’Oréal Metal Detox o K18 Detox.",
-        "**No uses acondicionador antes de K18:** espera siempre sus 4 minutos reglamentarios sobre cabello secado con toalla antes de aplicar cualquier crema o aceite.",
-        "**Alterna reconstrucción e hidratación:** los bondeadores reparan por dentro, pero necesitas mascarillas hidratantes/lipídicas (Olaplex No. 8, Moroccanoil) para dar suavidad y flexibilidad externa.",
-        "**Protección térmica obligatoria hasta 450 °F (230 °C):** jamás pases el secador o la plancha sobre pelo decolorado sin un escudo como Color Wow Dream Coat, Redken Acidic Leave-In, Kenra Blow-Dry o 2 gotas de Olaplex No. 7."
-      ]
+      "text": "Consulta la disponibilidad de los tratamientos recomendados para tu grosor y porosidad en las tarjetas de Amazon de esta página, o haz el diagnóstico rápido con nuestro Asesor IA para obtener tu rutina exacta."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Tipo de Cabello (Fino, Grueso, Rizado) y Porosidad Capilar en Pelo Teñido?",
-      "a": "Incluye 55 artículos técnicos detallados sobre adaptación de tratamientos para cabello fino decolorado que pierde volumen, cabello grueso y rebelde, cabello rizado u ondulado teñido (2A a 4C) y diagnóstico de porosidad alta, media y baja, con tablas de dosificación en mililitros, tiempos de acción, costo por aplicación y enlaces directos a Amazon Estados Unidos y España."
+      "q": "¿La decoloración cambia la porosidad natural de mi cabello para siempre?",
+      "a": "Sí, por completo. Toda decoloración o tinte permanente con amoníaco o peróxido eleva la porosidad capilar porque el pH alcalino levanta las escamas cuticulares y degrada la capa lipídica 18-MEA. Cuanto más alto sea el nivel de aclaración (niveles 8 a 10), más alta será la porosidad resultante en esos medios y puntas."
     },
     {
-      "q": "¿Todas las guías están enfocadas en cabello teñido o decolorado?",
-      "a": "Sí, en GuíaCapilar.com priorizamos la recuperación, matización y protección térmica del cabello teñido, con mechas balayage o decolorado global, adaptando cada recomendación a tu grosor y porosidad."
+      "q": "¿Qué productos debo usar si mi cabello es muy fino pero tiene las puntas decoloradas y porosas?",
+      "a": "Debes evitar aplicar mascarillas mantecosas cerca de la raíz y huir de los aceites vegetales puros pesados (como ricino o coco puro). Prioriza tratamientos moleculares sin peso superficial como K18 Leave-In Mask (1 a 2 pumps), Olaplex No. 0 + No. 3 que se retiran con el lavado, y el spray acuoso Color Wow Dream Coat."
     },
     {
-      "q": "¿Puedo pedir una rutina personalizada según mi presupuesto en Amazon?",
-      "a": "Por supuesto: abre el chat de la Asesora Capilar IA en la esquina inferior derecha, cuéntale cómo está tu cabello y tu presupuesto en dólares o euros y te armará tu rutina exacta."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Journal of Cosmetic Science – Hair Fiber & Disulfide Bond Repair",
-      "url": "https://www.scconline.org/"
-    },
-    {
-      "label": "American Academy of Dermatology (AAD) – Hair Dye & Bleach Care",
-      "url": "https://www.aad.org/"
+      "q": "¿Por qué mi cabello de porosidad alta siente las mascarillas suaves en la ducha pero vuelve a estar seco a las dos horas?",
+      "a": "Porque al tener las escamas de la cutícula permanentemente abiertas y carecer del cemento lipídico intercelular (ceramidas y 18-MEA), el agua y los humectantes entran con facilidad pero se evaporan al aire en pocas horas. Para retener la hidratación necesitas sellar siempre con un producto de pH ácido (como Redken Acidic) y unas gotas de aceite o leave-in."
     }
   ],
   "related": [
-    "/tipo-de-cabello-y-porosidad/que-es-la-porosidad-capilar-alta-media-y-baja-en-pelo-tenido/",
-    "/tipo-de-cabello-y-porosidad/por-que-el-test-del-vaso-de-agua-falla-y-como-medir-tu-porosidad-real/",
-    "/tipo-de-cabello-y-porosidad/rutina-completa-para-cabello-de-porosidad-alta-decolorado/",
-    "/tipo-de-cabello-y-porosidad/como-cuidar-cabello-tenido-de-porosidad-baja-que-repele-las-mascarillas/"
+    "/tipo-de-cabello-y-porosidad/metodo-curly-en-cabello-decolorado-cuando-si-vale-la-pena-usar-siliconas-o-plex/",
+    "/tipo-de-cabello-y-porosidad/como-cuidar-cabello-afro-o-texturizado-4a-4b-4c-con-color-o-decoloracion/",
+    "/tipo-de-cabello-y-porosidad/como-cuidar-cabello-con-raiz-grasa-y-puntas-decoloradas-secas/",
+    "/tipo-de-cabello-y-porosidad/como-saber-si-tu-cabello-es-fino-medio-o-grueso-el-test-del-hilo-de-coser/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/tipo-de-cabello-y-porosidad.webp"
 }

@@ -3,159 +3,133 @@
   "pillar": "costo-por-aplicacion-y-dosificacion",
   "path": "/costo-por-aplicacion-y-dosificacion/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "costo por aplicación k18 olaplex y cuántos pumps usar",
   "title": "Costo por Aplicación, Rendimiento de Envases y Dosificación Exacta en Mililitros",
-  "seoTitle": "Costo por Aplicación de K18, Olaplex y Mascarillas: Cuántos Pumps Usar y Rendimiento",
-  "metaDescription": "Costo por Aplicación, Rendimiento de Envases y Dosificación Exacta en Mililitros: hub completo con 45 guías sobre cálculo matemático de costo por aplicación en dólares ($/uso), cuántos pumps o mililitros usar según el largo y densidad del cabello, y qué formato de Amazon EE. UU. ofrece mayor ahorro real y ofertas en Amazon EE. UU. y España.",
-  "excerpt": "Explora las 45 guías especializadas de este silo sobre cálculo matemático de costo por aplicación en dólares ($/uso), cuántos pumps o mililitros usar según el largo y densidad del cabello, y qué formato de Amazon EE. UU. ofrece mayor ahorro real.",
-  "quickAnswer": "En esta sección principal de Costo por Aplicación, Rendimiento de Envases y Dosificación Exacta en Mililitros reunimos 45 guías verificadas sobre cálculo matemático de costo por aplicación en dólares ($/uso), cuántos pumps o mililitros usar según el largo y densidad del cabello, y qué formato de Amazon EE. UU. ofrece mayor ahorro real, diseñadas para ayudarte a elegir y aplicar mascarillas, tratamientos como K18 y Olaplex, champús y protectores térmicos optimizando tu costo por aplicación en Amazon.",
+  "seoTitle": "Costo por Aplicación, Rendimiento de Envases y Dosificación Exacta en Mililitros | guia-capilar.com",
+  "metaDescription": "Cálculo real de costo por aplicación y dosificación en mililitros de K18, Olaplex, Redken y Elizavecca: cuántos pumps usar y rendimiento exacto por envase.",
+  "excerpt": "Aprende a medir en mililitros y pulsaciones exactas cada tratamiento de Amazon Estados Unidos para triplicar la duración de tus envases de K18 y Olaplex sin desperdiciar producto en las manos o el cepillo.",
+  "quickAnswer": "El costo real de un tratamiento capilar no se mide por el tamaño de la botella, sino dividiendo su volumen total entre los mililitros exactos por sesión. Un envase de **K18 Leave-In Mask de 50 ml** entrega aproximadamente **50 pulsaciones de 1 ml**, rindiendo entre **16 y 25 aplicaciones** completas, mientras que un tubo de **Olaplex No. 6 de 100 ml** supera las **120 aplicaciones** usando **0.5 a 0.8 ml** por peinado.",
   "readingMinutes": 8,
   "image": {
-    "prompt": "Photorealistic precision flat-lay on white marble showing a 50ml airless pump bottle, a 15ml mini bottle, graduated glass pipettes, and exact 1ml and 2ml cream dollops on a scale",
-    "alt": "Comparación de envases de 50 ml y 15 ml con dosis medidas en mililitros sobre báscula de precisión"
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Costo por Aplicación, Rendimiento de Envases y Dosificación Exacta en Mililitros' (costo por aplicación k18 olaplex y cuántos pumps usar) for guia-capilar.com, featuring equipment in olive sage green with anodized silver accents, in a well-organized domestic utility area with natural plants nearby, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Costo por Aplicación, Rendimiento de Envases y Dosificación Exacta en Mililitros"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Costo por Aplicación, Rendimiento de Envases y Dosificación Exacta en Mililitros** en **GuíaCapilar.com**. Aquí reunimos toda la ciencia tricológica, pruebas de aplicación y análisis financiero sobre **cálculo matemático de costo por aplicación en dólares ($/uso), cuántos pumps o mililitros usar según el largo y densidad del cabello, y qué formato de Amazon EE. UU. ofrece mayor ahorro real**, estructurados bajo una arquitectura sin canibalización para que elijas el producto exacto antes de consultar precios y comprar en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si necesitas rescatar un cabello decolorado con el péptido de 4 minutos **[K18 Leave-In Molecular Repair Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)**, fortalecer puentes disulfuro en húmedo con **[Olaplex No. 3 Hair Perfector](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)**, sellar la cutícula a pH 4.5 con **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)** o cuidar tu bolsillo con **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**, este silo responde cada duda paso a paso."
+      "text": "Terminarse un bote de **100 ml** de **Olaplex No. 3** en apenas cuatro domingos o vaciar un envase de **K18 Leave-In Mask** en un mes no significa que tengas muchísimo cabello: significa que estás aplicando el triple de la dosis química necesaria. A diferencia de las mascarillas comerciales de supermercado —cuyo primer ingrediente es un **80 % de agua** y exigen cubrir la melena con una capa gruesa—, los tratamientos biotecnológicos y profesionales de Amazon Estados Unidos operan por saturación molecular superficial. Aprender a medir tus productos en mililitros y pulsaciones exactas reduce a la tercera parte tu gasto anual sin perder un ápice de eficacia reparadora."
     },
     {
       "type": "h2",
-      "text": "Criterios de evaluación en Costo por Aplicación, Rendimiento de Envases y Dosificación Exacta en Mililitros"
+      "text": "Matemática del dispensador: cuántos mililitros entrega cada pump y cuántas sesiones dura el bote"
     },
     {
       "type": "p",
-      "text": "En cada una de las **45 guías especializadas** de esta categoría evaluamos cuatro variables objetivas: **adecuación por tipo de cabello y porosidad** (fino, medio, grueso o rizado), **mecanismo químico del activo** (péptidos, enlaces disulfuro, ácido cítrico, quelantes o lípidos), **forma exacta de uso en minutos** y **costo real por aplicación en dólares ($/uso)**."
+      "text": "Para calcular el costo real por aplicación de cualquier tratamiento, el primer dato técnico que debes conocer es el caudal de su válvula dosificadora. Por ejemplo, el envase grande de **K18 Leave-In Molecular Repair Mask de 50 ml** cuenta con una bomba airless calibrada que entrega exactamente **1 ml por pump** (**50 pulsaciones totales**), mientras que el formato mini de **15 ml** entrega **0.5 ml por pump** (**30 pulsaciones totales**), por lo que **2 pumps del bote de 15 ml equivalen a 1 pump del bote de 50 ml**. Si dudas entre probar primero un formato reducido o ir directo al envase profesional, revisa nuestro análisis matemático sobre [cuándo conviene comprar tamaños mini de 15 ml o 30 ml en Amazon](/costo-por-aplicacion-y-dosificacion/cuando-conviene-comprar-tamanos-mini-o-travel-size-en-amazon/). Asimismo, para quienes buscan maximizar cada lavado combinando un reconstructor de enlaces, un sellador ácido y una mascarilla de ceramidas, hemos calculado al mililitro [cómo armar la rutina de mejor relación calidad-rendimiento con Olaplex, Redken y Elizavecca](/costo-por-aplicacion-y-dosificacion/como-armar-la-rutina-intermedia-de-mejor-relacion-calidad-precio-en-amazon/)."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Costo por Aplicación, Rendimiento de Envases y Dosificación Exacta en Mililitros",
       "headers": [
-        "Guía Capilar Especializada",
-        "Acceso Directo"
+        "Producto y Volumen del Envase",
+        "Caudal por Pump o Medida Visual",
+        "Dosis Óptima por Sesión (ml)",
+        "Aplicaciones Totales y Duración Real"
       ],
       "rows": [
         [
-          "Cuántos Pumps Exactos de K18 Usar según el Largo y Grosor de tu Cabello (Tabla Oficial de Dosificación)",
-          "[Leer guía completa](/costo-por-aplicacion-y-dosificacion/cuantos-pumps-de-k18-usar-segun-el-largo-y-grosor-de-tu-cabello/)"
+          "K18 Leave-In Molecular Repair Mask (50 ml)",
+          "1.0 ml por pump completo (50 pumps totales)",
+          "1 a 3 ml (1 a 3 pumps según grosor)",
+          "16 a 35 aplicaciones (4 a 7 meses tras fase inicial)"
         ],
         [
-          "Cuántas Aplicaciones Reales Dura un Bote de K18 de 50 ml y Uno de 15 ml (Cálculo en Mililitros)",
-          "[Leer guía completa](/costo-por-aplicacion-y-dosificacion/cuantas-aplicaciones-dura-un-bote-de-k18-de-50ml-y-uno-de-15ml/)"
+          "Olaplex No. 3 Hair Perfector (100 ml / 250 ml)",
+          "Moneda de 2 cm = aprox. 5 ml",
+          "5 a 8 ml (aplicado por secciones húmedas)",
+          "12 a 18 sesiones en 100 ml / 32 a 45 sesiones en 250 ml"
         ],
         [
-          "Cuántas Aplicaciones Rinde Olaplex No. 3 (100 ml vs Tamaño Salón 250 ml) y Cuál Conviene en Amazon",
-          "[Leer guía completa](/costo-por-aplicacion-y-dosificacion/cuantas-aplicaciones-dura-un-bote-de-olaplex-no-3-de-100ml-y-250ml/)"
+          "Olaplex No. 6 Bond Smoother (100 ml Airless)",
+          "1.0 ml por pump completo (Guisante = 0.5 ml)",
+          "0.5 a 0.8 ml (Medio pump emulsionado)",
+          "125 a 180 aplicaciones (6 a 9 meses de uso continuo)"
         ],
         [
-          "Tabla Financiera de Olaplex (Del No. 0 al No. 9): Cuánto Cuesta por Aplicación Cada Número en Amazon EE. UU.",
-          "[Leer guía completa](/costo-por-aplicacion-y-dosificacion/cuanto-cuesta-por-aplicacion-cada-producto-de-olaplex-del-0-al-9/)"
+          "Olaplex No. 7 Bonding Oil (30 ml)",
+          "0.05 ml por gota controlada (600 gotas totales)",
+          "0.10 a 0.20 ml (2 a 4 gotas por secado)",
+          "150 a 250 aplicaciones (8 a 12 meses de duración)"
         ],
         [
-          "5 Trucos Técnicos para que tu Envase de K18 Te Dure el Doble de Meses sin Reducir su Eficacia",
-          "[Leer guía completa](/costo-por-aplicacion-y-dosificacion/como-hacer-que-tu-k18-dure-el-doble-sin-perder-eficacia/)"
+          "Redken Acidic Bonding Intensive Pre-Treatment (150 ml)",
+          "Moneda grande = aprox. 8 ml",
+          "8 a 10 ml en medios y puntas húmedas",
+          "15 a 18 aplicaciones (3 a 4 meses de uso semanal)"
         ],
         [
-          "Cómo Hacer que un Frasco de Olaplex No. 3 Rinda 22 Aplicaciones en Lugar de 8",
-          "[Leer guía completa](/costo-por-aplicacion-y-dosificacion/como-hacer-que-olaplex-no-3-rinda-mas-aplicaciones-por-frasco/)"
-        ],
-        [
-          "Cálculo de Costo por Aplicación de la Línea Redken Acidic Bonding Concentrate en Amazon",
-          "[Leer guía completa](/costo-por-aplicacion-y-dosificacion/costo-por-aplicacion-de-redken-acidic-bonding-concentrate-toda-la-linea/)"
-        ],
-        [
-          "Por Qué Olaplex No. 7 Bonding Oil (30 ml) Cuesta Menos de $0.25 USD por Aplicación y Dura Más de 1 Año",
-          "[Leer guía completa](/costo-por-aplicacion-y-dosificacion/por-que-el-aceite-olaplex-no-7-es-el-producto-mas-rentable-del-mercado-capilar/)"
-        ],
-        [
-          "Análisis de Rentabilidad de Elizavecca CER-100: Cómo Tener Tratamiento de Colágeno por $0.55 USD la Dosis",
-          "[Leer guía completa](/costo-por-aplicacion-y-dosificacion/costo-por-aplicacion-de-elizavecca-cer-100-el-campeon-del-ahorro-en-amazon/)"
-        ],
-        [
-          "Cuánto Cuesta un Tratamiento K18 u Olaplex en Peluquería ($50–$85 USD) vs Hacerlo en Casa con Amazon ($1.50 USD)",
-          "[Leer guía completa](/costo-por-aplicacion-y-dosificacion/comparativa-de-costo-en-salon-de-peluqueria-vs-hacer-k18-u-olaplex-en-casa/)"
-        ],
-        [
-          "Tabla de Equivalencias en Mililitros (ml), Gramos y Monedas para Dosificar Todos tus Productos Capilares",
-          "[Leer guía completa](/costo-por-aplicacion-y-dosificacion/cuantos-mililitros-de-champu-acondicionador-y-mascarilla-se-usan-por-lavado/)"
-        ],
-        [
-          "Cómo Funcionan los Envases Airless (Al Vacío) de K18 y Olaplex No. 8 para No Desperdiciar ni un 1 % de Producto",
-          "[Leer guía completa](/costo-por-aplicacion-y-dosificacion/envases-airless-al-vacio-por-que-k18-y-olaplex-no-8-aprovechan-hasta-la-ultima-gota/)"
+          "L’Oréal Professionnel Metal Detox Mask (250 ml)",
+          "Cucharada rasa (Avellana grande) = 10 ml",
+          "10 a 12 ml sobre cabello bien escurrido",
+          "20 a 25 aplicaciones (5 a 6 meses de uso semanal)"
         ]
-      ]
+      ],
+      "caption": "Tabla de dosificación exacta en mililitros y rendimiento por envase (Melena media decolorada)"
+    },
+    {
+      "type": "h2",
+      "text": "Microdosificación de productos concentrados sin agua libre y control de mermas"
+    },
+    {
+      "type": "p",
+      "text": "El desperdicio más silencioso ocurre en los productos de acabado y en los champús ultraconcentrados como **Olaplex No. 4**, **No. 5**, **No. 6** y **No. 7**. Al estar formulados con poquísima agua libre, aplicar una pulsación entera y generosa de crema de peinado satura la cutícula, alarga el tiempo de secado y deja el cabello pesado; puedes comprobar la diferencia exacta en nuestra guía sobre [por qué medio pump de Olaplex No. 6 basta para que el envase dure 6 meses](/costo-por-aplicacion-y-dosificacion/cuantos-pumps-de-olaplex-no-6-usar-para-que-dure-6-meses/). Otro punto crítico de pérdida económica es la transferencia mecánica: rociar lociones o líquidos como **Olaplex No. 0** o protectores térmicos sobre un peine o con las manos abiertas al aire hace que gran parte de la fórmula nunca toque tu córtex, un error que corregimos paso a paso en [cómo evitar desperdiciar hasta el 30 % de los sprays en el cepillo o las manos](/costo-por-aplicacion-y-dosificacion/como-no-desperdiciar-producto-en-el-cepillo-o-en-las-manos/)."
     },
     {
       "type": "callout",
-      "variant": "etiqueta",
-      "title": "Cómo elegir según tu daño y costo por aplicación",
-      "text": "Recuerda la regla fundamental: K18 (~$1.55-$2.30/uso) se aplica en 4 minutos SIN acondicionador previo para daño severo o cabello chicloso; Olaplex No. 3 (~$1.40/uso) es un pre-champú en húmedo de 15-30 minutos; Redken Acidic Bonding (~$1.15/uso) sella el pH 4.5 y protege hasta 450 °F; y Elizavecca CER-100 (~$0.55/uso) aporta colágeno hidrolizado por menos de $10 en Amazon."
+      "variant": "tip",
+      "text": "Si intentas aplicar 2 ml de K18 o 6 ml de Olaplex No. 3 sobre toda tu melena suelta de una sola vez, el 80 % del producto quedará atrapado en la capa superficial externa y sentirás que necesitas echar el doble para llegar a la nuca. Divide siempre tu cabello húmedo en 4 cuadrantes con pinzas (dos frontales y dos traseros) y asigna un cuarto de tu dosis exacta a cada sección: reducirás tu consumo de producto en un 35 % logrando una cobertura cortical perfecta.",
+      "title": "La regla de los 4 cuadrantes con pinzas que ahorra un 35 % de producto en cada ducha"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces de Amazon"
-    },
-    {
-      "type": "ol",
-      "items": [
-        "**Identifica tu porosidad y grosor:** un cabello fino decolorado necesita fórmulas sin peso (K18, Wella Ultimate Repair 90s, Color Wow Money Masque), mientras que uno grueso o rizado agradece lípidos densos (Moroccanoil, Kérastase Thérapiste, Olaplex No. 6).",
-        "**Respeta la dosis exacta en pumps o mililitros:** usar el doble de producto no repara el doble; satura la cutícula y duplica tu gasto mensual.",
-        "**Consulta el precio actualizado en tu tienda Amazon:** nuestras tarjetas apuntan por defecto a **Amazon Estados Unidos (`guia-capilar-20`)** y cambian automáticamente a **Amazon España (`guia-capilar-21`)** si navegas desde Europa."
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿No sabes qué tratamiento, mascarilla o protector térmico de este silo necesita tu cabello hoy? Pregúntale en vivo a nuestra Asesora Capilar IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro para el cabello teñido o decolorado"
+      "text": "Hábitos de almacenamiento y aplicación que estiran la vida útil de tu rutina"
     },
     {
       "type": "ul",
       "items": [
-        "**Lava sin sulfatos y quela los metales del agua:** usa champús a pH 4.5–5.5 (Pureology Hydrate, Olaplex No. 4) y desintoxica el cobre del agua dura con L’Oréal Metal Detox o K18 Detox.",
-        "**No uses acondicionador antes de K18:** espera siempre sus 4 minutos reglamentarios sobre cabello secado con toalla antes de aplicar cualquier crema o aceite.",
-        "**Alterna reconstrucción e hidratación:** los bondeadores reparan por dentro, pero necesitas mascarillas hidratantes/lipídicas (Olaplex No. 8, Moroccanoil) para dar suavidad y flexibilidad externa.",
-        "**Protección térmica obligatoria hasta 450 °F (230 °C):** jamás pases el secador o la plancha sobre pelo decolorado sin un escudo como Color Wow Dream Coat, Redken Acidic Leave-In, Kenra Blow-Dry o 2 gotas de Olaplex No. 7."
+        "**Usa un atomizador con agua para extender Olaplex No. 3 sin gastar más crema:** El activo de **Olaplex No. 3** necesita humedad como vehículo; si sientes que un mechón no desliza al aplicarlo, rocía una bruma de agua en lugar de vaciar más crema del bote.",
+        "**Dosifica Olaplex No. 7 con el toque del dedo índice:** El frasco de **30 ml** de **Olaplex No. 7** está diseñado para tapar el orificio con el índice, invertir el bote y dar un ligero golpecito sobre el fondo; así sale exactamente **1 gota calibrada de 0.05 ml** en vez de un chorro accidental.",
+        "**Jamás cortes ni abras a la fuerza los envases Airless de K18 u Olaplex No. 6 y No. 8:** A diferencia de los tubos plásticos como **Elizavecca CER-100** (que sí puedes cortar al final para aprovechar los últimos **10 ml**), los botes airless funcionan por vacío ascendente y empujan hasta el **99 % del contenido** sin dejar restos en las paredes.",
+        "**Pasa a dosis de mantenimiento tras los primeros 6 lavados con K18:** Una vez completado el ciclo inicial de **4 a 6 lavados consecutivos** tras la decoloración, espacia **K18 Leave-In Mask** a **1 vez cada 3 o 4 lavados**; de este modo un solo envase de **50 ml** te cubrirá medio año de reparación."
       ]
+    },
+    {
+      "type": "cta",
+      "text": "Revisa los formatos disponibles (desde tamaños de prueba de 15 ml hasta envases ahorro de 250 ml) en las tarjetas de Amazon integradas en esta página, o pide a nuestro Asesor IA que calcule cuántos mililitros exactos necesita el largo y grosor de tu melena."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Costo por Aplicación, Rendimiento de Envases y Dosificación Exacta en Mililitros?",
-      "a": "Incluye 45 artículos técnicos detallados sobre cálculo matemático de costo por aplicación en dólares ($/uso), cuántos pumps o mililitros usar según el largo y densidad del cabello, y qué formato de Amazon EE. UU. ofrece mayor ahorro real, con tablas de dosificación en mililitros, tiempos de acción, costo por aplicación y enlaces directos a Amazon Estados Unidos y España."
+      "q": "¿Cuántos pumps exactos de K18 Leave-In Mask debo usar para una melena hasta los hombros?",
+      "a": "En una melena media (a la altura de los hombros o clavículas) de grosor normal, la dosis técnica exacta es de 2 pumps del envase de 50 ml (2 ml en total), divididos en 0.5 ml por cada uno de los 4 cuadrantes de la cabeza tras emulsionar el producto en las palmas durante 10 segundos."
     },
     {
-      "q": "¿Todas las guías están enfocadas en cabello teñido o decolorado?",
-      "a": "Sí, en GuíaCapilar.com priorizamos la recuperación, matización y protección térmica del cabello teñido, con mechas balayage o decolorado global, adaptando cada recomendación a tu grosor y porosidad."
+      "q": "¿Conviene más comprar Olaplex No. 3 en formato de 100 ml o el bote grande de 250 ml en Amazon?",
+      "a": "Si ya probaste el producto o tienes el cabello decolorado de forma regular, el formato de 250 ml de Olaplex No. 3 ofrece un rendimiento por mililitro significativamente superior al de 100 ml, entregando entre 32 y 45 aplicaciones completas que cubren de 7 a 10 meses de uso semanal."
     },
     {
-      "q": "¿Puedo pedir una rutina personalizada según mi presupuesto en Amazon?",
-      "a": "Por supuesto: abre el chat de la Asesora Capilar IA en la esquina inferior derecha, cuéntale cómo está tu cabello y tu presupuesto en dólares o euros y te armará tu rutina exacta."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Journal of Cosmetic Science – Hair Fiber & Disulfide Bond Repair",
-      "url": "https://www.scconline.org/"
-    },
-    {
-      "label": "American Academy of Dermatology (AAD) – Hair Dye & Bleach Care",
-      "url": "https://www.aad.org/"
+      "q": "¿Por qué se me gasta tan rápido el líquido de Olaplex No. 0 y cómo puedo hacerlo rendir más?",
+      "a": "Porque el aplicador en spray original de Olaplex No. 0 (155 ml) puede dispersar parte del líquido fuera del mechón si se rocía a distancia. Para que rinda 15 o más aplicaciones, divide el pelo en secciones, acerca la boquilla a 2 cm de las zonas decoloradas y presiona con los dedos para distribuir el líquido sin llegar a chorrear."
     }
   ],
   "related": [
-    "/costo-por-aplicacion-y-dosificacion/cuantos-pumps-de-k18-usar-segun-el-largo-y-grosor-de-tu-cabello/",
-    "/costo-por-aplicacion-y-dosificacion/cuantas-aplicaciones-dura-un-bote-de-k18-de-50ml-y-uno-de-15ml/",
-    "/costo-por-aplicacion-y-dosificacion/cuantas-aplicaciones-dura-un-bote-de-olaplex-no-3-de-100ml-y-250ml/",
-    "/costo-por-aplicacion-y-dosificacion/cuanto-cuesta-por-aplicacion-cada-producto-de-olaplex-del-0-al-9/"
+    "/costo-por-aplicacion-y-dosificacion/cuando-conviene-comprar-tamanos-mini-o-travel-size-en-amazon/",
+    "/costo-por-aplicacion-y-dosificacion/como-armar-la-rutina-intermedia-de-mejor-relacion-calidad-precio-en-amazon/",
+    "/costo-por-aplicacion-y-dosificacion/cuantos-pumps-de-olaplex-no-6-usar-para-que-dure-6-meses/",
+    "/costo-por-aplicacion-y-dosificacion/como-no-desperdiciar-producto-en-el-cepillo-o-en-las-manos/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/costo-por-aplicacion-y-dosificacion.webp"
 }

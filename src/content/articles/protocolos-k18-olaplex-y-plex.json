@@ -3,159 +3,121 @@
   "pillar": "protocolos-k18-olaplex-y-plex",
   "path": "/protocolos-k18-olaplex-y-plex/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "cómo usar k18 y olaplex paso a paso correctamente",
   "title": "Protocolos de Uso Paso a Paso: Cómo Aplicar K18, Olaplex y Tratamientos Plex",
-  "seoTitle": "Cómo Usar K18 y Olaplex Correctamente Paso a Paso: Tiempos y Orden de Capas",
-  "metaDescription": "Protocolos de Uso Paso a Paso: Cómo Aplicar K18, Olaplex y Tratamientos Plex: hub completo con 60 guías sobre regla de los 4 minutos de K18 sin acondicionador previo, combinación de Olaplex No. 0 + No. 3 en cabello húmedo, frecuencia semanal, errores que anulan el resultado y orden de capas (layering) y ofertas en Amazon EE. UU. y España.",
-  "excerpt": "Explora las 60 guías especializadas de este silo sobre regla de los 4 minutos de K18 sin acondicionador previo, combinación de Olaplex No. 0 + No. 3 en cabello húmedo, frecuencia semanal, errores que anulan el resultado y orden de capas (layering).",
-  "quickAnswer": "En esta sección principal de Protocolos de Uso Paso a Paso reunimos 60 guías verificadas sobre regla de los 4 minutos de K18 sin acondicionador previo, combinación de Olaplex No. 0 + No. 3 en cabello húmedo, frecuencia semanal, errores que anulan el resultado y orden de capas (layering), diseñadas para ayudarte a elegir y aplicar mascarillas, tratamientos como K18 y Olaplex, champús y protectores térmicos optimizando tu costo por aplicación en Amazon.",
+  "seoTitle": "Protocolos de Uso Paso a Paso: Cómo Aplicar K18, Olaplex y Tratamientos Plex | guia-capilar.com",
+  "metaDescription": "Protocolos exactos para aplicar K18, Olaplex No. 0 y No. 3, Redken Acidic y Metal Detox: tiempos en minutos, orden de capas y errores que anulan su efecto.",
+  "excerpt": "Domina el orden químico, la humedad exacta de la hebra y los tiempos de espera al minuto para que los péptidos de K18 y las moléculas de Olaplex penetren al córtex sin ser bloqueados por siliconas.",
+  "quickAnswer": "Para que **K18 Leave-In Mask** funcione, debes lavar el cabello sin aplicar acondicionador, retirar el exceso de agua con toalla, emulsionar de **1 a 3 pumps** en las palmas hasta formar una crema blanca y esperar **4 minutos exactos** antes de peinar o añadir otro producto. En cambio, **Olaplex No. 3** es un tratamiento pre-champú que exige aplicarse sobre cabello húmedo durante **10 a 30 minutos** y luego lavarse.",
   "readingMinutes": 8,
   "image": {
-    "prompt": "Photorealistic close-up of hands dispensing two precise pumps of white peptide leave-in hair mask onto damp towel-dried hair in a bright modern bathroom, clean editorial photography",
-    "alt": "Manos dosificando tratamiento peptídico sin enjuague sobre cabello húmedo secado con toalla"
+    "prompt": "Wide environmental domestic interior shot on 24mm lens: realistic scene illustrating 'Protocolos de Uso Paso a Paso: Cómo Aplicar K18, Olaplex y Tratamientos Plex' (cómo usar k18 y olaplex paso a paso correctamente) for guia-capilar.com, featuring equipment in arctic white with warm stone-gray details, on a solid oak workbench in a tidy modern home space, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Protocolos de Uso Paso a Paso: Cómo Aplicar K18, Olaplex y Tratamientos Plex"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Protocolos de Uso Paso a Paso: Cómo Aplicar K18, Olaplex y Tratamientos Plex** en **GuíaCapilar.com**. Aquí reunimos toda la ciencia tricológica, pruebas de aplicación y análisis financiero sobre **regla de los 4 minutos de K18 sin acondicionador previo, combinación de Olaplex No. 0 + No. 3 en cabello húmedo, frecuencia semanal, errores que anulan el resultado y orden de capas (layering)**, estructurados bajo una arquitectura sin canibalización para que elijas el producto exacto antes de consultar precios y comprar en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si necesitas rescatar un cabello decolorado con el péptido de 4 minutos **[K18 Leave-In Molecular Repair Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)**, fortalecer puentes disulfuro en húmedo con **[Olaplex No. 3 Hair Perfector](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)**, sellar la cutícula a pH 4.5 con **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)** o cuidar tu bolsillo con **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**, este silo responde cada duda paso a paso."
+      "text": "La mayoría de las reseñas negativas sobre **K18 Leave-In Mask** u **Olaplex No. 3** en internet tienen un denominador común: no falló la patente química, falló el protocolo de aplicación en la ducha. Los tratamientos reconstructores de enlaces no son mascarillas cosméticas tradicionales que puedas aplicar de cualquier manera sobre el cabello empapado o lleno de siliconas. Cada molécula tiene un peso molecular, una afinidad hidrofílica o lipofílica y una ventana exacta de reacción en minutos; saltarse un solo paso del procedimiento bloquea la difusión transcuticular y convierte un tratamiento biotecnológico de élite en un simple acondicionador caro."
     },
     {
       "type": "h2",
-      "text": "Criterios de evaluación en Protocolos de Uso Paso a Paso"
+      "text": "Por qué la humedad y la ausencia de lípidos determinan la penetración de K18 y Olaplex"
     },
     {
       "type": "p",
-      "text": "En cada una de las **60 guías especializadas** de esta categoría evaluamos cuatro variables objetivas: **adecuación por tipo de cabello y porosidad** (fino, medio, grueso o rizado), **mecanismo químico del activo** (péptidos, enlaces disulfuro, ácido cítrico, quelantes o lípidos), **forma exacta de uso en minutos** y **costo real por aplicación en dólares ($/uso)**."
+      "text": "Para que una molécula pequeña llegue al córtex, el camino debe estar despejado y con el grado exacto de agua libre. En el caso de **K18**, su péptido **sh-Oligopeptide-78** debe aplicarse después del champú y **estrictamente sin haber usado acondicionador antes**, ya que los polímeros catiónicos y siliconas del acondicionador sellan la cutícula e impiden que el péptido entre. En el caso de **Olaplex No. 3**, al ser un pre-champú, surge siempre la duda de si requiere lavado previo: como demostramos en nuestra guía sobre [si se puede aplicar Olaplex No. 3 sobre cabello sucio o con aceites](/protocolos-k18-olaplex-y-plex/se-puede-aplicar-olaplex-no-3-sobre-cabello-sucio-o-con-aceites/), cualquier capa de aceite, cera o champú en seco actúa como escudo impermeable frente al **Bis-Aminopropyl Diglycol Dimaleate**. Además, la reacción solo ocurre mientras la hebra permanece húmeda, un factor clave que detallamos al analizar el [tiempo óptimo de exposición de Olaplex No. 3 entre 10, 30 o 90 minutos](/protocolos-k18-olaplex-y-plex/cuanto-tiempo-dejar-olaplex-no-3-en-el-cabello-10-30-o-90-minutos/)."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Protocolos de Uso Paso a Paso",
       "headers": [
-        "Guía Capilar Especializada",
-        "Acceso Directo"
+        "Sistema / Producto",
+        "Momento Exacto del Lavado",
+        "Barrera que Anula su Efecto",
+        "Tiempo de Acción y Retirada"
       ],
       "rows": [
         [
-          "Por Qué NO Debes Usar Acondicionador Antes de Aplicar K18 Mask (La Explicación Química)",
-          "[Leer guía completa](/protocolos-k18-olaplex-y-plex/por-que-no-se-debe-usar-acondicionador-antes-de-k18/)"
+          "K18 Leave-In Molecular Repair Mask",
+          "Post-champú, sobre pelo húmedo secado con toalla",
+          "Usar acondicionador o mascarilla antes de aplicar K18",
+          "4 minutos exactos de espera; NO se enjuaga"
         ],
         [
-          "Cómo Aplicar K18 Paso a Paso Correctamente: La Regla de los 4 Minutos y Emulsión en Manos",
-          "[Leer guía completa](/protocolos-k18-olaplex-y-plex/como-aplicar-k18-paso-a-paso-regla-de-los-4-minutos/)"
+          "Olaplex No. 0 + Olaplex No. 3",
+          "Pre-champú sobre cabello limpio o sin siliconas pesadas",
+          "Aplicar sobre aceites, lacas o dejar que el pelo se seque",
+          "10 min el No. 0 + 10 a 30 min el No. 3 encima; lavar con champú y acondicionador"
         ],
         [
-          "¿Se Puede Aplicar Acondicionador o Leave-In Después de Esperar los 4 Minutos de K18?",
-          "[Leer guía completa](/protocolos-k18-olaplex-y-plex/se-puede-usar-acondicionador-o-mascarilla-despues-de-los-4-minutos-de-k18/)"
+          "Redken Acidic Bonding Intensive Pre-Treatment",
+          "Pre-champú sobre cabello húmedo",
+          "Mezclar en el mismo paso con champús alcalinos",
+          "5 a 10 minutos; aclarar, lavar con champú y sellar con acondicionador"
         ],
         [
-          "Por Qué Debes Frotar K18 Entre las Palmas de las Manos Hasta que se Vuelva Blanco Antes de Aplicarlo",
-          "[Leer guía completa](/protocolos-k18-olaplex-y-plex/por-que-hay-que-frotar-k18-en-las-manos-hasta-que-se-ponga-blanco/)"
-        ],
-        [
-          "Cada Cuánto Tiempo se Usa K18: Los 6 Lavados Consecutivos Iniciales vs Fase de Mantenimiento",
-          "[Leer guía completa](/protocolos-k18-olaplex-y-plex/cada-cuanto-tiempo-se-usa-k18-fase-inicial-y-mantenimiento/)"
-        ],
-        [
-          "Qué Pasa si Aplicas Demasiados Pumps de K18: Por Qué Más Producto No Repara Más y Apelmaza el Pelo",
-          "[Leer guía completa](/protocolos-k18-olaplex-y-plex/que-pasa-si-usas-demasiado-k18-en-una-sola-aplicacion/)"
-        ],
-        [
-          "Cómo Usar Olaplex No. 3 Correctamente Paso a Paso: Por Qué Nunca Funciona en Cabello Seco",
-          "[Leer guía completa](/protocolos-k18-olaplex-y-plex/como-usar-olaplex-no-3-correctamente-en-cabello-humedo/)"
-        ],
-        [
-          "Cuánto Tiempo Dejar Actuar Olaplex No. 3 en el Cabello: ¿10 Minutos, 30 Minutos o Toda la Noche?",
-          "[Leer guía completa](/protocolos-k18-olaplex-y-plex/cuanto-tiempo-dejar-olaplex-no-3-en-el-cabello-10-30-o-90-minutos/)"
-        ],
-        [
-          "¿Es Bueno o Malo Dormir con Olaplex No. 3 Puesto Toda la Noche?",
-          "[Leer guía completa](/protocolos-k18-olaplex-y-plex/es-malo-dormir-con-olaplex-no-3-toda-la-noche/)"
-        ],
-        [
-          "Cómo Combinar Olaplex No. 0 y Olaplex No. 3 Paso a Paso en Casa como en el Salón",
-          "[Leer guía completa](/protocolos-k18-olaplex-y-plex/como-combinar-olaplex-no-0-y-olaplex-no-3-paso-a-paso/)"
-        ],
-        [
-          "¿Se Puede Aplicar Olaplex No. 3 sobre Cabello Sucio Antes de Lavar o Debe Estar Limpio?",
-          "[Leer guía completa](/protocolos-k18-olaplex-y-plex/se-puede-aplicar-olaplex-no-3-sobre-cabello-sucio-o-con-aceites/)"
-        ],
-        [
-          "Cómo Alternar K18 y Olaplex No. 3 en tu Rutina Mensual sin Saturar ni Gastar el Doble",
-          "[Leer guía completa](/protocolos-k18-olaplex-y-plex/como-alternar-k18-y-olaplex-no-3-en-la-misma-rutina-mensual/)"
+          "L’Oréal Professionnel Metal Detox (Champú + Mask)",
+          "Durante el lavado habitual y post-tinte/decoloración",
+          "Omitir la mascarilla tras el champú en pelo muy poroso",
+          "Champú 1-2 min + Mascarilla 1 a 5 min con enjuague abundante"
         ]
-      ]
+      ],
+      "caption": "Parámetros técnicos de aplicación de los principales sistemas reconstructores y quelantes"
+    },
+    {
+      "type": "h2",
+      "text": "Integración de primers moleculares, quelantes y selladores de acabado"
+    },
+    {
+      "type": "p",
+      "text": "Cuando necesitas multiplicar la potencia reconstructora o blindar la melena frente a un servicio químico en casa o en salón, el orden de capas (layering) marca la diferencia. Si vas a retocar raíces o hacer mechas, extraer primero el cobre intracortical evita la rotura catalítica con el oxidante; puedes seguir el cronograma completo en nuestro [protocolo de L’Oréal Metal Detox antes y después del tinte](/protocolos-k18-olaplex-y-plex/como-usar-loreal-metal-detox-antes-y-despues-del-tinte/). Del mismo modo, en el acabado post-ducha antes del secador, aplicar los productos por separado suele generar sobrecarga en ciertas zonas de la melena. Por eso los estilistas emplean la técnica de emulsión conjunta explicada en nuestra guía sobre [cómo mezclar Olaplex No. 6 y No. 7 en la palma de la mano](/protocolos-k18-olaplex-y-plex/como-mezclar-olaplex-no-6-y-olaplex-no-7-en-la-mano/), fundiendo **medio pump** de la crema **No. 6** con **2 a 3 gotas** del aceite **No. 7** para lograr distribución homogénea y protección térmica hasta **450 °F (232 °C)**."
     },
     {
       "type": "callout",
-      "variant": "etiqueta",
-      "title": "Cómo elegir según tu daño y costo por aplicación",
-      "text": "Recuerda la regla fundamental: K18 (~$1.55-$2.30/uso) se aplica en 4 minutos SIN acondicionador previo para daño severo o cabello chicloso; Olaplex No. 3 (~$1.40/uso) es un pre-champú en húmedo de 15-30 minutos; Redken Acidic Bonding (~$1.15/uso) sella el pH 4.5 y protege hasta 450 °F; y Elizavecca CER-100 (~$0.55/uso) aporta colágeno hidrolizado por menos de $10 en Amazon."
+      "variant": "fabricante",
+      "text": "Antes de llevar K18 Leave-In Mask al cabello, dosifica 1 pump en la palma de tu mano y frota enérgicamente ambas palmas durante 5 a 10 segundos hasta que el gel translúcido se transforme en una emulsión completamente blanca y opaca. Este cambio físico reduce la tensión superficial de la fórmula y permite distribuir apenas 1 a 2 ml de manera uniforme por toda la melena sin saturar un solo mechón.",
+      "title": "La fricción de 10 segundos en las palmas que activa la emulsión de K18"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces de Amazon"
-    },
-    {
-      "type": "ol",
-      "items": [
-        "**Identifica tu porosidad y grosor:** un cabello fino decolorado necesita fórmulas sin peso (K18, Wella Ultimate Repair 90s, Color Wow Money Masque), mientras que uno grueso o rizado agradece lípidos densos (Moroccanoil, Kérastase Thérapiste, Olaplex No. 6).",
-        "**Respeta la dosis exacta en pumps o mililitros:** usar el doble de producto no repara el doble; satura la cutícula y duplica tu gasto mensual.",
-        "**Consulta el precio actualizado en tu tienda Amazon:** nuestras tarjetas apuntan por defecto a **Amazon Estados Unidos (`guia-capilar-20`)** y cambian automáticamente a **Amazon España (`guia-capilar-21`)** si navegas desde Europa."
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿No sabes qué tratamiento, mascarilla o protector térmico de este silo necesita tu cabello hoy? Pregúntale en vivo a nuestra Asesora Capilar IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro para el cabello teñido o decolorado"
+      "text": "Los 4 errores de procedimiento que sabotean tu inversión en tratamientos plex"
     },
     {
       "type": "ul",
       "items": [
-        "**Lava sin sulfatos y quela los metales del agua:** usa champús a pH 4.5–5.5 (Pureology Hydrate, Olaplex No. 4) y desintoxica el cobre del agua dura con L’Oréal Metal Detox o K18 Detox.",
-        "**No uses acondicionador antes de K18:** espera siempre sus 4 minutos reglamentarios sobre cabello secado con toalla antes de aplicar cualquier crema o aceite.",
-        "**Alterna reconstrucción e hidratación:** los bondeadores reparan por dentro, pero necesitas mascarillas hidratantes/lipídicas (Olaplex No. 8, Moroccanoil) para dar suavidad y flexibilidad externa.",
-        "**Protección térmica obligatoria hasta 450 °F (230 °C):** jamás pases el secador o la plancha sobre pelo decolorado sin un escudo como Color Wow Dream Coat, Redken Acidic Leave-In, Kenra Blow-Dry o 2 gotas de Olaplex No. 7."
+        "**Aplicar K18 sobre el cabello chorreando agua:** El exceso de agua libre dentro del córtex diluye la concentración del péptido e impide que se ancle a las cadenas de queratina; retira siempre el **40 % de la humedad** con toalla de microfibra antes.",
+        "**No esperar los 4 minutos de K18 en total reposo:** Cepillar, aplicar protector térmico o meter el secador al minuto de poner K18 interrumpe la cinética de unión del **sh-Oligopeptide-78**.Si sientes el pelo enredado tras los **4 minutos**, puedes aplicar encima un leave-in ligero o incluso enjuagar en el lavado siguiente, pero esos **240 segundos** iniciales son intocables.",
+        "**Confundir Olaplex No. 3 con un acondicionador o leave-in:** **Olaplex No. 3** no contiene suficientes agentes filmógenos de peinado y debe retirarse siempre con champú y acondicionador (**Olaplex No. 4 y No. 5**) para cerrar la cutícula.",
+        "**Dormir toda la noche con el cabello húmedo envuelto en plástico con Olaplex No. 3:** Pasados **45 a 90 minutos**, la enzima y el activo alcanzan su meseta de saturación; mantener el cuero cabelludo y la fibra decolorada mojados durante **8 horas** provoca fatiga higral y proliferación fúngica en la raíz."
       ]
+    },
+    {
+      "type": "cta",
+      "text": "Comprueba la disponibilidad de cada paso del sistema en las tarjetas de Amazon integradas en esta página o pide a nuestro Asesor IA que te genere tu calendario semanal exacto según los productos que ya tienes en casa."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Protocolos de Uso Paso a Paso?",
-      "a": "Incluye 60 artículos técnicos detallados sobre regla de los 4 minutos de K18 sin acondicionador previo, combinación de Olaplex No. 0 + No. 3 en cabello húmedo, frecuencia semanal, errores que anulan el resultado y orden de capas (layering), con tablas de dosificación en mililitros, tiempos de acción, costo por aplicación y enlaces directos a Amazon Estados Unidos y España."
+      "q": "¿Puedo aplicar acondicionador o mascarilla después de los 4 minutos de K18?",
+      "a": "Sí, si tu cabello es extremadamente poroso y sientes que necesita desenredo extra, puedes aplicar un acondicionador sin enjuague o protector térmico una vez que hayan transcurrido los 4 minutos completos de acción de K18. Nunca lo apliques antes ni durante esos 4 minutos iniciales."
     },
     {
-      "q": "¿Todas las guías están enfocadas en cabello teñido o decolorado?",
-      "a": "Sí, en GuíaCapilar.com priorizamos la recuperación, matización y protección térmica del cabello teñido, con mechas balayage o decolorado global, adaptando cada recomendación a tu grosor y porosidad."
+      "q": "¿Realmente hace diferencia aplicar Olaplex No. 0 diez minutos antes del Olaplex No. 3?",
+      "a": "Sí. Aplicar Olaplex No. 0 sobre el cabello seco o ligeramente húmedo por secciones, esperar 10 minutos y aplicar directamente encima Olaplex No. 3 (sin enjuagar el No. 0) durante otros 10 a 20 minutos multiplica hasta por tres la reparación de enlaces frente a usar el No. 3 en solitario."
     },
     {
-      "q": "¿Puedo pedir una rutina personalizada según mi presupuesto en Amazon?",
-      "a": "Por supuesto: abre el chat de la Asesora Capilar IA en la esquina inferior derecha, cuéntale cómo está tu cabello y tu presupuesto en dólares o euros y te armará tu rutina exacta."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Journal of Cosmetic Science – Hair Fiber & Disulfide Bond Repair",
-      "url": "https://www.scconline.org/"
-    },
-    {
-      "label": "American Academy of Dermatology (AAD) – Hair Dye & Bleach Care",
-      "url": "https://www.aad.org/"
+      "q": "¿En qué se diferencia el protocolo de Redken Acidic Bonding Pre-Treatment del de Olaplex No. 3?",
+      "a": "Ambos se usan como pre-tratamiento antes del champú, pero trabajan en frentes distintos: Olaplex No. 3 actúa de 10 a 30 minutos reparando enlaces disulfuro covalentes internos, mientras que Redken Acidic Bonding Intensive Pre-Treatment actúa en 5 a 10 minutos equilibrando el pH a 4.5 con ácido cítrico al 14 % para cerrar la cutícula."
     }
   ],
   "related": [
-    "/protocolos-k18-olaplex-y-plex/por-que-no-se-debe-usar-acondicionador-antes-de-k18/",
-    "/protocolos-k18-olaplex-y-plex/como-aplicar-k18-paso-a-paso-regla-de-los-4-minutos/",
-    "/protocolos-k18-olaplex-y-plex/se-puede-usar-acondicionador-o-mascarilla-despues-de-los-4-minutos-de-k18/",
-    "/protocolos-k18-olaplex-y-plex/por-que-hay-que-frotar-k18-en-las-manos-hasta-que-se-ponga-blanco/"
+    "/protocolos-k18-olaplex-y-plex/cuanto-tiempo-dejar-olaplex-no-3-en-el-cabello-10-30-o-90-minutos/",
+    "/protocolos-k18-olaplex-y-plex/se-puede-aplicar-olaplex-no-3-sobre-cabello-sucio-o-con-aceites/",
+    "/protocolos-k18-olaplex-y-plex/como-mezclar-olaplex-no-6-y-olaplex-no-7-en-la-mano/",
+    "/protocolos-k18-olaplex-y-plex/como-usar-loreal-metal-detox-antes-y-despues-del-tinte/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/protocolos-k18-olaplex-y-plex.webp"
 }

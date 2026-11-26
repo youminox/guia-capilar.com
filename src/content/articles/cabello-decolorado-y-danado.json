@@ -3,159 +3,133 @@
   "pillar": "cabello-decolorado-y-danado",
   "path": "/cabello-decolorado-y-danado/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "cómo recuperar cabello decolorado y chicloso",
   "title": "Cabello Decolorado, Chicloso y Dañado: Diagnóstico y Protocolos de Rescate",
-  "seoTitle": "Cómo Recuperar el Cabello Decolorado, Chicloso o Elástico Paso a Paso",
-  "metaDescription": "Cabello Decolorado, Chicloso y Dañado: Diagnóstico y Protocolos de Rescate: hub completo con 65 guías sobre diagnóstico de daño post-decoloración (niveles 7 a 10 platino), rescate de emergencia para cabello chicloso o elástico mojado, prevención del corte químico y recuperación de puentes disulfuro y ofertas en Amazon EE. UU. y España.",
-  "excerpt": "Explora las 65 guías especializadas de este silo sobre diagnóstico de daño post-decoloración (niveles 7 a 10 platino), rescate de emergencia para cabello chicloso o elástico mojado, prevención del corte químico y recuperación de puentes disulfuro.",
-  "quickAnswer": "En esta sección principal de Cabello Decolorado, Chicloso y Dañado reunimos 65 guías verificadas sobre diagnóstico de daño post-decoloración (niveles 7 a 10 platino), rescate de emergencia para cabello chicloso o elástico mojado, prevención del corte químico y recuperación de puentes disulfuro, diseñadas para ayudarte a elegir y aplicar mascarillas, tratamientos como K18 y Olaplex, champús y protectores térmicos optimizando tu costo por aplicación en Amazon.",
+  "seoTitle": "Cabello Decolorado, Chicloso y Dañado: Diagnóstico y Protocolos de Rescate | guia-capilar.com",
+  "metaDescription": "Guía técnica para recuperar cabello decolorado, elástico o chicloso: test de elasticidad en húmedo, reconstrucción de puentes disulfuro y rescate ácido.",
+  "excerpt": "Aprende a diagnosticar el grado exacto de degradación del córtex tras una decoloración agresiva y aplica el protocolo de emergencia con péptidos, ceramidas y pH ácido para frenar la rotura en húmedo.",
+  "quickAnswer": "El cabello decolorado adquiere textura chiclosa cuando el persulfato y el peróxido rompen entre el **45 % y el 60 %** de los enlaces disulfuro y disuelven la capa lipídica **18-MEA**, dejando el córtex hidrofílico y sin memoria elástica. Para rescatarlo, debes suspender el cepillado en mojado, aplicar **K18 Leave-In Molecular Repair Mask** durante **4 minutos** por **6 lavados consecutivos** y sellar la cutícula con fórmulas ácidas a **pH 4.5**.",
   "readingMinutes": 8,
   "image": {
-    "prompt": "Photorealistic close-up of a woman's platinum blonde and honey balayage hair being gently treated with a rich white reparative cream mask in a sunlit marble bathroom, realistic hair fiber texture",
-    "alt": "Aplicación de tratamiento reconstructor intensivo sobre cabello rubio decolorado"
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating 'Cabello Decolorado, Chicloso y Dañado: Diagnóstico y Protocolos de Rescate' (cómo recuperar cabello decolorado y chicloso) for guia-capilar.com, featuring equipment in terracotta copper accent with matte slate body, in a bright family home interior with clean architectural lines, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Cabello Decolorado, Chicloso y Dañado: Diagnóstico y Protocolos de Rescate"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Cabello Decolorado, Chicloso y Dañado: Diagnóstico y Protocolos de Rescate** en **GuíaCapilar.com**. Aquí reunimos toda la ciencia tricológica, pruebas de aplicación y análisis financiero sobre **diagnóstico de daño post-decoloración (niveles 7 a 10 platino), rescate de emergencia para cabello chicloso o elástico mojado, prevención del corte químico y recuperación de puentes disulfuro**, estructurados bajo una arquitectura sin canibalización para que elijas el producto exacto antes de consultar precios y comprar en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si necesitas rescatar un cabello decolorado con el péptido de 4 minutos **[K18 Leave-In Molecular Repair Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)**, fortalecer puentes disulfuro en húmedo con **[Olaplex No. 3 Hair Perfector](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)**, sellar la cutícula a pH 4.5 con **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)** o cuidar tu bolsillo con **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**, este silo responde cada duda paso a paso."
+      "text": "El momento más alarmante tras una decoloración ocurre en el primer lavado en casa: al mojar la melena, las puntas adquieren una textura viscosa, se estiran como goma elástica al rozarlas y se quedan deformadas sin regresar a su longitud original. Ese estado —conocido popularmente como cabello chicloso— indica que la mezcla alcalina de persulfato y peróxido ha destruido la armadura cuticular y ha roto de forma masiva los enlaces internos que sostienen la queratina. Actuar con pánico aplicando calor o cepillando en húmedo provoca la amputación química del mechón; en cambio, seguir un protocolo de rescate molecular permite estabilizar la fibra y recuperar su resistencia a la tracción."
     },
     {
       "type": "h2",
-      "text": "Criterios de evaluación en Cabello Decolorado, Chicloso y Dañado"
+      "text": "Biomecánica de la fibra chiclosa: qué ocurre dentro del córtex al perder los puentes de cistina"
     },
     {
       "type": "p",
-      "text": "En cada una de las **65 guías especializadas** de esta categoría evaluamos cuatro variables objetivas: **adecuación por tipo de cabello y porosidad** (fino, medio, grueso o rizado), **mecanismo químico del activo** (péptidos, enlaces disulfuro, ácido cítrico, quelantes o lípidos), **forma exacta de uso en minutos** y **costo real por aplicación en dólares ($/uso)**."
+      "text": "Para elevar un cabello oscuro hasta un rubio extra claro, el decolorante opera a un **pH alcalino de 9.5 a 10.5** que hincha la hebra y disuelve la capa lipídica externa **18-MEA**. Una vez dentro del córtex, la oxidación oxida la cistina convirtiéndola en ácido cisteico y destruye entre el **45 % y el 60 %** de los puentes disulfuro. Como explicamos a fondo al analizar el [impacto del peróxido de 20, 30 y 40 volúmenes en la cutícula](/cabello-decolorado-y-danado/dano-por-decoloracion-con-peroxido-de-20-30-y-40-volumenes/), usar oxidantes altos acelera la reacción a costa de perforar las cadenas polipeptídicas, dejando un córtex esponjoso que absorbe hasta el **200 % de su peso en agua** pero es incapaz de retenerla. Por eso es fundamental identificar en qué punto de la escala te encuentras revisando nuestra guía de [tratamientos según los niveles de decoloración del 7 al 10 platino](/cabello-decolorado-y-danado/niveles-de-decoloracion-del-7-al-10-platino-y-dano-capilar/), ya que un nivel 10 platino exige péptidos de cadena larga desde el primer minuto."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Cabello Decolorado, Chicloso y Dañado",
       "headers": [
-        "Guía Capilar Especializada",
-        "Acceso Directo"
+        "Respuesta del Mechón Mojado",
+        "Diagnóstico Estructural del Córtex",
+        "Tratamiento de Rescate Prioritario",
+        "Acciones Estrictamente Prohibidas"
       ],
       "rows": [
         [
-          "Cómo Recuperar el Cabello Chicloso Después de Decolorar: Protocolo de Emergencia en 3 Lavados",
-          "[Leer guía completa](/cabello-decolorado-y-danado/como-recuperar-cabello-chicloso-despues-de-decolorar/)"
+          "Se estira un 25 % y vuelve al 100 % a su longitud",
+          "Porosidad media-alta con enlaces disulfuro estables",
+          "Olaplex No. 3 semanal + Redken Acidic Bonding (pH 4.5)",
+          "Planchar por encima de 365 °F (185 °C)"
         ],
         [
-          "Por Qué el Cabello Decolorado se Estira como Chicle cuando Está Mojado y Cómo Frenarlo",
-          "[Leer guía completa](/cabello-decolorado-y-danado/por-que-el-cabello-decolorado-se-estira-como-chicle-mojado/)"
+          "Se estira más del 40 % y tarda o no regresa (Efecto chicle)",
+          "Ruptura severa de cadenas de queratina y puentes disulfuro",
+          "K18 Leave-In Mask (6 lavados seguidos) + Elizavecca CER-100 alterno",
+          "Cepillar empapado, usar plancha o matizar con peróxido"
         ],
         [
-          "Qué Es el Corte Químico Capilar: Síntomas Previos y Cómo Detener la Rotura a Tiempo",
-          "[Leer guía completa](/cabello-decolorado-y-danado/que-es-el-corte-quimico-capilar-sintomas-y-como-detenerlo/)"
+          "Se rompe de inmediato sin siquiera estirarse (Rigidez)",
+          "Sobrecarga proteica extrema o deshidratación lipídica severa",
+          "Olaplex No. 8 Moisture Mask + Suspender proteínas puras 3 semanas",
+          "Aplicar queratina pura, sprays con alcohol secante o agua caliente"
         ],
         [
-          "Cronograma Capilar para Cabello Decolorado: Calendario de 4 Semanas (Reconstrucción, Nutrición e Hidratación)",
-          "[Leer guía completa](/cabello-decolorado-y-danado/cronograma-capilar-para-cabello-decolorado-paso-a-paso/)"
-        ],
-        [
-          "Diferencia entre Cabello Seco y Cabello Dañado Estructuralmente por Decoloración",
-          "[Leer guía completa](/cabello-decolorado-y-danado/diferencia-entre-cabello-seco-y-cabello-danado-por-decoloracion/)"
-        ],
-        [
-          "Test de Elasticidad Capilar en Húmedo: Cómo Saber si tu Pelo Necesita K18, Proteínas o Hidratación",
-          "[Leer guía completa](/cabello-decolorado-y-danado/test-de-elasticidad-capilar-en-humedo-como-hacerlo/)"
-        ],
-        [
-          "Niveles de Decoloración del 7 al 10 Platino: QuéTratamiento Necesita Cada Altura de Tono",
-          "[Leer guía completa](/cabello-decolorado-y-danado/niveles-de-decoloracion-del-7-al-10-platino-y-dano-capilar/)"
-        ],
-        [
-          "Cómo Cuidar el Cabello la Primera Semana Después de una Decoloración o Balayage",
-          "[Leer guía completa](/cabello-decolorado-y-danado/como-cuidar-el-cabello-la-primera-semana-despues-de-decolorar/)"
-        ],
-        [
-          "Cuánto Tiempo Esperar para Lavar el Pelo Después de Decolorar o Hacer Mechas",
-          "[Leer guía completa](/cabello-decolorado-y-danado/cuanto-tiempo-esperar-para-lavar-el-pelo-despues-de-decolorar/)"
-        ],
-        [
-          "Cómo Dormir con Cabello Decolorado para Evitar que se Rompa por Fricción con la Almohada",
-          "[Leer guía completa](/cabello-decolorado-y-danado/como-dormir-con-cabello-decolorado-para-evitar-que-se-rompa/)"
-        ],
-        [
-          "Por Qué las Puntas Decoloradas se Abren o Tienen Puntos Blancos (Tricoptilosis) y Cómo Sellarlas",
-          "[Leer guía completa](/cabello-decolorado-y-danado/por-que-las-puntas-decoloradas-se-abren-y-ven-blancas/)"
-        ],
-        [
-          "Cómo Recuperar el Brillo Espejo en un Cabello Decolorado Opaco y Poroso",
-          "[Leer guía completa](/cabello-decolorado-y-danado/como-recuperar-el-brillo-en-cabello-decolorado-opaco/)"
+          "Tacto gomoso acompañado de rotura durante el tinte",
+          "Reacción catalítica por exceso de cobre/metales en la fibra",
+          "L’Oréal Professionnel Metal Detox (Champú + Mascarilla Glicoamina 10 %)",
+          "Repetir decoloración o aplicar tintes con amoníaco sin quelar antes"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "etiqueta",
-      "title": "Cómo elegir según tu daño y costo por aplicación",
-      "text": "Recuerda la regla fundamental: K18 (~$1.55-$2.30/uso) se aplica en 4 minutos SIN acondicionador previo para daño severo o cabello chicloso; Olaplex No. 3 (~$1.40/uso) es un pre-champú en húmedo de 15-30 minutos; Redken Acidic Bonding (~$1.15/uso) sella el pH 4.5 y protege hasta 450 °F; y Elizavecca CER-100 (~$0.55/uso) aporta colágeno hidrolizado por menos de $10 en Amazon."
+      ],
+      "caption": "Escala de diagnóstico de elasticidad en húmedo y protocolo técnico de intervención"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces de Amazon"
+      "text": "Control del daño mecánico nocturno y retención real de longitud"
     },
     {
-      "type": "ol",
+      "type": "p",
+      "text": "Estabilizar químicamente el córtex con **K18** u **Olaplex No. 0 + No. 3** es solo la mitad del rescate; la otra mitad consiste en frenar la rotura mecánica física. Muchas personas creen que la decoloración dañó su folículo piloso porque su melena lleva un año estancada a la altura de las clavículas. En realidad, el folículo sigue produciendo cerca de **1.2 cm** de cabello sano al mes, pero los últimos **3 a 5 cm** decolorados se parten exactamente al mismo ritmo por fricción en seco. Para frenar esta pérdida silenciosa, aplica el diagnóstico de nuestra guía sobre [cómo identificar si tu cabello decolorado no crece o se rompe en las puntas](/cabello-decolorado-y-danado/cabello-decolorado-que-no-crece-es-falta-de-crecimiento-o-rotura/) y protege la fibra durante las ocho horas de sueño aplicando las [técnicas para dormir con cabello decolorado sin rotura por fricción](/cabello-decolorado-y-danado/como-dormir-con-cabello-decolorado-para-evitar-que-se-rompa/), utilizando funda de satén o seda y recogidos holgados con **2 gotas** de **Olaplex No. 7** en las puntas."
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Cuando el cabello decolorado está mojado, sus puentes de hidrógeno están temporalmente desactivados y su resistencia mecánica cae hasta un 50 %. Pasar un peine o cepillo sobre un cabello chicloso recién salido de la ducha estira las cadenas de queratina más allá de su límite plástico y las corta de raíz. Presiona siempre con una toalla de microfibra sin frotar, aplica tu tratamiento leave-in, espera a que el cabello esté seco al 70 % con aire tibio y solo entonces desenreda empezando por las puntas con un cepillo de púas flexibles.",
+      "title": "Alerta de emergencia: jamás desenredes un cabello chicloso mientras esté empapado"
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo de estabilización de emergencia para las primeras 72 horas post-decoloración"
+    },
+    {
+      "type": "steps",
       "items": [
-        "**Identifica tu porosidad y grosor:** un cabello fino decolorado necesita fórmulas sin peso (K18, Wella Ultimate Repair 90s, Color Wow Money Masque), mientras que uno grueso o rizado agradece lípidos densos (Moroccanoil, Kérastase Thérapiste, Olaplex No. 6).",
-        "**Respeta la dosis exacta en pumps o mililitros:** usar el doble de producto no repara el doble; satura la cutícula y duplica tu gasto mensual.",
-        "**Consulta el precio actualizado en tu tienda Amazon:** nuestras tarjetas apuntan por defecto a **Amazon Estados Unidos (`guia-capilar-20`)** y cambian automáticamente a **Amazon España (`guia-capilar-21`)** si navegas desde Europa."
+        {
+          "name": "Neutralización de residuos químicos y metales (Lavado 1)",
+          "text": "Lava suavemente sin frotar los largos utilizando L’Oréal Professionnel Metal Detox Shampoo para eliminar restos de persulfato y neutralizar el cobre del agua que sigue oxidando la fibra. No apliques acondicionador en este paso."
+        },
+        {
+          "name": "Reconexión peptídica de cadenas de queratina (4 minutos en húmedo)",
+          "text": "Retira el exceso de agua con toalla de microfibra, emulsiona de 1 a 3 pumps de K18 Leave-In Molecular Repair Mask en tus palmas hasta que se vuelva blanco, distribúyelo por zonas y espera 4 minutos exactos sin enjuagar."
+        },
+        {
+          "name": "Clausura ácida de la cutícula y secado a baja temperatura (Acabado Lavado 1)",
+          "text": "Pasados los 4 minutos de K18, aplica una pequeña dosis de Redken Acidic Bonding Concentrate Leave-In para llevar el pH a 4.5 y seca con aire tibio (nunca caliente) en dirección descendente sin usar tracción de cepillo redondo."
+        },
+        {
+          "name": "Relleno de cemento intercelular con colágeno y ceramidas (Lavado 2 a las 72 horas)",
+          "text": "En tu siguiente lavado, tras repetir el paso de K18 o alternar con Olaplex No. 0 + No. 3 pre-champú, incorpora Elizavecca CER-100 durante 5 minutos en medios y puntas para aportar Ceramida 3 y colágeno hidrolizado que devuelvan cuerpo a la hebra porosa."
+        }
       ]
     },
     {
       "type": "cta",
-      "text": "¿No sabes qué tratamiento, mascarilla o protector térmico de este silo necesita tu cabello hoy? Pregúntale en vivo a nuestra Asesora Capilar IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro para el cabello teñido o decolorado"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Lava sin sulfatos y quela los metales del agua:** usa champús a pH 4.5–5.5 (Pureology Hydrate, Olaplex No. 4) y desintoxica el cobre del agua dura con L’Oréal Metal Detox o K18 Detox.",
-        "**No uses acondicionador antes de K18:** espera siempre sus 4 minutos reglamentarios sobre cabello secado con toalla antes de aplicar cualquier crema o aceite.",
-        "**Alterna reconstrucción e hidratación:** los bondeadores reparan por dentro, pero necesitas mascarillas hidratantes/lipídicas (Olaplex No. 8, Moroccanoil) para dar suavidad y flexibilidad externa.",
-        "**Protección térmica obligatoria hasta 450 °F (230 °C):** jamás pases el secador o la plancha sobre pelo decolorado sin un escudo como Color Wow Dream Coat, Redken Acidic Leave-In, Kenra Blow-Dry o 2 gotas de Olaplex No. 7."
-      ]
+      "text": "Verifica la disponibilidad actual de estos tratamientos de rescate en las tarjetas de Amazon integradas en la página o describe el estado exacto de tu cabello a nuestro Asesor IA para recibir un plan de recuperación personalizado."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Cabello Decolorado, Chicloso y Dañado?",
-      "a": "Incluye 65 artículos técnicos detallados sobre diagnóstico de daño post-decoloración (niveles 7 a 10 platino), rescate de emergencia para cabello chicloso o elástico mojado, prevención del corte químico y recuperación de puentes disulfuro, con tablas de dosificación en mililitros, tiempos de acción, costo por aplicación y enlaces directos a Amazon Estados Unidos y España."
+      "q": "¿Un cabello chicloso por decoloración puede volver a la normalidad sin cortarlo todo?",
+      "a": "No regresa a su estado virgen original porque la cutícula perdida no se regenera biológicamente, pero sí recupera hasta el 80-90 % de su elasticidad y firmeza mecánica. Con 6 aplicaciones seguidas de K18 Leave-In Mask combinadas con selladores ácidos a pH 4.5, el efecto gomoso en mojado desaparece por completo."
     },
     {
-      "q": "¿Todas las guías están enfocadas en cabello teñido o decolorado?",
-      "a": "Sí, en GuíaCapilar.com priorizamos la recuperación, matización y protección térmica del cabello teñido, con mechas balayage o decolorado global, adaptando cada recomendación a tu grosor y porosidad."
+      "q": "¿Cuánto tiempo debo esperar para matizar o teñir un cabello que quedó elástico?",
+      "a": "Debes suspender cualquier tinte con amoníaco o revelador de 20 volúmenes o superior durante al menos 4 a 6 semanas. Si necesitas corregir un tono amarillo o naranja de urgencia, utiliza únicamente champús o mascarillas con pigmento directo sin peróxido (como Fanola No Yellow o Olaplex No. 4P) mezclados con mascarilla hidratante."
     },
     {
-      "q": "¿Puedo pedir una rutina personalizada según mi presupuesto en Amazon?",
-      "a": "Por supuesto: abre el chat de la Asesora Capilar IA en la esquina inferior derecha, cuéntale cómo está tu cabello y tu presupuesto en dólares o euros y te armará tu rutina exacta."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Journal of Cosmetic Science – Hair Fiber & Disulfide Bond Repair",
-      "url": "https://www.scconline.org/"
-    },
-    {
-      "label": "American Academy of Dermatology (AAD) – Hair Dye & Bleach Care",
-      "url": "https://www.aad.org/"
+      "q": "¿Por qué mi cabello decolorado tarda horas en secarse pero luego se siente seco como paja?",
+      "a": "Cuando la hebra ha perdido casi todas sus capas cuticulares y su capa lipídica 18-MEA, el córtex expuesto actúa como una esponja hidrofílica: retiene grandes cantidades de agua en sus cavidades internas dañadas durante horas, pero una vez que esa agua se evapora al aire, la fibra queda totalmente áspera y rígida."
     }
   ],
   "related": [
-    "/cabello-decolorado-y-danado/como-recuperar-cabello-chicloso-despues-de-decolorar/",
-    "/cabello-decolorado-y-danado/por-que-el-cabello-decolorado-se-estira-como-chicle-mojado/",
-    "/cabello-decolorado-y-danado/que-es-el-corte-quimico-capilar-sintomas-y-como-detenerlo/",
-    "/cabello-decolorado-y-danado/cronograma-capilar-para-cabello-decolorado-paso-a-paso/"
+    "/cabello-decolorado-y-danado/niveles-de-decoloracion-del-7-al-10-platino-y-dano-capilar/",
+    "/cabello-decolorado-y-danado/como-dormir-con-cabello-decolorado-para-evitar-que-se-rompa/",
+    "/cabello-decolorado-y-danado/cabello-decolorado-que-no-crece-es-falta-de-crecimiento-o-rotura/",
+    "/cabello-decolorado-y-danado/dano-por-decoloracion-con-peroxido-de-20-30-y-40-volumenes/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/cabello-decolorado-y-danado.webp"
 }

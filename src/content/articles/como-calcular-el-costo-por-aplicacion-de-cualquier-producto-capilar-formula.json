@@ -4,161 +4,128 @@
   "path": "/costo-por-aplicacion-y-dosificacion/como-calcular-el-costo-por-aplicacion-de-cualquier-producto-capilar-formula/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como calcular el costo por aplicacion de un producto capilar",
   "title": "La Fórmula de Guía Capilar para Calcular el Costo por Aplicación de Cualquier Producto antes de Comprar",
-  "seoTitle": "La Fórmula de Guía Capilar para Calcular el Costo por Aplicación de Cualquier Producto antes de Comprar | Guía Capilar",
-  "metaDescription": "La Fórmula de Guía Capilar para Calcular el Costo por Aplicación de Cualquier Producto antes de Comprar: Fórmula: Precio en USD ÷ (Volumen total del envase en ml ÷ Dosis real por sesión en ml) = Tu costo verdadero por uso. Guía paso a paso según tipo de cabello, forma de uso y costo por aplicación en Amazon.",
-  "excerpt": "Fórmula: Precio en USD ÷ (Volumen total del envase en ml ÷ Dosis real por sesión en ml) = Tu costo verdadero por uso.",
-  "quickAnswer": "Sobre como calcular el costo por aplicacion de un producto capilar: Fórmula: Precio en USD ÷ (Volumen total del envase en ml ÷ Dosis real por sesión en ml) = Tu costo verdadero por uso. Para maximizar resultados y ahorrar en cada dosis, aplica el producto sobre cabello húmedo secado con toalla de microfibra, respeta los minutos exactos de actuación y sella siempre a pH 4.5 con protector térmico.",
+  "seoTitle": "La Fórmula de Guía Capilar para Calcular el Costo por Aplicación de Cualquier Producto antes de Comprar | guia-capilar.com",
+  "metaDescription": "Fórmula matemática paso a paso para calcular el costo por aplicación y rendimiento en meses de cualquier champú, mascarilla, aceite o tratamiento en Amazon.",
+  "excerpt": "Aprende a aplicar la ecuación de Rendimiento Total de Dosis (RTD), Costo por Aplicación (ICA) y Frecuencia Mensual (FFM), con la tabla exacta de equivalencias en mililitros por pump, gota y spray.",
+  "quickAnswer": "Para calcular el rendimiento y costo por aplicación de cualquier producto capilar, divide primero el volumen neto del envase (en mililitros) entre tu dosis real por uso (1 pump de tratamiento = 1 ml; 1 cucharadita de mascarilla = 5 ml; 1 gota de aceite = 0.05 ml). El resultado es el número total de aplicaciones del envase, que al dividirse entre tus usos mensuales revela cuántos meses exactos durará el bote.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Photorealistic editorial haircare photography: exact milliliter dosing comparison of a 50ml airless pump bottle and a 15ml bottle with 1ml cream dollops on a precision scale (como calcular el costo por aplicacion de un producto capilar). Composition: clinical trichology laboratory table with graduated glass droppers, amino acid serum and a healthy hair swatch, featuring sleek fine ash-blonde straight hair reflecting natural daylight, set in botanical spa bathroom with terrazzo countertop and eucalyptus in soft daylight. Ultra-realistic skin and hair fiber cuticle texture, DSLR 85mm f/2.0 lens, no text, no brand logos, no watermarks.",
+    "prompt": "High-angle 45-degree workbench/tabletop perspective on 28mm lens: realistic scene illustrating 'La Fórmula de Guía Capilar para Calcular el Costo por Aplicación de Cualquier Producto antes de Comprar' (como calcular el costo por aplicacion de un producto capilar) for guia-capilar.com, featuring equipment in olive sage green with anodized silver accents, on a warm walnut table beside a sunlit window, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "La Fórmula de Guía Capilar para Calcular el Costo por Aplicación de Cualquier Producto antes de Comprar"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando cuidas un cabello teñido, con mechas *balayage* o decolorado, comprender con exactitud **como calcular el costo por aplicacion de un producto capilar** marca la diferencia entre gastar dinero en productos que se quedan en la superficie o lograr una fibra fuerte, elástica y con brillo espejo. Fórmula: Precio en USD ÷ (Volumen total del envase en ml ÷ Dosis real por sesión en ml) = Tu costo verdadero por uso."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía especializada del silo de **[Costo Por Aplicacion Y Dosificacion](/costo-por-aplicacion-y-dosificacion/)** analizamos el fundamento químico, la adaptación por tipo de cabello (fino, medio, grueso o rizado), la forma de aplicación al minuto y el impacto en el **costo por aplicación** con los tratamientos líderes de Amazon Estados Unidos y España: **[K18 Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)**, **[Olaplex No. 3](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)**, **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)**, **[L’Oréal Metal Detox](/resenas-tratamientos-y-productos/loreal-professionnel-metal-detox-mask/)** y **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**."
+      "text": "Mirar únicamente la cifra total de un envase en el carrito de compras sin dividir su volumen entre la dosis real por sesión es la razón principal por la que muchos tratamientos supuestamente económicos terminan costando el doble al mes que un cosmético clínico. Un frasco pequeño de **30 ml** de aceite peptídico o un tubo de **50 ml** de biotecnología molecular puede parecer una inversión elevada a simple vista, pero cuando su dosificación requiere apenas **0.10 ml** o **1.5 ml** cada cuatro lavados, su índice de gasto por aplicación cae por debajo del de una mascarilla comercial de medio litro. Dominar nuestra fórmula de tres variables te permite auditar cualquier producto capilar en segundos antes de comprarlo."
     },
     {
       "type": "h2",
-      "text": "Fundamento tricológico y tabla técnica: como calcular el costo por aplicacion de un producto capilar"
+      "text": "Las 3 ecuaciones de Guía Capilar: Rendimiento (RTD), Costo por Uso (ICA) y Gasto Mensual (FFM)"
     },
     {
       "type": "p",
-      "text": "El cabello procesado químicamente presenta una cutícula más abierta (porosidad media a alta) y una reducción de enlaces disulfuro y lípidos 18-MEA. Por eso, aplicar correctamente lo relativo a **como calcular el costo por aplicacion de un producto capilar** evita tanto la sobrecarga cosmética (apelmazamiento o rigidez proteica) como la rotura por fatiga higral o térmica."
+      "text": "Para estandarizar todas las comparativas técnicas de nuestro [hub de costo por aplicación y dosificación](/costo-por-aplicacion-y-dosificacion/), aplicamos un modelo matemático de tres pasos basado en la densidad reológica del cosmético y la frecuencia real de uso según el daño de la fibra:\n1. **Rendimiento Total de Dosis (RTD)** = `Volumen Neto del Envase (ml) ÷ Dosis Real por Aplicación (ml/uso)`.\n2. **Índice de Costo por Aplicación (ICA)** = `Valor de Adquisición del Envase ÷ RTD`.\n3. **Factor de Frecuencia Mensual (FFM)** = `ICA × Número de Aplicaciones al Mes`.\nGracias a la tercera variable (**FFM**), comprendes por qué un tratamiento intensivo que se aplica solo **2 o 3 veces al mes** (como una mascarilla quelante o un matizador) representa una fracción mínima de tu presupuesto mensual frente a un producto de uso diario. Puedes ver esta ecuación aplicada paso a paso en nuestro análisis sobre [cuántas aplicaciones reales rinden el champú de 300 ml y la mascarilla de 250 ml de L’Oréal Metal Detox](/costo-por-aplicacion-y-dosificacion/cuantas-aplicaciones-rinde-loreal-metal-detox-champu-y-mascarilla/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia capilar y costo por uso para: como calcular el costo por aplicacion de un producto capilar",
       "headers": [
-        "Variable Capilar",
-        "Ajuste / Protocolo Óptimo",
-        "Impacto en tu Cabello y Costo/Dosis"
+        "Tipo de Dispensador / Medida Casera",
+        "Equivalencia Exacta en Mililitros (ml)",
+        "Ejemplo de Producto en Catálogo",
+        "RTD (Aplicaciones por Envase en Melena Media)"
       ],
       "rows": [
         [
-          "Diagnóstico principal",
-          "Fórmula: Precio en USD ÷ (Volumen total del envase en ml ÷ Dosis real por sesión en ml) = Tu costo verdadero por uso.",
-          "Evita compras innecesarias y mejora la absorción"
+          "1 Pump de dosificador airless de tratamiento",
+          "1.0 ml exacto por presión completa",
+          "K18 Leave-In Molecular Repair Mask (50 ml)",
+          "25 a 33 aplicaciones (usando 1.5 a 2 pumps)"
         ],
         [
-          "Cabello Fino Decolorado",
-          "Dosis mínima (1 pump / 2-3 ml) sin mantecas pesadas",
-          "Repara sin quitar volumen y el envase dura el doble"
+          "1 Gota de cuentagotas de precisión",
+          "0.04 ml a 0.05 ml por gota",
+          "K18 Molecular Repair Hair Oil (30 ml)",
+          "250 a 300 aplicaciones (usando 2 a 3 gotas)"
         ],
         [
-          "Cabello Medio a Grueso / Rizado",
-          "Dosis estándar (2-3 pumps / 5-10 ml) + sellado lipídico",
-          "Restaura elasticidad, controla el frizz y sella puntas"
+          "1 Pulverización de atomizador de niebla fina",
+          "0.12 ml a 0.15 ml por spray",
+          "Kenra Platinum Blow-Dry Spray (100 ml)",
+          "65 a 80 aplicaciones (usando 8 a 10 sprays)"
         ],
         [
-          "pH y Humedad de Aplicación",
-          "Humedad al 70% (secado con microfibra) y cierre a pH 4.5",
-          "Impide que el agua diluya el activo o que el tinte se fugue"
-        ],
-        [
-          "Termoprotección Obligatoria",
-          "Escudo hasta 450 °F (230 °C) con plancha a máx. 330–365 °F",
-          "Protege los enlaces reparados por solo ~$0.25–$0.75/uso"
+          "1 Cucharadita rasa de té (tamaño nuez)",
+          "5.0 ml por cucharadita",
+          "L’Oréal Metal Detox Mask (250 ml) / Olaplex No. 3 (100 ml)",
+          "25 a 35 aplicaciones en tarro de 250 ml (7 a 10 ml/uso)"
         ]
-      ]
+      ],
+      "caption": "Tabla de conversión universal: equivalencia en mililitros según el dispensador del envase"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo ajustar la variable de dosis según el porcentaje de agua en la etiqueta INCI"
+    },
+    {
+      "type": "p",
+      "text": "La fórmula matemática solo es precisa si introduces la **Dosis Real por Aplicación** y no una medida arbitraria. Para estimarla antes de abrir el bote, revisa los primeros cinco ingredientes del listado **INCI**: si tras el agua (*Aqua*) aparecen alcoholes grasos pesados (**Cetearyl Alcohol**, **Behentrimonium Chloride**), activos patentados de bajo peso molecular o siliconas volátiles puras, la fórmula es de **alta concentración** y requerirá un **50 % a 70 % menos de volumen** que una emulsión comercial llena de espesantes sintéticos. De igual modo, la técnica de pulverización altera el denominador de la ecuación, tal como demostramos en la guía sobre [cuántos sprays exactos de Kenra Platinum Blow-Dry Spray aplicar para alcanzar 50 o más secados por botella](/costo-por-aplicacion-y-dosificacion/como-dosificar-kenra-platinum-blow-dry-spray-sin-saturar/)."
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de tricología y ahorro sobre como calcular el costo por aplicacion de un producto capilar",
-      "text": "Fórmula: Precio en USD ÷ (Volumen total del envase en ml ÷ Dosis real por sesión en ml) = Tu costo verdadero por uso. Recuerda ajustar siempre la cantidad en mililitros o pumps al grosor de tu cabello y sellar la cutícula a pH 4.5–5.0 con protección térmica antes de aplicar calor."
+      "text": "En tubos depresibles rígidos o frascos de plástico grueso sin sistema airless, hasta un 10 % del contenido queda adherido a las paredes internas. Al calcular el Rendimiento Total de Dosis (RTD) en tubos convencionales, multiplica el volumen neto por 0.92 para obtener las aplicaciones netas reales, o corta el envase al final para recuperar las últimas 3 dosis.",
+      "title": "El factor de merma del envase (5 % a 12 %)"
     },
     {
       "type": "h2",
-      "text": "Protocolo paso a paso para aplicar como calcular el costo por aplicacion de un producto capilar en casa"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este método de 4 pasos verificados para obtener resultados de salón optimizando cada gota de producto:"
+      "text": "Pasos para auditar cualquier producto capilar en Amazon en menos de un minuto"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Limpieza selectiva en raíz sin fricción en puntas",
-          "text": "Lava el cuero cabelludo con un champú sin sulfatos de pH ácido (o un champú quelante como L’Oréal Metal Detox / K18 Detox si toca limpieza profunda) y deja que la espuma deslice verticalmente sin frotar las puntas decoloradas."
+          "name": "Convierte onzas líquidas (fl oz) a mililitros (ml)",
+          "text": "En Amazon Estados Unidos muchos formatos se listan en onzas: multiplica las fl oz por 29.57 (por ejemplo, 3.3 fl oz equivalen a 100 ml y 8.5 fl oz equivalen a 250 ml)."
         },
         {
-          "name": "Paso 2: Control de humedad al 70 % con toalla de microfibra",
-          "text": "Antes de aplicar tu tratamiento reconstructor o mascarilla, presiona suavemente el cabello con una toalla de microfibra para retirar el agua que gotea; recuerda que si aplicas K18 NO debes poner acondicionador antes."
+          "name": "Asigna tu coeficiente de dosis según longitud y textura",
+          "text": "Usa la tabla de conversión superior: asigna de 1.5 ml a 2 ml para leave-ins concentrados, de 3 ml a 4 ml para champús profesionales y de 7 ml a 10 ml para mascarillas en melena media."
         },
         {
-          "name": "Paso 3: Dosificación exacta en las palmas y tiempo de exposición",
-          "text": "Mide tu dosis exacta en pumps o mililitros (1 a 2 pumps para K18 esperando 4 minutos; 5 ml en húmedo durante 20 minutos para Olaplex No. 3; o 5–10 minutos para mascarillas como Olaplex No. 8 y Elizavecca CER-100)."
-        },
-        {
-          "name": "Paso 4: Sellado ácido y blindaje térmico antes del secado",
-          "text": "Aplica tu protector térmico hasta 450 °F (Redken Acidic Bonding Leave-In, Color Wow Dream Coat o Kenra Blow-Dry Spray), desenreda de puntas a raíz con un cepillo flexible y finaliza en seco con 2 gotas de Olaplex No. 7 Bonding Oil."
+          "name": "Calcula el RTD y pondera por frecuencia mensual (FFM)",
+          "text": "Divide los mililitros totales entre tu dosis para saber cuántos usos trae el bote, y divídelo entre tus aplicaciones mensuales para conocer cuántos meses exactos tardarás en reponerlo."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas sobre cómo adaptar como calcular el costo por aplicacion de un producto capilar a tu tipo exacto de cabello? Consulta gratis en vivo a nuestra Asesora Capilar IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes que debes evitar para no malgastar producto"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Usar más cantidad creyendo que reparará más rápido:** la fibra capilar tiene un límite físico de absorción; el excedente solo apelmaza y duplica tu costo por aplicación.",
-        "**Aplicar tratamientos caros sobre cabello chorreando agua:** el agua libre bloquea la entrada al córtex y hace que la crema resbale al desagüe.",
-        "**No alternar proteínas con hidratación lipídica:** abusar de la queratina sin aportar humectantes y aceites (como Moroccanoil o Color Wow Money Masque) vuelve la hebra rígida.",
-        "**Planchar a 410 °F–450 °F sobre cabello decolorado:** degrada el matiz rubio a amarillo en una sola pasada y destruye los puentes disulfuro recién reparados."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Productos recomendados en Amazon Estados Unidos y España"
-    },
-    {
-      "type": "p",
-      "text": "Para poner en práctica esta guía con la mejor relación calidad-precio por aplicación, revisa nuestra selección en Amazon: desde **[K18 Leave-In Molecular Repair Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)** y **[Olaplex No. 3 Hair Perfector](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)** hasta **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)** y la económica **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Pon a prueba esta fórmula revisando los formatos disponibles en las tarjetas de Amazon de esta página o pídele a nuestro Asesor IA que haga el cálculo automático de rendimiento para los productos de tu carrito."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla más importante sobre como calcular el costo por aplicacion de un producto capilar?",
-      "a": "Fórmula: Precio en USD ÷ (Volumen total del envase en ml ÷ Dosis real por sesión en ml) = Tu costo verdadero por uso. Además, respeta siempre los minutos de espera en cabello húmedo al 70% y mide la dosis en pumps o mililitros según tu grosor capilar."
+      "q": "¿A cuántos mililitros equivale una onza líquida (fl oz) en los envases de Amazon EE. UU.?",
+      "a": "Una onza líquida estadounidense (1 US fl oz) equivale exactamente a 29.57 mililitros. Para cálculos rápidos de dosificación capilar, puedes redondear 1 fl oz a 30 ml, 3.3 fl oz a 100 ml, 5 fl oz a 150 ml y 8.5 fl oz a 250 ml."
     },
     {
-      "q": "¿Cómo adapto este consejo si mi cabello es muy fino y decolorado?",
-      "a": "En cabello fino utiliza la mitad de la dosis estándar (ej. 1 solo pump de K18 o 1 gota de Olaplex No. 7), concéntralo de medios a puntas lejos de la raíz y prioriza texturas ligeras como Wella Ultimate Repair o Color Wow Money Masque."
+      "q": "¿Por qué un pump de K18 equivale a 1 ml mientras que el pump de un champú de litro entrega mucho más?",
+      "a": "Porque los envases de K18 (50 ml) utilizan una válvula dosificadora calibrada de alta precisión que entrega exactamente 1 ml por presión para evitar el desperdicio de péptidos, mientras que las bombas estándar de champús de litro entregan entre 3 ml y 4 ml por pulsación."
     },
     {
-      "q": "¿Qué producto de Amazon ofrece el mejor costo por aplicación para complementar este paso?",
-      "a": "Para sellado diario de puntas y protección térmica hasta 450 °F, Olaplex No. 7 Bonding Oil cuesta solo ~$0.25 USD por uso (120+ aplicaciones); y como mascarilla de colágeno y ceramidas, Elizavecca CER-100 cuesta ~$0.55 USD por aplicación."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Journal of Cosmetic Science – Hair Porosity, pH & Peptide Repair",
-      "url": "https://www.scconline.org/"
-    },
-    {
-      "label": "International Journal of Cosmetic Science",
-      "url": "https://onlinelibrary.wiley.com/journal/14682494"
+      "q": "¿Siempre sale más rentable por aplicación comprar el envase más grande disponible?",
+      "a": "Los formatos de 250 ml a 300 ml reducen significativamente el costo por mililitro en productos de rotación semanal como Olaplex No. 3 o mascarillas ácidas. Sin embargo, en aceites o tratamientos que se usan en gotas, el envase de 30 ml ya dura casi un año y no requiere formato gigante."
     }
   ],
   "related": [
-    "/costo-por-aplicacion-y-dosificacion/",
-    "/costo-por-aplicacion-y-dosificacion/que-productos-capilares-duran-mas-de-6-meses-con-un-solo-envase/",
-    "/costo-por-aplicacion-y-dosificacion/por-que-usar-mas-champu-violeta-no-matiza-mejor-sino-el-tiempo-de-exposicion/",
-    "/comparativas/k18-vs-olaplex-no-3/"
+    "/costo-por-aplicacion-y-dosificacion/cuantas-aplicaciones-rinde-loreal-metal-detox-champu-y-mascarilla/",
+    "/costo-por-aplicacion-y-dosificacion/costo-por-aplicacion-de-kerastase-blond-absolu-vale-la-pena-la-inversion/",
+    "/costo-por-aplicacion-y-dosificacion/que-producto-comprar-primero-si-solo-tienes-30-dolares-de-presupuesto/",
+    "/costo-por-aplicacion-y-dosificacion/como-dosificar-kenra-platinum-blow-dry-spray-sin-saturar/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/como-calcular-el-costo-por-aplicacion-de-cualquier-producto-capilar-formula.webp"
 }

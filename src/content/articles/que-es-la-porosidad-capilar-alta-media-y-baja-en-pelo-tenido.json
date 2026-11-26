@@ -4,161 +4,111 @@
   "path": "/tipo-de-cabello-y-porosidad/que-es-la-porosidad-capilar-alta-media-y-baja-en-pelo-tenido/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que es la porosidad capilar alta media y baja",
   "title": "Qué Es la Porosidad Capilar (Alta, Media y Baja) y Cómo Cambia Cuando Te Tiñes o Decoloras",
-  "seoTitle": "Qué Es la Porosidad Capilar (Alta, Media y Baja) y Cómo Cambia Cuando Te Tiñes o Decoloras | Guía Capilar",
-  "metaDescription": "Qué Es la Porosidad Capilar (Alta, Media y Baja) y Cómo Cambia Cuando Te Tiñes o Decoloras: La porosidad mide cuán abiertas o cerradas están las escamas de tu cutícula: toda decoloración eleva la porosidad, haciendo que el pelo absorba agua rápido pero la pierda igual de rápido. Guía paso a paso según tipo de cabello, forma de uso y costo por aplicación en Amazon.",
-  "excerpt": "La porosidad mide cuán abiertas o cerradas están las escamas de tu cutícula: toda decoloración eleva la porosidad, haciendo que el pelo absorba agua rápido pero la pierda igual de rápido.",
-  "quickAnswer": "Sobre que es la porosidad capilar alta media y baja: La porosidad mide cuán abiertas o cerradas están las escamas de tu cutícula: toda decoloración eleva la porosidad, haciendo que el pelo absorba agua rápido pero la pierda igual de rápido. Para maximizar resultados y ahorrar en cada dosis, aplica el producto sobre cabello húmedo secado con toalla de microfibra, respeta los minutos exactos de actuación y sella siempre a pH 4.5 con protector térmico.",
-  "readingMinutes": 7,
+  "seoTitle": "Qué Es la Porosidad Capilar (Alta, Media y Baja) y Cómo Cambia Cuando Te Tiñes o Decoloras | guia-capilar.com",
+  "metaDescription": "Qué es la porosidad capilar alta, media y baja en pelo teñido o decolorado: cómo cambia la cutícula con el tinte y qué tratamientos usar en cada caso.",
+  "excerpt": "Guía técnica sobre qué es la porosidad capilar baja, media y alta, cómo los tintes alcalinos y la decoloración destruyen la capa 18-MEA y qué activos elegir para cada nivel.",
+  "quickAnswer": "La **porosidad capilar** mide qué tan abiertas o cerradas están las escamas de la cutícula para absorber y retener humedad. Se divide en **baja** (cutícula compacta que repele agua y cremas densas), **media** (absorción y retención equilibradas) y **alta** (cutícula abierta con huecos que absorbe todo rápido pero lo pierde por evaporación). Al teñir o decolorar a **pH alcalino (9–11)**, se destruye la barrera lipídica **18-MEA**, empujando la hebra hacia la porosidad alta.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Photorealistic editorial haircare photography: professional haircare routine focused on que es la porosidad capilar alta media y baja, showing silky cool platinum blonde level-10 bleached hair with mirror shine. Composition: 45-degree close-up of hands emulsifying a precise 2-pump dollop of white reparative cream in the palms, featuring silky cool platinum blonde level-10 bleached hair with mirror shine, set in travertine and brushed brass dressing table under a natural skylight. Ultra-realistic skin and hair fiber cuticle texture, DSLR 85mm f/2.0 lens, no text, no brand logos, no watermarks.",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Qué Es la Porosidad Capilar (Alta, Media y Baja) y Cómo Cambia Cuando Te Tiñes o Decoloras' (que es la porosidad capilar alta media y baja) for guia-capilar.com, featuring equipment in arctic white with warm stone-gray details, beside a neat storage shelf in a sunlit modern room, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Qué Es la Porosidad Capilar (Alta, Media y Baja) y Cómo Cambia Cuando Te Tiñes o Decoloras"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando cuidas un cabello teñido, con mechas *balayage* o decolorado, comprender con exactitud **que es la porosidad capilar alta media y baja** marca la diferencia entre gastar dinero en productos que se quedan en la superficie o lograr una fibra fuerte, elástica y con brillo espejo. La porosidad mide cuán abiertas o cerradas están las escamas de tu cutícula: toda decoloración eleva la porosidad, haciendo que el pelo absorba agua rápido pero la pierda igual de rápido."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía especializada del silo de **[Tipo De Cabello Y Porosidad](/tipo-de-cabello-y-porosidad/)** analizamos el fundamento químico, la adaptación por tipo de cabello (fino, medio, grueso o rizado), la forma de aplicación al minuto y el impacto en el **costo por aplicación** con los tratamientos líderes de Amazon Estados Unidos y España: **[K18 Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)**, **[Olaplex No. 3](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)**, **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)**, **[L’Oréal Metal Detox](/resenas-tratamientos-y-productos/loreal-professionnel-metal-detox-mask/)** y **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**."
+      "text": "¿Te ha pasado que compras la mascarilla más recomendada para cabello teñido y a tu amiga le deja el pelo sedoso, mientras que a ti te lo deja pesado y grasoso —o, por el contrario, tu melena se la «traga» en segundos y al secarse sigue igual de áspera? La diferencia no está en la marca del producto, sino en la arquitectura microscópica de tu cutícula. Entender **qué es la porosidad capilar alta, media y baja** y cómo se transforma químicamente cada vez que aplicas un tinte con amoníaco o un polvo decolorante es el primer paso para dejar de desperdiciar tratamientos caros en Amazon."
     },
     {
       "type": "h2",
-      "text": "Fundamento tricológico y tabla técnica: que es la porosidad capilar alta media y baja"
+      "text": "Anatomía de la cutícula: qué mide realmente la porosidad capilar (baja, media y alta)"
     },
     {
       "type": "p",
-      "text": "El cabello procesado químicamente presenta una cutícula más abierta (porosidad media a alta) y una reducción de enlaces disulfuro y lípidos 18-MEA. Por eso, aplicar correctamente lo relativo a **que es la porosidad capilar alta media y baja** evita tanto la sobrecarga cosmética (apelmazamiento o rigidez proteica) como la rotura por fatiga higral o térmica."
+      "text": "La porosidad capilar es la capacidad física que tiene la hebra para **absorber y, sobre todo, retener agua, lípidos, proteínas y moléculas de pigmento** dentro del córtex. La capa externa del cabello (la cutícula) está formada por entre **6 y 10 capas de escamas de queratina** superpuestas como las tejas de un tejado y unidas entre sí por un cemento intercelular rico en ceramidas y ácidos grasos llamado **Complejo de Membrana Celular (CMC)**, recubierto por una película hidrofóbica llamada **18-MEA**. Según qué tan compactas o abiertas estén esas tejas, la fibra se clasifica en tres niveles con necesidades cosméticas diametralmente opuestas:"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia capilar y costo por uso para: que es la porosidad capilar alta media y baja",
       "headers": [
-        "Variable Capilar",
-        "Ajuste / Protocolo Óptimo",
-        "Impacto en tu Cabello y Costo/Dosis"
+        "Nivel de Porosidad",
+        "Estado físico de las escamas cuticulares",
+        "Comportamiento con el agua y el tinte",
+        "Activos y peso molecular que necesita"
       ],
       "rows": [
         [
-          "Diagnóstico principal",
-          "La porosidad mide cuán abiertas o cerradas están las escamas de tu cutícula: toda decoloración eleva la porosidad, haciendo que el pelo absorba agua rápido pero la pierda igual de rápido.",
-          "Evita compras innecesarias y mejora la absorción"
+          "Porosidad Baja",
+          "Escamas totalmente cerradas y superpuestas; capa 18-MEA intacta o rígida",
+          "Tarda en mojarse en la ducha; las gotas resbalan; el tinte penetra con dificultad; se engrasa con cremas densas",
+          "Texturas ligeras, líquidos o geles (Olaplex No. 0 + No. 3, No. 9), calor suave para abrir cutícula y pH equilibrado"
         ],
         [
-          "Cabello Fino Decolorado",
-          "Dosis mínima (1 pump / 2-3 ml) sin mantecas pesadas",
-          "Repara sin quitar volumen y el envase dura el doble"
+          "Porosidad Media (Normal)",
+          "Escamas ligeramente flexibles y uniformes con cemento lipídico sano",
+          "Absorbe la hidratación en 2-3 minutos y la retiene; el color del tinte queda uniforme y brillante",
+          "Mantenimiento equilibrado: champú sin sulfatos agresivos y mascarilla ácida semanal (Redken Acidic Bonding)"
         ],
         [
-          "Cabello Medio a Grueso / Rizado",
-          "Dosis estándar (2-3 pumps / 5-10 ml) + sellado lipídico",
-          "Restaura elasticidad, controla el frizz y sella puntas"
-        ],
-        [
-          "pH y Humedad de Aplicación",
-          "Humedad al 70% (secado con microfibra) y cierre a pH 4.5",
-          "Impide que el agua diluya el activo o que el tinte se fugue"
-        ],
-        [
-          "Termoprotección Obligatoria",
-          "Escudo hasta 450 °F (230 °C) con plancha a máx. 330–365 °F",
-          "Protege los enlaces reparados por solo ~$0.25–$0.75/uso"
+          "Porosidad Alta (Típica post-decoloración)",
+          "Escamas levantadas, astilladas o ausentes; pérdida de 18-MEA y huecos en el córtex",
+          "Se empapa al instante pero se seca rapidísimo quedando áspero; escupe el matiz o tinte en pocos lavados",
+          "Péptidos biomiméticos (K18 Mask), proteínas hidrolizadas (Elizavecca CER-100), pH ácido (3.5-4.5) y sellado lipídico (Olaplex No. 7)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de tricología y ahorro sobre que es la porosidad capilar alta media y baja",
-      "text": "La porosidad mide cuán abiertas o cerradas están las escamas de tu cutícula: toda decoloración eleva la porosidad, haciendo que el pelo absorba agua rápido pero la pierda igual de rápido. Recuerda ajustar siempre la cantidad en mililitros o pumps al grosor de tu cabello y sellar la cutícula a pH 4.5–5.0 con protección térmica antes de aplicar calor."
+      ],
+      "caption": "Clasificación técnica de la porosidad capilar y su respuesta a tratamientos en pelo teñido"
     },
     {
       "type": "h2",
-      "text": "Protocolo paso a paso para aplicar que es la porosidad capilar alta media y baja en casa"
+      "text": "Cómo el tinte y la decoloración disparan tu porosidad hacia el extremo hidrofílico"
     },
     {
       "type": "p",
-      "text": "Sigue este método de 4 pasos verificados para obtener resultados de salón optimizando cada gota de producto:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Limpieza selectiva en raíz sin fricción en puntas",
-          "text": "Lava el cuero cabelludo con un champú sin sulfatos de pH ácido (o un champú quelante como L’Oréal Metal Detox / K18 Detox si toca limpieza profunda) y deja que la espuma deslice verticalmente sin frotar las puntas decoloradas."
-        },
-        {
-          "name": "Paso 2: Control de humedad al 70 % con toalla de microfibra",
-          "text": "Antes de aplicar tu tratamiento reconstructor o mascarilla, presiona suavemente el cabello con una toalla de microfibra para retirar el agua que gotea; recuerda que si aplicas K18 NO debes poner acondicionador antes."
-        },
-        {
-          "name": "Paso 3: Dosificación exacta en las palmas y tiempo de exposición",
-          "text": "Mide tu dosis exacta en pumps o mililitros (1 a 2 pumps para K18 esperando 4 minutos; 5 ml en húmedo durante 20 minutos para Olaplex No. 3; o 5–10 minutos para mascarillas como Olaplex No. 8 y Elizavecca CER-100)."
-        },
-        {
-          "name": "Paso 4: Sellado ácido y blindaje térmico antes del secado",
-          "text": "Aplica tu protector térmico hasta 450 °F (Redken Acidic Bonding Leave-In, Color Wow Dream Coat o Kenra Blow-Dry Spray), desenreda de puntas a raíz con un cepillo flexible y finaliza en seco con 2 gotas de Olaplex No. 7 Bonding Oil."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas sobre cómo adaptar que es la porosidad capilar alta media y baja a tu tipo exacto de cabello? Consulta gratis en vivo a nuestra Asesora Capilar IA."
+      "text": "La porosidad no es un rasgo genético estático: es una condición dinámica que cambia a lo largo del mismo tallo capilar. Para que un tinte permanente o un decolorante funcione, utiliza un agente alcalino (amoníaco o monoetanolamina) que eleva el pH del cabello desde su estado natural ácido (**pH 4.5 – 5.5**) hasta un nivel altamente alcalino (**pH 9.0 – 11.0**). Ese choque alcalino hincha la fibra y abre las escamas a la fuerza para que el peróxido de hidrógeno oxide la melanina. El problema es que cada proceso químico destruye parte de la capa **18-MEA**, alterando por completo las propiedades superficiales, como explicamos a fondo al analizar las [diferencias de carga eléctrica entre cabello virgen, teñido y decolorado](/tipo-de-cabello-y-porosidad/cabello-virgen-vs-cabello-tenido-vs-cabello-decolorado-diferencias-de-carga-electrica/). Por eso, una persona con porosidad baja de nacimiento pasa a tener **porosidad media** tras dos tintes globales, y salta directamente a **porosidad alta extrema** tras una decoloración a rubio nivel 9 o 10."
     },
     {
       "type": "h2",
-      "text": "Errores frecuentes que debes evitar para no malgastar producto"
+      "text": "Qué ingredientes del catálogo elegir según el nivel de porosidad de tu cabello teñido"
+    },
+    {
+      "type": "p",
+      "text": "Una vez que entiendes este mecanismo —incluyendo [por qué el cabello de porosidad alta se seca de inmediato pero siempre se siente seco](/tipo-de-cabello-y-porosidad/por-que-el-cabello-de-porosidad-alta-se-seca-de-inmediato-pero-siempre-se-siente-seco/) porque sus «puertas» cuticulares quedaron rotas y dejan escapar el agua por evaporación—, puedes seleccionar exactamente la molécula que tu hebra necesita en nuestro [hub de tipo de cabello y porosidad](/tipo-de-cabello-y-porosidad/):"
     },
     {
       "type": "ul",
       "items": [
-        "**Usar más cantidad creyendo que reparará más rápido:** la fibra capilar tiene un límite físico de absorción; el excedente solo apelmaza y duplica tu costo por aplicación.",
-        "**Aplicar tratamientos caros sobre cabello chorreando agua:** el agua libre bloquea la entrada al córtex y hace que la crema resbale al desagüe.",
-        "**No alternar proteínas con hidratación lipídica:** abusar de la queratina sin aportar humectantes y aceites (como Moroccanoil o Color Wow Money Masque) vuelve la hebra rígida.",
-        "**Planchar a 410 °F–450 °F sobre cabello decolorado:** degrada el matiz rubio a amarillo en una sola pasada y destruye los puentes disulfuro recién reparados."
+        "**Si tu pelo teñido sigue en Porosidad Baja (tinte oscuro o sin decoloración):** Evita mascarillas pesadas con mantecas o colágeno denso que se quedarán en la superficie. Usa tratamientos de penetración molecular líquida como **Olaplex No. 0 + Olaplex No. 3** antes del champú para reparar enlaces internos sin dejar residuo graso externo.",
+        "**Si tu pelo está en Porosidad Media (tinte global o reflejos suaves niveles 6-7):** Tu prioridad es impedir que la cutícula siga abriéndose con los lavados. Incorpora el sistema **Redken Acidic Bonding Concentrate** (con ácido cítrico a **pH 4.5**) y **L’Oréal Professionnel Metal Detox Mask** con **Glicoamina al 10 %** para evitar que el cobre del agua de ducha oxide la fibra.",
+        "**Si tu pelo saltó a Porosidad Alta por decoloración (rubios, balayage o mechas niveles 8-10):** Necesitas una triple estrategia de reconstrucción interna, relleno proteico y sellado ácido: usa **K18 Leave-In Molecular Repair Hair Mask** (cuyo péptido **sh-Oligopeptide-78** reconecta las cadenas de queratina en **4 minutos**), alterna en otros lavados con **Elizavecca CER-100 Collagen Coating Hair Protein Treatment** para rellenar los huecos porosos en **5 minutos**, y sella siempre en húmedo con un leave-in ácido y **2 gotas de Olaplex No. 7**."
       ]
     },
     {
-      "type": "h2",
-      "text": "Productos recomendados en Amazon Estados Unidos y España"
-    },
-    {
-      "type": "p",
-      "text": "Para poner en práctica esta guía con la mejor relación calidad-precio por aplicación, revisa nuestra selección en Amazon: desde **[K18 Leave-In Molecular Repair Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)** y **[Olaplex No. 3 Hair Perfector](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)** hasta **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)** y la económica **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "type": "cta",
+      "text": "¿No estás segura de si tu cabello teñido tiene porosidad media, alta o mixta? Consulta ahora al Asesor IA del sitio o verifica la disponibilidad de los tratamientos recomendados en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla más importante sobre que es la porosidad capilar alta media y baja?",
-      "a": "La porosidad mide cuán abiertas o cerradas están las escamas de tu cutícula: toda decoloración eleva la porosidad, haciendo que el pelo absorba agua rápido pero la pierda igual de rápido. Además, respeta siempre los minutos de espera en cabello húmedo al 70% y mide la dosis en pumps o mililitros según tu grosor capilar."
+      "q": "¿Se puede bajar la porosidad alta de un cabello decolorado para que vuelva a ser media?",
+      "a": "Técnicamente no se puede regenerar la cutícula muerta que ya se desprendió en una decoloración, pero sí se puede simular funcionalmente una porosidad media. Esto se logra reconectando las cadenas internas con K18, rellenando los huecos con proteínas hidrolizadas (como Elizavecca CER-100) y manteniendo las escamas restantes selladas con productos de pH ácido (4.0 a 4.5) como Redken Acidic Bonding."
     },
     {
-      "q": "¿Cómo adapto este consejo si mi cabello es muy fino y decolorado?",
-      "a": "En cabello fino utiliza la mitad de la dosis estándar (ej. 1 solo pump de K18 o 1 gota de Olaplex No. 7), concéntralo de medios a puntas lejos de la raíz y prioriza texturas ligeras como Wella Ultimate Repair o Color Wow Money Masque."
+      "q": "¿Por qué el cabello de porosidad alta pierde el matiz rubio o el tinte en solo 2 o 3 lavados?",
+      "a": "Porque tiene las escamas de la cutícula completamente abiertas y carece del cemento lipídico que retiene los pigmentos pequeños. De la misma manera que el agua entra y sale rápido, las moléculas del matiz violeta o ceniza son arrastradas hacia afuera cada vez que mojas el pelo con agua tibia o champú."
     },
     {
-      "q": "¿Qué producto de Amazon ofrece el mejor costo por aplicación para complementar este paso?",
-      "a": "Para sellado diario de puntas y protección térmica hasta 450 °F, Olaplex No. 7 Bonding Oil cuesta solo ~$0.25 USD por uso (120+ aplicaciones); y como mascarilla de colágeno y ceramidas, Elizavecca CER-100 cuesta ~$0.55 USD por aplicación."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Journal of Cosmetic Science – Hair Porosity, pH & Peptide Repair",
-      "url": "https://www.scconline.org/"
-    },
-    {
-      "label": "International Journal of Cosmetic Science",
-      "url": "https://onlinelibrary.wiley.com/journal/14682494"
+      "q": "¿Es posible tener el cabello teñido y aun así tener porosidad baja?",
+      "a": "Sí, ocurre cuando solo te tiñes con tintes oscuros o baño de color de bajo volumen de peróxido sobre una base genéticamente muy compacta (común en cabello liso asiático o latino virgen grueso), o en los primeros 8 a 10 cm de raíz donde aún no ha llegado la decoloración de tus mechas."
     }
   ],
   "related": [
-    "/tipo-de-cabello-y-porosidad/",
-    "/tipo-de-cabello-y-porosidad/por-que-el-test-del-vaso-de-agua-falla-y-como-medir-tu-porosidad-real/",
-    "/tipo-de-cabello-y-porosidad/resumen-como-personalizar-tu-cuidado-capilar-al-100/",
-    "/comparativas/k18-vs-olaplex-no-3/"
+    "/tipo-de-cabello-y-porosidad/por-que-el-cabello-de-porosidad-alta-se-seca-de-inmediato-pero-siempre-se-siente-seco/",
+    "/tipo-de-cabello-y-porosidad/cabello-virgen-vs-cabello-tenido-vs-cabello-decolorado-diferencias-de-carga-electrica/",
+    "/tipo-de-cabello-y-porosidad/que-productos-evitar-si-tienes-el-cabello-rizado-y-decolorado/",
+    "/tipo-de-cabello-y-porosidad/como-cuidar-cabello-corto-bob-o-pixie-decolorado/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/que-es-la-porosidad-capilar-alta-media-y-baja-en-pelo-tenido.webp"
 }

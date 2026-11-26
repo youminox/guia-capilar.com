@@ -4,161 +4,128 @@
   "path": "/ingredientes-y-ciencia-capilar/diferencia-entre-siliconas-solubles-volatiles-y-pesadas-en-productos-capilares/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "tipos de siliconas en productos capilares guia",
   "title": "Guía de Siliconas Capilares: Diferencia entre Siliconas Volátiles, Amodimeticona y Dimeticona en Pelo Teñido",
-  "seoTitle": "Guía de Siliconas Capilares | Guía Capilar",
-  "metaDescription": "Guía de Siliconas Capilares: Diferencia entre Siliconas Volátiles, Amodimeticona y Dimeticona en Pelo Teñido: No todas las siliconas son iguales: descubre por qué en cabello decolorado las siliconas de última generación reducen la rotura del cepillado y protegen del calor a 450 °F. Guía paso a paso según tipo de cabello, forma de uso y costo por aplicación en Amazon.",
-  "excerpt": "No todas las siliconas son iguales: descubre por qué en cabello decolorado las siliconas de última generación reducen la rotura del cepillado y protegen del calor a 450 °F.",
-  "quickAnswer": "Sobre tipos de siliconas en productos capilares guia: No todas las siliconas son iguales: descubre por qué en cabello decolorado las siliconas de última generación reducen la rotura del cepillado y protegen del calor a 450 °F. Para maximizar resultados y ahorrar en cada dosis, aplica el producto sobre cabello húmedo secado con toalla de microfibra, respeta los minutos exactos de actuación y sella siempre a pH 4.5 con protector térmico.",
-  "readingMinutes": 7,
+  "seoTitle": "Guía de Siliconas Capilares: Diferencia entre Siliconas Volátiles, Amodimeticona y Dimeticona en Pelo Teñido | guia-capilar.com",
+  "metaDescription": "Guía técnica de tipos de siliconas en productos capilares: diferencias entre siliconas volátiles, solubles (PEG), amodimeticona y dimeticona en pelo teñido.",
+  "excerpt": "Aprende a distinguir en el INCI las siliconas volátiles, solubles en agua (PEG), selectivas (amodimeticona) y filmógenas (dimeticona) para proteger el cabello teñido sin apelmazarlo.",
+  "quickAnswer": "No todas las siliconas actúan igual en el cabello teñido: las **volátiles** (*Cyclopentasiloxane*) se evaporan solas tras repartir el producto; las **solubles en agua** (con prefijo *PEG-*) se aclaran sin champú; las **catiónicas selectivas** (*Amodimethicone*) se adhieren solo a las zonas dañadas con carga negativa sin acumularse; y las **filmógenas clásicas** (*Dimethicone*, *Dimethiconol*) crean un escudo térmico e hidrofóbico continuo que se limpia con tensioactivos moderados.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Photorealistic editorial haircare photography: fine heat protectant spray mist shielding color-treated hair before passing a ceramic flat iron or blow-dryer (tipos de siliconas en productos capilares guia). Composition: side-profile salon blow-dry scene with a concentrator nozzle at 45 degrees and smooth frizz-free hair, featuring pastel rose-gold and champagne blonde highlighted hair with smooth ends, set in bright Scandinavian white marble bathroom in crisp morning daylight. Ultra-realistic skin and hair fiber cuticle texture, DSLR 85mm f/2.0 lens, no text, no brand logos, no watermarks.",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Guía de Siliconas Capilares: Diferencia entre Siliconas Volátiles, Amodimeticona y Dimeticona en Pelo Teñido' (tipos de siliconas en productos capilares guia) for guia-capilar.com, featuring equipment in warm sand beige with matte black hardware, in a clean modern garage or studio corner with slate flooring, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Guía de Siliconas Capilares: Diferencia entre Siliconas Volátiles, Amodimeticona y Dimeticona en Pelo Teñido"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando cuidas un cabello teñido, con mechas *balayage* o decolorado, comprender con exactitud **tipos de siliconas en productos capilares guia** marca la diferencia entre gastar dinero en productos que se quedan en la superficie o lograr una fibra fuerte, elástica y con brillo espejo. No todas las siliconas son iguales: descubre por qué en cabello decolorado las siliconas de última generación reducen la rotura del cepillado y protegen del calor a 450 °F."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía especializada del silo de **[Ingredientes Y Ciencia Capilar](/ingredientes-y-ciencia-capilar/)** analizamos el fundamento químico, la adaptación por tipo de cabello (fino, medio, grueso o rizado), la forma de aplicación al minuto y el impacto en el **costo por aplicación** con los tratamientos líderes de Amazon Estados Unidos y España: **[K18 Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)**, **[Olaplex No. 3](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)**, **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)**, **[L’Oréal Metal Detox](/resenas-tratamientos-y-productos/loreal-professionnel-metal-detox-mask/)** y **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**."
+      "text": "Si alguna vez compraste un sérum que dejó tu melena brillante durante diez minutos y totalmente lacia a la hora, o un acondicionador «libre de siliconas» con el que perdiste veinte cabellos al pasar el peine tras decolorarte, necesitas separar el marketing de la química de polímeros. Como explicamos en nuestro [hub de ingredientes y ciencia capilar](/ingredientes-y-ciencia-capilar/), las siliconas derivadas del silicio (**polidimetilsiloxanos**) se dividen en **cuatro familias con comportamientos opuestos** sobre el pelo teñido."
     },
     {
       "type": "h2",
-      "text": "Fundamento tricológico y tabla técnica: tipos de siliconas en productos capilares guia"
+      "text": "Siliconas volátiles vs. solubles en agua: el secreto de los sérums que no engrasan"
     },
     {
       "type": "p",
-      "text": "El cabello procesado químicamente presenta una cutícula más abierta (porosidad media a alta) y una reducción de enlaces disulfuro y lípidos 18-MEA. Por eso, aplicar correctamente lo relativo a **tipos de siliconas en productos capilares guia** evita tanto la sobrecarga cosmética (apelmazamiento o rigidez proteica) como la rotura por fatiga higral o térmica."
+      "text": "Cuando lees los primeros ingredientes de un aceite capilar profesional —aplicando siempre [la regla del 1 % para leer el INCI](/ingredientes-y-ciencia-capilar/como-leer-el-inci-de-un-producto-capilar-la-regla-del-1-por-ciento/)— suele aparecer **Cyclopentasiloxane**, **Cyclomethicone** o **Disiloxane**. Son **siliconas cíclicas volátiles**: su función es actuar como un vehículo líquido ultraligero que reparte de forma homogénea unas gotas de activos pesados (como argán o dimeticonol) por toda la melena y, al cabo de **15 a 30 minutos** o con el aire del secador, **se evaporan por completo al aire** sin dejar residuo alguno. En cambio, las **siliconas solubles en agua** llevan el prefijo **PEG-** (polietilenglicol, como *PEG-12 Dimethicone* o *Dimethicone Copolyol*): se disuelven al simple contacto con el agua de la ducha sin requerir siquiera champú."
+    },
+    {
+      "type": "h2",
+      "text": "Dimeticona, Dimeticonol y Amodimeticona: cuándo necesitas un escudo hidrofóbico real"
+    },
+    {
+      "type": "p",
+      "text": "El cabello decolorado es extremadamente **hidrofílico** (absorbe la humedad ambiental y se hincha rompiendo el peinado, fenómeno vinculado a [cómo interactúa la glicerina con el punto de rocío](/ingredientes-y-ciencia-capilar/como-funciona-la-glicerina-en-el-cabello-decolorado-punto-de-rocio/)). Para devolverle su carácter hidrofóbico existen dos vías: la **amodimeticona** (catiónica y selectiva, que solo se pega al daño) y las siliconas filmógenas clásicas como **Dimethicone** y **Dimethiconol**. Estas últimas poseen baja conductividad térmica, por lo que amortiguan la transferencia violenta de calor de la plancha a **200 °C** y sellan las puntas abiertas en cabellos gruesos o altamente porosos."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia capilar y costo por uso para: tipos de siliconas en productos capilares guia",
       "headers": [
-        "Variable Capilar",
-        "Ajuste / Protocolo Óptimo",
-        "Impacto en tu Cabello y Costo/Dosis"
+        "Categoría de silicona",
+        "Nombres clave en la etiqueta INCI",
+        "Cómo se comporta y cómo se retira",
+        "Tipo de cabello teñido ideal"
       ],
       "rows": [
         [
-          "Diagnóstico principal",
-          "No todas las siliconas son iguales: descubre por qué en cabello decolorado las siliconas de última generación reducen la rotura del cepillado y protegen del calor a 450 °F.",
-          "Evita compras innecesarias y mejora la absorción"
+          "1. Siliconas Volátiles (Evaporables)",
+          "Cyclopentasiloxane, Cyclohexasiloxane, Disiloxane",
+          "Reparte el producto y se evapora al aire al 100 % en minutos",
+          "Todo tipo de pelo, especialmente fino o con tendencia grasa"
         ],
         [
-          "Cabello Fino Decolorado",
-          "Dosis mínima (1 pump / 2-3 ml) sin mantecas pesadas",
-          "Repara sin quitar volumen y el envase dura el doble"
+          "2. Siliconas Solubles en Agua",
+          "PEG-12 Dimethicone, PEG-8 Methicone, Dimethicone Copolyol",
+          "Aporta deslizamiento ligero y se aclara solo con agua tibia",
+          "Cabello fino, ondulado o rutinas de lavado muy suave"
         ],
         [
-          "Cabello Medio a Grueso / Rizado",
-          "Dosis estándar (2-3 pumps / 5-10 ml) + sellado lipídico",
-          "Restaura elasticidad, controla el frizz y sella puntas"
+          "3. Siliconas Catiónicas Selectivas",
+          "Amodimethicone (más aún con Trideceth-12 y Cetrimonium Chloride)",
+          "Se une por carga + solo a zonas dañadas (-) sin acumularse",
+          "Mechas balayage, rubios decolorados niveles 8–10 y puntas porosas"
         ],
         [
-          "pH y Humedad de Aplicación",
-          "Humedad al 70% (secado con microfibra) y cierre a pH 4.5",
-          "Impide que el agua diluya el activo o que el tinte se fugue"
-        ],
-        [
-          "Termoprotección Obligatoria",
-          "Escudo hasta 450 °F (230 °C) con plancha a máx. 330–365 °F",
-          "Protege los enlaces reparados por solo ~$0.25–$0.75/uso"
+          "4. Siliconas Filmógenas Clásicas",
+          "Dimethicone, Dimethiconol, Phenyl Trimethicone, Cetearyl Methicone",
+          "Envuelve toda la hebra contra frizz y calor; requiere champú con tensioactivo",
+          "Cabello grueso, muy poroso, encrespado o que usa plancha frecuente"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de tricología y ahorro sobre tipos de siliconas en productos capilares guia",
-      "text": "No todas las siliconas son iguales: descubre por qué en cabello decolorado las siliconas de última generación reducen la rotura del cepillado y protegen del calor a 450 °F. Recuerda ajustar siempre la cantidad en mililitros o pumps al grosor de tu cabello y sellar la cutícula a pH 4.5–5.0 con protección térmica antes de aplicar calor."
+      ],
+      "caption": "Clasificación técnica de las 4 familias de siliconas capilares en el INCI"
     },
     {
       "type": "h2",
-      "text": "Protocolo paso a paso para aplicar tipos de siliconas en productos capilares guia en casa"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este método de 4 pasos verificados para obtener resultados de salón optimizando cada gota de producto:"
+      "text": "Cómo limpiar el exceso de siliconas pesadas sin oxidar ni barrer el tinte"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Limpieza selectiva en raíz sin fricción en puntas",
-          "text": "Lava el cuero cabelludo con un champú sin sulfatos de pH ácido (o un champú quelante como L’Oréal Metal Detox / K18 Detox si toca limpieza profunda) y deja que la espuma deslice verticalmente sin frotar las puntas decoloradas."
+          "name": "Identifica si sufres acumulación real (Buildup)",
+          "text": "Si usas a diario sérums con Dimethicone y Dimethiconol sin lavar bien los medios, notarás que las mascarillas reparadoras resbalan y las puntas se sienten opacas o impermeables al agua."
         },
         {
-          "name": "Paso 2: Control de humedad al 70 % con toalla de microfibra",
-          "text": "Antes de aplicar tu tratamiento reconstructor o mascarilla, presiona suavemente el cabello con una toalla de microfibra para retirar el agua que gotea; recuerda que si aplicas K18 NO debes poner acondicionador antes."
+          "name": "Realiza un reseteo selectivo cada 3 o 4 semanas",
+          "text": "En lugar de usar un champú de supermercado con Lauril Sulfato de Sodio (SLS) que arrastra el tinte, aplica un limpiador técnico con ácido salicílico y carbón activado o tensioactivos quelantes suaves."
         },
         {
-          "name": "Paso 3: Dosificación exacta en las palmas y tiempo de exposición",
-          "text": "Mide tu dosis exacta en pumps o mililitros (1 a 2 pumps para K18 esperando 4 minutos; 5 ml en húmedo durante 20 minutos para Olaplex No. 3; o 5–10 minutos para mascarillas como Olaplex No. 8 y Elizavecca CER-100)."
-        },
-        {
-          "name": "Paso 4: Sellado ácido y blindaje térmico antes del secado",
-          "text": "Aplica tu protector térmico hasta 450 °F (Redken Acidic Bonding Leave-In, Color Wow Dream Coat o Kenra Blow-Dry Spray), desenreda de puntas a raíz con un cepillo flexible y finaliza en seco con 2 gotas de Olaplex No. 7 Bonding Oil."
+          "name": "Aprovecha la fibra limpia para tu tratamiento molecular",
+          "text": "El día que retires las siliconas filmógenas es el momento perfecto para aplicar K18 Leave-In Molecular Repair Mask, ya que las cadenas de queratina estarán totalmente despejadas para recibir el péptido."
         }
       ]
     },
     {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Existe el mito de que solo el *Sodium Lauryl Sulfate (SLS)* puede lavar la **Dimethicone**. En la química cosmética actual, tensioactivos sin sulfatos como el **Sodium Lauroyl Methyl Isethionate**, el **Sodium C14-16 Olefin Sulfonate** o combinaciones de **Sodium Cocoyl Isethionate + Cocamidopropyl Betaine** emulsionan y retiran la dimeticona a la perfección sin desteñir tu color.",
+      "title": "Falso mito: «Solo los sulfatos agresivos eliminan la dimeticona»"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas sobre cómo adaptar tipos de siliconas en productos capilares guia a tu tipo exacto de cabello? Consulta gratis en vivo a nuestra Asesora Capilar IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes que debes evitar para no malgastar producto"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Usar más cantidad creyendo que reparará más rápido:** la fibra capilar tiene un límite físico de absorción; el excedente solo apelmaza y duplica tu costo por aplicación.",
-        "**Aplicar tratamientos caros sobre cabello chorreando agua:** el agua libre bloquea la entrada al córtex y hace que la crema resbale al desagüe.",
-        "**No alternar proteínas con hidratación lipídica:** abusar de la queratina sin aportar humectantes y aceites (como Moroccanoil o Color Wow Money Masque) vuelve la hebra rígida.",
-        "**Planchar a 410 °F–450 °F sobre cabello decolorado:** degrada el matiz rubio a amarillo en una sola pasada y destruye los puentes disulfuro recién reparados."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Productos recomendados en Amazon Estados Unidos y España"
-    },
-    {
-      "type": "p",
-      "text": "Para poner en práctica esta guía con la mejor relación calidad-precio por aplicación, revisa nuestra selección en Amazon: desde **[K18 Leave-In Molecular Repair Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)** y **[Olaplex No. 3 Hair Perfector](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)** hasta **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)** y la económica **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Explora las mascarillas y protectores térmicos con siliconas selectivas disponibles en las tarjetas de Amazon de esta página o consulta a nuestro Asesor IA para revisar la compatibilidad de tu rutina actual."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla más importante sobre tipos de siliconas en productos capilares guia?",
-      "a": "No todas las siliconas son iguales: descubre por qué en cabello decolorado las siliconas de última generación reducen la rotura del cepillado y protegen del calor a 450 °F. Además, respeta siempre los minutos de espera en cabello húmedo al 70% y mide la dosis en pumps o mililitros según tu grosor capilar."
+      "q": "¿Son malas las siliconas para el cabello decolorado o con mechas?",
+      "a": "Al contrario: si usas secador o plancha en cabello decolorado, prescindir de siliconas filmógenas o catiónicas aumenta drásticamente la rotura por fricción mecánica y daño térmico. Las siliconas reducen el coeficiente de roce al peinar y frenan la evaporación brusca del agua interna del córtex."
     },
     {
-      "q": "¿Cómo adapto este consejo si mi cabello es muy fino y decolorado?",
-      "a": "En cabello fino utiliza la mitad de la dosis estándar (ej. 1 solo pump de K18 o 1 gota de Olaplex No. 7), concéntralo de medios a puntas lejos de la raíz y prioriza texturas ligeras como Wella Ultimate Repair o Color Wow Money Masque."
+      "q": "¿El Cyclopentasiloxane se acumula en el cabello con el uso diario?",
+      "a": "No. El Cyclopentasiloxane tiene una presión de vapor elevada a temperatura ambiente y corporal, lo que significa que tras ayudar a extender el sérum sobre el cabello se evapora por completo en pocos minutos. Es físicamente imposible que genere acumulación a largo plazo."
     },
     {
-      "q": "¿Qué producto de Amazon ofrece el mejor costo por aplicación para complementar este paso?",
-      "a": "Para sellado diario de puntas y protección térmica hasta 450 °F, Olaplex No. 7 Bonding Oil cuesta solo ~$0.25 USD por uso (120+ aplicaciones); y como mascarilla de colágeno y ceramidas, Elizavecca CER-100 cuesta ~$0.55 USD por aplicación."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Journal of Cosmetic Science – Hair Porosity, pH & Peptide Repair",
-      "url": "https://www.scconline.org/"
-    },
-    {
-      "label": "International Journal of Cosmetic Science",
-      "url": "https://onlinelibrary.wiley.com/journal/14682494"
+      "q": "¿Qué diferencia al Phenyl Trimethicone de la dimeticona normal?",
+      "a": "El Phenyl Trimethicone posee un grupo fenilo en su estructura que eleva su índice de refracción de la luz hasta 1.46 (muy cercano al 1.55 de la queratina natural), proporcionando un acabado de brillo espejo inmediato superior al de la dimeticona estándar sin añadir peso graso."
     }
   ],
   "related": [
-    "/ingredientes-y-ciencia-capilar/",
-    "/ingredientes-y-ciencia-capilar/que-es-el-hemiescualano-en-k18-oil-y-living-proof/",
-    "/ingredientes-y-ciencia-capilar/que-es-la-amodimeticona-la-silicona-inteligente-para-cabello-decolorado/",
-    "/comparativas/k18-vs-olaplex-no-3/"
+    "/ingredientes-y-ciencia-capilar/como-funciona-la-glicerina-en-el-cabello-decolorado-punto-de-rocio/",
+    "/ingredientes-y-ciencia-capilar/diferencia-entre-aceites-penetrantes-coco-oliva-y-aceites-selladores-jojoba-argan-escualano/",
+    "/ingredientes-y-ciencia-capilar/como-actua-el-carbon-activado-y-el-acido-salicilico-en-k18-detox-shampoo/",
+    "/ingredientes-y-ciencia-capilar/como-leer-el-inci-de-un-producto-capilar-la-regla-del-1-por-ciento/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/diferencia-entre-siliconas-solubles-volatiles-y-pesadas-en-productos-capilares.webp"
 }

@@ -3,159 +3,133 @@
   "pillar": "cabello-tenido-y-matizacion",
   "path": "/cabello-tenido-y-matizacion/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "cuidado del cabello teñido y cómo matizar mechas",
   "title": "Cuidado del Cabello Teñido, Mechas Balayage y Matización con Champú Violeta o Azul",
-  "seoTitle": "Cuidado del Cabello Teñido y Cómo Matizar Rubios o Mechas con Champú Violeta y Azul",
-  "metaDescription": "Cuidado del Cabello Teñido, Mechas Balayage y Matización con Champú Violeta o Azul: hub completo con 60 guías sobre retención del pigmento en cabello teñido (rubio, balayage, cobrizo, rojo y castaño), tiempos exactos del champú morado y azul sin resecar y protección contra la oxidación del sol y el agua dura y ofertas en Amazon EE. UU. y España.",
-  "excerpt": "Explora las 60 guías especializadas de este silo sobre retención del pigmento en cabello teñido (rubio, balayage, cobrizo, rojo y castaño), tiempos exactos del champú morado y azul sin resecar y protección contra la oxidación del sol y el agua dura.",
-  "quickAnswer": "En esta sección principal de Cuidado del Cabello Teñido, Mechas Balayage y Matización con Champú Violeta o Azul reunimos 60 guías verificadas sobre retención del pigmento en cabello teñido (rubio, balayage, cobrizo, rojo y castaño), tiempos exactos del champú morado y azul sin resecar y protección contra la oxidación del sol y el agua dura, diseñadas para ayudarte a elegir y aplicar mascarillas, tratamientos como K18 y Olaplex, champús y protectores térmicos optimizando tu costo por aplicación en Amazon.",
+  "seoTitle": "Cuidado del Cabello Teñido, Mechas Balayage y Matización con Champú Violeta o Azul | guia-capilar.com",
+  "metaDescription": "Guía de matización y cuidado del cabello teñido o con balayage: círculo cromático, uso de champú violeta o azul (Fanola, Olaplex 4P) y retención del color.",
+  "excerpt": "Aprende a neutralizar reflejos amarillos y naranjas según tu altura de tono usando pigmentos violetas o azules sin resecar las mechas, y evita la oxidación causada por el cobre del agua y la plancha.",
+  "quickAnswer": "La matización correcta depende de la altura de decoloración y del círculo cromático: los rubios en **nivel 9 a 10** requieren pigmento violeta (**Olaplex No. 4P** o **Fanola No Yellow**) para anular el amarillo, mientras que las mechas en **nivel 6 a 8** necesitan pigmento azul (**Fanola No Orange**) para neutralizar reflejos cobrizos. Además, usar quelantes con **Glicoamina al 10 %** evita que el cobre del agua vire el tono.",
   "readingMinutes": 8,
   "image": {
-    "prompt": "Photorealistic macro shot of rich deep violet toning shampoo lather next to a swatch of cool ash-blonde hair and warm copper dyed hair on a clean ceramic tray, natural daylight",
-    "alt": "Espuma de champú violeta matizador junto a mechones de cabello rubio ceniza y cobrizo"
+    "prompt": "Macro texture and build-quality detail shot with shallow depth of field: realistic scene illustrating 'Cuidado del Cabello Teñido, Mechas Balayage y Matización con Champú Violeta o Azul' (cuidado del cabello teñido y cómo matizar mechas) for guia-capilar.com, featuring equipment in terracotta copper accent with matte slate body, in a bright family home interior with clean architectural lines, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Cuidado del Cabello Teñido, Mechas Balayage y Matización con Champú Violeta o Azul"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Cuidado del Cabello Teñido, Mechas Balayage y Matización con Champú Violeta o Azul** en **GuíaCapilar.com**. Aquí reunimos toda la ciencia tricológica, pruebas de aplicación y análisis financiero sobre **retención del pigmento en cabello teñido (rubio, balayage, cobrizo, rojo y castaño), tiempos exactos del champú morado y azul sin resecar y protección contra la oxidación del sol y el agua dura**, estructurados bajo una arquitectura sin canibalización para que elijas el producto exacto antes de consultar precios y comprar en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si necesitas rescatar un cabello decolorado con el péptido de 4 minutos **[K18 Leave-In Molecular Repair Mask](/resenas-tratamientos-y-productos/k18-leave-in-molecular-repair-hair-mask/)**, fortalecer puentes disulfuro en húmedo con **[Olaplex No. 3 Hair Perfector](/resenas-tratamientos-y-productos/olaplex-no-3-hair-perfector/)**, sellar la cutícula a pH 4.5 con **[Redken Acidic Bonding Concentrate](/resenas-tratamientos-y-productos/redken-acidic-bonding-concentrate-intensive-treatment/)** o cuidar tu bolsillo con **[Elizavecca CER-100](/resenas-tratamientos-y-productos/elizavecca-cer-100-collagen-coating-protein-treatment/)**, este silo responde cada duda paso a paso."
+      "text": "Salir del salón con unas mechas balayage beige frío o un cobrizo vibrante impecable y descubrir quince días después que la melena ha virado a un amarillo huevo o a un naranja apagado es una de las mayores frustraciones del cabello procesado. Este cambio de tono no ocurre solo porque el agua arrastre las moléculas de tinte: es el resultado de tres procesos químicos combinados que puedes neutralizar en casa si aplicas con precisión el círculo cromático, bloqueas el cobre del agua de ducha y controlas la temperatura de tu plancha."
     },
     {
       "type": "h2",
-      "text": "Criterios de evaluación en Cuidado del Cabello Teñido, Mechas Balayage y Matización con Champú Violeta o Azul"
+      "text": "Química del círculo cromático: cuándo usar pigmento violeta y cuándo aplicar pigmento azul"
     },
     {
       "type": "p",
-      "text": "En cada una de las **60 guías especializadas** de esta categoría evaluamos cuatro variables objetivas: **adecuación por tipo de cabello y porosidad** (fino, medio, grueso o rizado), **mecanismo químico del activo** (péptidos, enlaces disulfuro, ácido cítrico, quelantes o lípidos), **forma exacta de uso en minutos** y **costo real por aplicación en dólares ($/uso)**."
+      "text": "El error más habitual al intentar matizar mechas en casa es aplicar champú morado sobre cualquier aclaración. Cuando decoloras una base oscura, la melanina atraviesa fases de oxidación muy definidas: en las alturas **nivel 6, 7 y 8** predomina la feomelanina con un fondo residual naranja o cobrizo, mientras que en los **niveles 9 y 10** queda un fondo amarillo pálido. En el círculo cromático, el violeta solo anula al amarillo; si aplicas un champú violeta sobre mechas naranjas nivel 7, apenas notarás cambio. Para bases castañas con mechas caramelo o doradas-cobrizas necesitas pigmento azul puro como **Fanola No Orange Shampoo**, mientras que para rubios extra claros o platinos la elección técnica es **Fanola No Yellow** o **Olaplex No. 4P Blonde Enhancer Toning Shampoo**, que matiza mientras repara enlaces sin dejar la hebra áspera. Puedes profundizar en la rutina específica para tonos fríos en nuestra guía sobre [cómo mantener un rubio ceniza frío sin que vire a dorado](/cabello-tenido-y-matizacion/como-cuidar-el-cabello-rubio-ceniza-para-que-no-se-ponga-dorado/)."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Cuidado del Cabello Teñido, Mechas Balayage y Matización con Champú Violeta o Azul",
       "headers": [
-        "Guía Capilar Especializada",
-        "Acceso Directo"
+        "Altura de Tono / Coloración",
+        "Reflejo u Oxidación a Corregir",
+        "Pigmento / Producto Técnico Recomendado",
+        "Frecuencia y Tiempo en Húmedo"
       ],
       "rows": [
         [
-          "Cómo Usar el Champú Violeta o Morado sin Resecar el Cabello Rubio Decolorado",
-          "[Leer guía completa](/cabello-tenido-y-matizacion/como-usar-champu-violeta-sin-resecar-el-cabello-decolorado/)"
+          "Rubio Platino o Extra Claro (Nivel 9 a 10)",
+          "Amarillo huevo o dorado pálido",
+          "Pigmento Violeta (Olaplex No. 4P / Fanola No Yellow)",
+          "Cada 2 o 3 lavados durante 1 a 3 minutos"
         ],
         [
-          "Diferencia entre Champú Violeta y Champú Azul: Cuál Elegir según el Círculo Cromático Capilar",
-          "[Leer guía completa](/cabello-tenido-y-matizacion/diferencia-entre-champu-violeta-y-champu-azul-cual-necesitas/)"
+          "Castaño Iluminado o Balayage Miel (Nivel 6 a 8)",
+          "Naranja oxidado o reflejo cobrizo indeseado",
+          "Pigmento Azul Puro (Fanola No Orange Shampoo)",
+          "Semanal durante 2 a 4 minutos en zonas aclaradas"
         ],
         [
-          "Cuántos Minutos Exactos Dejar el Champú Violeta (Fanola u Olaplex 4P) según tu Altura de Rubio",
-          "[Leer guía completa](/cabello-tenido-y-matizacion/cuantos-minutos-dejar-el-champu-violeta-segun-tu-tono-de-rubio/)"
+          "Teñido Cobrizo, Pelirrojo o Ginger",
+          "Deslave prematuro de la molécula roja/cobre perdiendo vibración",
+          "Redken Acidic Bonding (pH 4.5) + Lavado sin sulfatos SLS/SLES",
+          "En cada lavado con agua tibia-fría (< 36 °C)"
         ],
         [
-          "Qué Hacer si Te Pasaste con el Champú Violeta y tus Mechas Quedaron Moradas o Lilas",
-          "[Leer guía completa](/cabello-tenido-y-matizacion/que-hacer-si-el-champu-violeta-dejo-tu-pelo-morado-o-gris/)"
-        ],
-        [
-          "Por Qué el Champú Violeta Deja las Puntas Lilas o Grises pero No Matiza la Zona Media Naranja",
-          "[Leer guía completa](/cabello-tenido-y-matizacion/por-que-el-champu-violeta-solo-agarra-en-las-puntas-y-no-en-la-raiz/)"
-        ],
-        [
-          "Matizar en Cabello Mojado vs en Cabello Húmedo Secado con Toalla: Cuándo Usar Cada Técnica",
-          "[Leer guía completa](/cabello-tenido-y-matizacion/como-aplicar-champu-matizador-en-seco-vs-en-mojado/)"
-        ],
-        [
-          "Cada Cuánto Tiempo Debes Usar el Champú Violeta o Azul para No Opacar ni Oscurecer el Rubio",
-          "[Leer guía completa](/cabello-tenido-y-matizacion/cada-cuanto-tiempo-usar-champu-violeta-o-azul/)"
-        ],
-        [
-          "Por Qué el Cabello Teñido o con Mechas se Oxida y se Pone Naranja o Amarillo con las Semanas",
-          "[Leer guía completa](/cabello-tenido-y-matizacion/por-que-el-cabello-tenido-se-oxida-y-se-pone-naranja-o-amarillo/)"
-        ],
-        [
-          "Cómo Mantener el Cabello Teñido de Cobrizo o Ginger Vibrante sin que se Deslave en 2 Semanas",
-          "[Leer guía completa](/cabello-tenido-y-matizacion/como-mantener-el-cabello-cobrizo-o-pelirrojo-intenso-por-mas-tiempo/)"
-        ],
-        [
-          "Cuidado del Cabello Teñido de Rojo Intenso, Cereza o Borgoña: Cómo Evitar que el Agua Salga Roja",
-          "[Leer guía completa](/cabello-tenido-y-matizacion/como-cuidar-el-cabello-tenido-de-rojo-intenso-o-borgona/)"
-        ],
-        [
-          "Cómo Cuidar Mechas Balayage Caramelo o Miel sobre Base Castaña (Morena Iluminada)",
-          "[Leer guía completa](/cabello-tenido-y-matizacion/como-cuidar-mechas-balayage-en-base-castana-oscura-o-morena/)"
-        ],
-        [
-          "Cómo Mantener un Rubio Ceniza Frío Impecable entre Visitas a la Peluquería",
-          "[Leer guía completa](/cabello-tenido-y-matizacion/como-cuidar-el-cabello-rubio-ceniza-para-que-no-se-ponga-dorado/)"
+          "Castaño Chocolate o Negro Azabache Teñido",
+          "Opacidad por cal y pérdida de reflejo frío espejo",
+          "L’Oréal Metal Detox Mask + Color Wow Dream Coat",
+          "Mascarilla semanal + Dream Coat cada 3-4 lavados"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "etiqueta",
-      "title": "Cómo elegir según tu daño y costo por aplicación",
-      "text": "Recuerda la regla fundamental: K18 (~$1.55-$2.30/uso) se aplica en 4 minutos SIN acondicionador previo para daño severo o cabello chicloso; Olaplex No. 3 (~$1.40/uso) es un pre-champú en húmedo de 15-30 minutos; Redken Acidic Bonding (~$1.15/uso) sella el pH 4.5 y protege hasta 450 °F; y Elizavecca CER-100 (~$0.55/uso) aporta colágeno hidrolizado por menos de $10 en Amazon."
+      ],
+      "caption": "Matriz de matización cromática y mantenimiento según altura de tono y coloración"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces de Amazon"
+      "text": "Factores invisibles que destiñen el color: metales pesados del agua y degradación térmica"
     },
     {
-      "type": "ol",
+      "type": "p",
+      "text": "Incluso si eliges el champú matizador perfecto, hay dos enemigos silenciosos que alteran el color en cuestión de minutos. El primero es la acumulación de iones de cobre, hierro y calcio procedentes de las tuberías en el interior de la fibra porosa, que oxidan el rubio y apagan el brillo; la solución clínica es quelar la hebra con **L’Oréal Professionnel Metal Detox Mask** (**250 ml**), cuya **Glicoamina al 10 %** es lo bastante pequeña para penetrar al córtex y neutralizar esos metales sin barrer el tinte. El segundo enemigo es el calor excesivo de las placas de titanio: como demostramos en nuestro artículo sobre [por qué la plancha a más de 380 °F quema el matiz del rubio](/cabello-tenido-y-matizacion/como-evitar-que-la-plancha-cambie-el-color-del-cabello-tenido/), una sola pasada a alta temperatura sublima los pigmentos violetas depositados por el matiz y tuesta la queratina volviéndola amarilla al instante. Asimismo, si llevas tonos fantasía, rojizos o oscuros profundos, revisa nuestros protocolos específicos sobre [cómo mantener el cabello cobrizo vibrante por más tiempo](/cabello-tenido-y-matizacion/como-mantener-el-cabello-cobrizo-o-pelirrojo-intenso-por-mas-tiempo/) y el [cuidado del brillo espejo en castaño chocolate o negro](/cabello-tenido-y-matizacion/como-cuidar-cabello-tenido-de-negro-o-castano-chocolate-para-que-brille/)."
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Las puntas de un cabello decolorado o con balayage tienen una porosidad hasta tres veces mayor que la zona media debido a la acumulación de procesos químicos previos. Si aplicas Fanola No Yellow u Olaplex No. 4P de raíz a puntas al mismo tiempo y esperas 5 minutos, las puntas absorberán un exceso de pigmento directo y quedarán violáceas o grises opacas mientras los medios siguen amarillos.",
+      "title": "Cuidado con la sobreabsorción: por qué las puntas porosas pueden quedar lilas o grises"
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo de matización homogénea en casa sin resecar la fibra decolorada"
+    },
+    {
+      "type": "steps",
       "items": [
-        "**Identifica tu porosidad y grosor:** un cabello fino decolorado necesita fórmulas sin peso (K18, Wella Ultimate Repair 90s, Color Wow Money Masque), mientras que uno grueso o rizado agradece lípidos densos (Moroccanoil, Kérastase Thérapiste, Olaplex No. 6).",
-        "**Respeta la dosis exacta en pumps o mililitros:** usar el doble de producto no repara el doble; satura la cutícula y duplica tu gasto mensual.",
-        "**Consulta el precio actualizado en tu tienda Amazon:** nuestras tarjetas apuntan por defecto a **Amazon Estados Unidos (`guia-capilar-20`)** y cambian automáticamente a **Amazon España (`guia-capilar-21`)** si navegas desde Europa."
+        {
+          "name": "Limpieza previa y control de humedad (Pre-matiz)",
+          "text": "Lava primero el cuero cabelludo con tu champú habitual sin sulfatos (como Olaplex No. 4 o L’Oréal Metal Detox), aclara y retira el exceso de agua con una toalla para que el agua libre no diluya el pigmento violeta o azul."
+        },
+        {
+          "name": "Aplicación selectiva en medios más cálidos (Minutos 1 a 2)",
+          "text": "Con guantes puestos, aplica el champú matizador (Fanola No Yellow, Fanola No Orange u Olaplex No. 4P) concentrándote primero en la zona media y de transición donde el amarillo o naranja es más intenso, evitando tocar las puntas blancas ultra porosas."
+        },
+        {
+          "name": "Emulsión rápida hacia las puntas (Últimos 30 a 45 segundos)",
+          "text": "Añade un poco de agua tibia, emulsiona la espuma arrastrándola hacia las puntas únicamente durante los últimos 30 a 45 segundos para refrescar el tono sin teñirlas de morado ni azul, y enjuaga abundantemente."
+        },
+        {
+          "name": "Cierre ácido de cutícula a pH 4.5 (Sellado post-matiz)",
+          "text": "Los champús matizadores suelen abrir ligeramente la escama para depositar pigmento; termina siempre aplicando L’Oréal Metal Detox Mask o Redken Acidic Bonding Concentrate durante 5 minutos para sellar la cutícula y retener el matiz."
+        }
       ]
     },
     {
       "type": "cta",
-      "text": "¿No sabes qué tratamiento, mascarilla o protector térmico de este silo necesita tu cabello hoy? Pregúntale en vivo a nuestra Asesora Capilar IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro para el cabello teñido o decolorado"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Lava sin sulfatos y quela los metales del agua:** usa champús a pH 4.5–5.5 (Pureology Hydrate, Olaplex No. 4) y desintoxica el cobre del agua dura con L’Oréal Metal Detox o K18 Detox.",
-        "**No uses acondicionador antes de K18:** espera siempre sus 4 minutos reglamentarios sobre cabello secado con toalla antes de aplicar cualquier crema o aceite.",
-        "**Alterna reconstrucción e hidratación:** los bondeadores reparan por dentro, pero necesitas mascarillas hidratantes/lipídicas (Olaplex No. 8, Moroccanoil) para dar suavidad y flexibilidad externa.",
-        "**Protección térmica obligatoria hasta 450 °F (230 °C):** jamás pases el secador o la plancha sobre pelo decolorado sin un escudo como Color Wow Dream Coat, Redken Acidic Leave-In, Kenra Blow-Dry o 2 gotas de Olaplex No. 7."
-      ]
+      "text": "Consulta la disponibilidad actual de champús matizadores, quelantes y selladores ácidos en las tarjetas de Amazon de esta página, o pregunta a nuestro Asesor IA qué pigmento exacto corresponde a tu nivel de decoloración."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Cuidado del Cabello Teñido, Mechas Balayage y Matización con Champú Violeta o Azul?",
-      "a": "Incluye 60 artículos técnicos detallados sobre retención del pigmento en cabello teñido (rubio, balayage, cobrizo, rojo y castaño), tiempos exactos del champú morado y azul sin resecar y protección contra la oxidación del sol y el agua dura, con tablas de dosificación en mililitros, tiempos de acción, costo por aplicación y enlaces directos a Amazon Estados Unidos y España."
+      "q": "¿Qué diferencia hay entre matizar con Olaplex No. 4P y usar Fanola No Yellow?",
+      "a": "Olaplex No. 4P combina pigmentos violetas altamente concentrados con la molécula reparadora Bis-Aminopropyl Diglycol Dimaleate y tensioactivos sin sulfatos, por lo que repara y deja la fibra más suave. Fanola No Yellow tiene una potencia de neutralización instantánea altísima para amarillos rebeldes, pero exige aplicar siempre una mascarilla nutritiva después."
     },
     {
-      "q": "¿Todas las guías están enfocadas en cabello teñido o decolorado?",
-      "a": "Sí, en GuíaCapilar.com priorizamos la recuperación, matización y protección térmica del cabello teñido, con mechas balayage o decolorado global, adaptando cada recomendación a tu grosor y porosidad."
+      "q": "¿Se puede usar el champú violeta o azul en cada lavado?",
+      "a": "No se recomienda usarlo en todos los lavados porque la acumulación progresiva de pigmento violeta o azul oscurece el rubio, apaga su luminosidad natural y puede resecar la cutícula. La frecuencia técnica ideal es de una vez cada 2 o 3 lavados, alternando con un champú reparador sin sulfatos."
     },
     {
-      "q": "¿Puedo pedir una rutina personalizada según mi presupuesto en Amazon?",
-      "a": "Por supuesto: abre el chat de la Asesora Capilar IA en la esquina inferior derecha, cuéntale cómo está tu cabello y tu presupuesto en dólares o euros y te armará tu rutina exacta."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Journal of Cosmetic Science – Hair Fiber & Disulfide Bond Repair",
-      "url": "https://www.scconline.org/"
-    },
-    {
-      "label": "American Academy of Dermatology (AAD) – Hair Dye & Bleach Care",
-      "url": "https://www.aad.org/"
+      "q": "¿Cómo quito el reflejo morado o gris si dejé el champú violeta demasiado tiempo?",
+      "a": "Lava la zona afectada inmediatamente con un champú clarificante o detox (como K18 Peptide Prep Detox) usando agua tibia y luego aplica una mascarilla densa como Elizavecca CER-100 o Olaplex No. 8 durante 10 minutos. El pigmento violeta es de depósito superficial y se desvanece por completo en 1 o 2 lavados."
     }
   ],
   "related": [
-    "/cabello-tenido-y-matizacion/como-usar-champu-violeta-sin-resecar-el-cabello-decolorado/",
-    "/cabello-tenido-y-matizacion/diferencia-entre-champu-violeta-y-champu-azul-cual-necesitas/",
-    "/cabello-tenido-y-matizacion/cuantos-minutos-dejar-el-champu-violeta-segun-tu-tono-de-rubio/",
-    "/cabello-tenido-y-matizacion/que-hacer-si-el-champu-violeta-dejo-tu-pelo-morado-o-gris/"
+    "/cabello-tenido-y-matizacion/como-mantener-el-cabello-cobrizo-o-pelirrojo-intenso-por-mas-tiempo/",
+    "/cabello-tenido-y-matizacion/como-cuidar-el-cabello-rubio-ceniza-para-que-no-se-ponga-dorado/",
+    "/cabello-tenido-y-matizacion/como-evitar-que-la-plancha-cambie-el-color-del-cabello-tenido/",
+    "/cabello-tenido-y-matizacion/como-cuidar-cabello-tenido-de-negro-o-castano-chocolate-para-que-brille/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/cabello-tenido-y-matizacion.webp"
 }
